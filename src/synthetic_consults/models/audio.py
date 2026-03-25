@@ -5,27 +5,22 @@ from typing import Literal
 from pydantic import BaseModel, Field
 
 
-class AudioPrefs(BaseModel):
-    voice_id: str
-    speaking_style: str
-    pace: Literal["slow", "normal", "fast"] = "normal"
+class AudioPaths(BaseModel):
+    full_audio: str
+    turn_audios: list[str] = Field(default_factory=list)
 
 
-class ConversationTurn(BaseModel):
-    turn_id: int = Field(..., ge=1)
-    speaker: Literal["patient", "doctor"]
-    utterance: str = Field(..., min_length=1)
-    intent: str
-    audio_prefs: AudioPrefs
-    estimated_duration_sec: float | None = Field(default=None, ge=0)
-    pause_after_sec: float | None = Field(default=0.5, ge=0)
+class AudioLabels(BaseModel):
+    background_noise_level: Literal["none", "low", "medium", "high"] = "none"
+    channel_type: Literal["clinic_mic", "phone", "telehealth_mic"] = "clinic_mic"
+    speaker_overlap: bool = False
 
 
-class TTSScriptTurn(BaseModel):
-    turn_id: int = Field(..., ge=1)
-    speaker: Literal["patient", "doctor"]
-    text: str
-    voice_id: str
-    style: str
-    pace: Literal["slow", "normal", "fast"] = "normal"
-    pause_after_sec: float = Field(default=0.5, ge=0)
+class AudioManifest(BaseModel):
+    audio_ready: bool = False
+    output_format: Literal["wav", "mp3", "flac"] = "wav"
+    sample_rate: int = Field(default=16000, ge=8000)
+    channels: int = Field(default=1, ge=1)
+    speaker_mode: Literal["single_speaker", "multi_speaker"] = "multi_speaker"
+    paths: AudioPaths
+    audio_labels: AudioLabels = Field(default_factory=AudioLabels)

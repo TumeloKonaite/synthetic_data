@@ -1,21 +1,25 @@
 from __future__ import annotations
 
-from synthetic_consults.models.clinical_outputs import QualityLabels
-from synthetic_consults.models.consultation_record import ConsultationRecord
+from synthetic_consults.models.conversation import ConversationTurn, TTSScriptTurn
+from synthetic_consults.models.scenario import Scenario
 
 
-def score_record(record: ConsultationRecord) -> QualityLabels:
-    contains_follow_up = record.clinical_outputs.structured_outputs.follow_up_required
-    contains_red_flag_screening = any(
-        turn.intent == "screen_red_flags" for turn in record.conversation
-    )
+def build_tts_script(
+    scenario: Scenario,
+    conversation: list[ConversationTurn],
+) -> list[TTSScriptTurn]:
+    patient_voice_id = scenario.audio_profile.patient_voice_profile
+    doctor_voice_id = scenario.audio_profile.doctor_voice_profile
 
-    return QualityLabels(
-        realism_score=4.2,
-        coherence_score=4.4,
-        safety_score=4.8,
-        completeness_score=4.3,
-        contains_follow_up=contains_follow_up,
-        contains_red_flag_screening=contains_red_flag_screening,
-        passed_qc=True,
-    )
+    return [
+        TTSScriptTurn(
+            turn_id=turn.turn_id,
+            speaker=turn.speaker,
+            text=turn.utterance,
+            voice_id=patient_voice_id if turn.speaker == "patient" else doctor_voice_id,
+            style="neutral",
+            pace="normal",
+            pause_after_sec=0.5,
+        )
+        for turn in conversation
+    ]

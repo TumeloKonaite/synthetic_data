@@ -14,6 +14,23 @@ logger = logging.getLogger(__name__)
 T = TypeVar("T", bound=BaseModel)
 
 
+def _close_object_schemas(node: object) -> None:
+    if isinstance(node, dict):
+        if node.get("type") == "object":
+            properties = node.get("properties")
+            if isinstance(properties, dict):
+                node["required"] = list(properties.keys())
+
+            if "additionalProperties" not in node:
+                node["additionalProperties"] = False
+
+        for value in node.values():
+            _close_object_schemas(value)
+    elif isinstance(node, list):
+        for item in node:
+            _close_object_schemas(item)
+
+
 class OpenAIChatGenerator(StructuredGenerator[T]):
     """
     Structured generator backed by the OpenAI Responses API.
@@ -44,6 +61,7 @@ class OpenAIChatGenerator(StructuredGenerator[T]):
         temperature: float = 0.7,
     ) -> T:
         schema = response_model.model_json_schema()
+        _close_object_schemas(schema)
 
         try:
             response = self.client.responses.create(

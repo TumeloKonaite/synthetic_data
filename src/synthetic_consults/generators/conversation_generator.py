@@ -1,44 +1,62 @@
 from __future__ import annotations
 
-from synthetic_consults.models.conversation import AudioPrefs, ConversationTurn
+import json
+
+from pydantic import BaseModel, Field
+
+from synthetic_consults.generators.base import StructuredGenerator
+from synthetic_consults.models.conversation import ConversationTurn
 from synthetic_consults.models.scenario import Scenario
 
 
-def generate_stub_conversation(scenario: Scenario) -> list[ConversationTurn]:
-    patient_voice = scenario.audio_profile.patient_voice_profile
-    doctor_voice = scenario.audio_profile.doctor_voice_profile
+class ConversationBundle(BaseModel):
+    conversation: list[ConversationTurn] = Field(default_factory=list)
 
-    turns = [
-        ("patient", "Hi doctor, I've had a cough for about ten days now.", "present_complaint"),
-        ("doctor", "Sorry to hear that. Is it dry or are you coughing up mucus?", "clarify_symptom"),
-        ("patient", "Mostly dry, but sometimes a little mucus in the morning.", "provide_history"),
-        ("doctor", "Have you had fever, chest pain, or shortness of breath?", "screen_red_flags"),
-        ("patient", "No fever or chest pain. I do get a bit wheezy at night.", "provide_history"),
-        ("doctor", "Do you have any history of asthma or allergies?", "ask_history"),
-        ("patient", "Yes, I have asthma and use an inhaler sometimes.", "provide_history"),
-        ("doctor", "Have you needed the inhaler more often than usual?", "discuss_medication"),
-        ("patient", "Yes, a little more this past week.", "provide_history"),
-        ("doctor", "This could be a viral cough irritating your asthma. Keep using your inhaler as prescribed, rest, and come back if your breathing worsens or you develop fever.", "summarize_assessment"),
-    ]
 
-    conversation: list[ConversationTurn] = []
-    for idx, (speaker, utterance, intent) in enumerate(turns, start=1):
-        voice_id = patient_voice if speaker == "patient" else doctor_voice
-        style = "concerned" if speaker == "patient" else "calm_professional"
+def build_conversation_system_prompt() -> str:
+    return """
+You generate synthetic doctor-patient consultation dialogues.
 
-        conversation.append(
-            ConversationTurn(
-                turn_id=idx,
-                speaker=speaker,
-                utterance=utterance,
-                intent=intent,
-                audio_prefs=AudioPrefs(
-                    voice_id=voice_id,
-                    speaking_style=style,
-                    pace="normal",
-                ),
-                pause_after_sec=0.6,
-            )
+Rules:
+- Produce a natural multi-turn conversation.
+- The patient should sound human: sometimes vague, concerned, uncertain, or brief.
+- The doctor should sound professional, empathetic, and structured.
+- The doctor should gather history before concluding.
+- Include appropriate red-flag screening when relevant.
+- The final doctor turn must include a cautious impression and a next-step plan.
+- Keep utterances suitable for later text-to-speech.
+- Return only data matching the schema.
+""".strip()
+
+
+def build_conversation_user_prompt(scenario: Scenario) -> str:
+    scenario_json = json.dumps(scenario.model_dump(mode="json"), ensure_ascii=False, indent=2)
+
+    return f"""
+Given the scenario below, generate a realistic synthetic consultation.
+
+Constraints:
+- Between 10 and 24 turns.
+- Natural turn-taking between patient and doctor.
+- Most utterances should be short enough to sound natural when spoken aloud.
+- The first turn should usually come from the patient.
+- Use the voice preferences implied by the scenario audio profiles.
+- The final doctor turn should summarize likely impression, next steps, and follow-up/safety-net advice.
+
+Scenario:
+{scenario_json}
+""".strip()
+
+
+class ConversationGenerator:
+    def __init__(self, llm: StructuredGenerator[ConversationBundle]) -> None:
+        self.llm = llm
+
+    def generate(self, scenario: Scenario) -> list[ConversationTurn]:
+        bundle = self.llm.generate(
+            system_prompt=build_conversation_system_prompt(),
+            user_prompt=build_conversation_user_prompt(scenario),
+            response_model=ConversationBundle,
+            temperature=0.8,
         )
-
-    return conversation
+        return bundle.conversation

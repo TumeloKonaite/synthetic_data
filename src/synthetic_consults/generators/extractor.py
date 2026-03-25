@@ -1,44 +1,66 @@
 from __future__ import annotations
 
-from synthetic_consults.models.clinical_outputs import (
-    ClinicalOutputs,
-    ClinicalSummary,
-    DerivedArtifacts,
-    StructuredOutputs,
-)
+import json
+
+from synthetic_consults.generators.base import StructuredGenerator
+from synthetic_consults.models.clinical_outputs import ClinicalOutputs
+from synthetic_consults.models.conversation import ConversationTurn
+from synthetic_consults.models.scenario import Scenario
 
 
-def extract_stub_outputs() -> ClinicalOutputs:
-    return ClinicalOutputs(
-        clinical_summary=ClinicalSummary(
-            subjective="Patient reports 10-day cough with mild nighttime wheeze and asthma history.",
-            objective="No physical examination available in synthetic workflow.",
-            assessment="Likely viral cough with mild asthma irritation.",
-            plan="Supportive care, continue inhaler, return if worsening.",
-        ),
-        structured_outputs=StructuredOutputs(
-            primary_impression="viral_cough_with_mild_asthma_irritation",
-            differential_diagnoses=["post_viral_cough", "mild_asthma_exacerbation"],
-            doctor_actions=[
-                "clarified cough type",
-                "screened for red flags",
-                "reviewed asthma history",
-            ],
-            patient_next_steps=[
-                "continue inhaler as prescribed",
-                "monitor symptoms",
-                "seek review if breathing worsens",
-            ],
-            follow_up_required=True,
-            follow_up_timing="3-5 days if not improving",
-            red_flags_identified=[],
-            tests_ordered=[],
-            medications_discussed=[],
-            referral_needed=False,
-        ),
-        derived_artifacts=DerivedArtifacts(
-            doctor_summary="Patient with 10-day cough and mild wheeze, likely viral illness with asthma irritation.",
-            patient_friendly_summary="Your cough is likely from a viral illness and may also be irritating your asthma.",
-            draft_email_to_patient="Dear Patient, thank you for today's consultation. Please continue your inhaler and seek care if symptoms worsen.",
-        ),
+def build_extractor_system_prompt() -> str:
+    return """
+You extract structured clinical workflow outputs from a synthetic consultation.
+
+Rules:
+- Stay grounded in the conversation and scenario.
+- Do not invent physical exam findings or test results unless stated.
+- Use cautious clinical wording when needed.
+- Produce concise but useful summaries.
+- Return only data matching the schema.
+""".strip()
+
+
+def build_extractor_user_prompt(
+    scenario: Scenario,
+    conversation: list[ConversationTurn],
+) -> str:
+    scenario_json = json.dumps(scenario.model_dump(mode="json"), ensure_ascii=False, indent=2)
+    conversation_json = json.dumps(
+        [turn.model_dump(mode="json") for turn in conversation],
+        ensure_ascii=False,
+        indent=2,
     )
+
+    return f"""
+Extract structured outputs for this synthetic consultation.
+
+Scenario:
+{scenario_json}
+
+Conversation:
+{conversation_json}
+
+Requirements:
+- Fill clinical_summary, structured_outputs, and derived_artifacts.
+- Keep outputs useful for downstream summarization and patient communication tasks.
+- Do not overstate diagnostic certainty.
+""".strip()
+
+
+class ClinicalExtractor:
+    def __init__(self, llm: StructuredGenerator[ClinicalOutputs]) -> None:
+        self.llm = llm
+
+    def generate(
+        self,
+        *,
+        scenario: Scenario,
+        conversation: list[ConversationTurn],
+    ) -> ClinicalOutputs:
+        return self.llm.generate(
+            system_prompt=build_extractor_system_prompt(),
+            user_prompt=build_extractor_user_prompt(scenario, conversation),
+            response_model=ClinicalOutputs,
+            temperature=0.3,
+        )

@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000003",
+  "source_record": "data\\processed\\train.jsonl:4",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up, but I\u2019ve also been feeling a bit tired for the last couple of months."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Thanks for coming in. Let\u2019s talk through both. Have you noticed any other symptoms with the tiredness, like shortness of breath, dizziness, palpitations, fever, or weight loss?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "No fever or anything like that. I do get tired more easily, but I can still do my day. Just feel drained by the afternoon."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Is the tiredness constant, or does it come and go? And how have you been sleeping at night?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It\u2019s mostly every day. Sleep is not great, to be honest. I wake up a few times, and I sometimes stay up thinking about work."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That makes sense. Any low mood, loss of interest, or feeling more anxious than usual?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Maybe a bit stressed, yes. But I don\u2019t think I\u2019m depressed. I still enjoy things, I\u2019m just tired."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Understood. Let\u2019s review your blood pressure treatment. Are you taking the amlodipine every day? Any missed doses or side effects like swelling in the ankles, flushing, or headaches?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I take it most days. I may have missed one or two doses in the past month. No ankle swelling. I do get headaches sometimes, so I take ibuprofen now and then."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thanks. How often are you using the ibuprofen? And have you checked your blood pressure at home or had readings elsewhere recently?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Maybe once or twice a week for the headaches. I haven\u2019t been checking at home. My sister has a machine, but I haven\u2019t used it properly."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "All right. I\u2019d also like to ask about your general health. Any heavy periods, blood in your stool, change in appetite, or increased thirst or urination?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No blood anywhere. My periods are a bit irregular now, but not heavy. I do feel more thirsty sometimes, but I thought it was just the weather."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Okay. With your family history, I\u2019d like to keep an eye on blood sugar as well. Do you snore loudly, or feel unrefreshed even after a full night\u2019s sleep?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "My husband says I snore a bit, yes. And I often wake up feeling like I didn\u2019t really rest."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you, that\u2019s helpful. I\u2019m going to check your blood pressure today, and we should also do some blood tests for anaemia, thyroid, kidney function, and diabetes screening. We may also consider sleep issues, including possible sleep apnoea, depending on the results."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay. Does that mean the tiredness is serious?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "At this stage it doesn\u2019t sound urgent, which is reassuring. My impression is that the fatigue could be related to poor sleep, stress, or possibly something like anaemia, thyroid problems, or blood sugar issues. Your blood pressure may also need a review, especially if it has been running high or if the ibuprofen is affecting it. Today we\u2019ll check your pressure, review your readings if you have any, and arrange the blood tests. In the meantime, try to take the amlodipine daily, limit ibuprofen if possible, and keep a simple log of headaches, sleep, and any home blood pressure readings. Please come back sooner if you develop chest pain, shortness of breath, fainting, severe headaches, or sudden swelling. Otherwise, let\u2019s review the results and decide whether your treatment needs adjusting."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up, but I\u2019ve also been feeling a bit tired for the last couple of months. doctor: Good morning. Thanks for coming in. Let\u2019s talk through both. Have you noticed any other symptoms with the tiredness, like shortness of breath, dizziness, palpitations, fever, or weight loss? patient: No fever or anything like that. I do get tired more easily, but I can still do my day. Just feel drained by the afternoon. doctor: Okay. Is the tiredness constant, or does it come and go? And how have you been sleeping at night? patient: It\u2019s mostly every day. Sleep is not great, to be honest. I wake up a few times, and I sometimes stay up thinking about work. doctor: That makes sense. Any low mood, loss of interest, or feeling more anxious than usual? patient: Maybe a bit stressed, yes. But I don\u2019t think I\u2019m depressed. I still enjoy things, I\u2019m just tired. doctor: Understood. Let\u2019s review your blood pressure treatment. Are you taking the amlodipine every day? Any missed doses or side effects like swelling in the ankles, flushing, or headaches? patient: I take it most days. I may have missed one or two doses in the past month. No ankle swelling. I do get headaches sometimes, so I take ibuprofen now and then. doctor: Thanks. How often are you using the ibuprofen? And have you checked your blood pressure at home or had readings elsewhere recently? patient: Maybe once or twice a week for the headaches. I haven\u2019t been checking at home. My sister has a machine, but I haven\u2019t used it properly. doctor: All right. I\u2019d also like to ask about your general health. Any heavy periods, blood in your stool, change in appetite, or increased thirst or urination? patient: No blood anywhere. My periods are a bit irregular now, but not heavy. I do feel more thirsty sometimes, but I thought it was just the weather. doctor: Okay. With your family history, I\u2019d like to keep an eye on blood sugar as well. Do you snore loudly, or feel unrefreshed even after a full night\u2019s sleep? patient: My husband says I snore a bit, yes. And I often wake up feeling like I didn\u2019t really rest. doctor: Thank you, that\u2019s helpful. I\u2019m going to check your blood pressure today, and we should also do some blood tests for anaemia, thyroid, kidney function, and diabetes screening. We may also consider sleep issues, including possible sleep apnoea, depending on the results. patient: Okay. Does that mean the tiredness is serious? doctor: At this stage it doesn\u2019t sound urgent, which is reassuring. My impression is that the fatigue could be related to poor sleep, stress, or possibly something like anaemia, thyroid problems, or blood sugar issues. Your blood pressure may also need a review, especially if it has been running high or if the ibuprofen is affecting it. Today we\u2019ll check your pressure, review your readings if you have any, and arrange the blood tests. In the meantime, try to take the amlodipine daily, limit ibuprofen if possible, and keep a simple log of headaches, sleep, and any home blood pressure readings. Please come back sooner if you develop chest pain, shortness of breath, fainting, severe headaches, or sudden swelling. Otherwise, let\u2019s review the results and decide whether your treatment needs adjusting."
+}

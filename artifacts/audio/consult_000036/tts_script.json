@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000036",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure follow-up, and I’ve been getting these odd headaches on and off for the last two weeks.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, natural conversational speech, slightly anxious but cooperative, medium pace, clear and understandable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. We’ll go through it carefully. Tell me a bit more about the headaches first.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English accent, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "They’re not terrible, but they’re annoying. Mostly a dull ache, sometimes at the front of my head.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, natural conversational speech, slightly anxious but cooperative, medium pace, clear and understandable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I see. How long do they last, and how often are you getting them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English accent, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Maybe an hour or two at a time. A few times a week, not every day.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, natural conversational speech, slightly anxious but cooperative, medium pace, clear and understandable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any nausea, blurred vision, weakness, numbness, fever, or a very sudden severe headache?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English accent, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache and sometimes I feel a bit tense.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, natural conversational speech, slightly anxious but cooperative, medium pace, clear and understandable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. Do you notice anything that brings them on, like stress, poor sleep, dehydration, or skipping meals?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English accent, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Work has been busy, and I probably don’t drink enough water. I also sit at my desk most of the day.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, natural conversational speech, slightly anxious but cooperative, medium pace, clear and understandable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That could play a role. How have your home blood pressure readings been, if you have been checking them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English accent, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I have checked a few times. It’s usually around 140 over 88, sometimes a bit higher.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, natural conversational speech, slightly anxious but cooperative, medium pace, clear and understandable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "And are you taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or flushing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English accent, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. No real side effects that I’ve noticed.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, natural conversational speech, slightly anxious but cooperative, medium pace, clear and understandable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Good. Any chest pain, shortness of breath, palpitations, or swelling in the legs?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English accent, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, nothing like that.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, natural conversational speech, slightly anxious but cooperative, medium pace, clear and understandable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thanks. Just to complete the picture, do you smoke, and how much alcohol do you usually have on weekends?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English accent, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "I don’t smoke. I only drink socially, maybe a couple of glasses on a weekend.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, natural conversational speech, slightly anxious but cooperative, medium pace, clear and understandable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Alright. From what you’ve told me, this sounds like mildly elevated blood pressure with headaches that may be tension-related or linked to stress, hydration, or posture. I’d like to check your blood pressure here today, review your readings, and we may consider adjusting the amlodipine if the numbers stay up. In the meantime, keep taking it daily, drink more water, try regular meals and breaks from the desk, and keep a headache and blood pressure diary. Please seek urgent help if you develop a sudden severe headache, vision changes, weakness, chest pain, or shortness of breath. We’ll arrange follow-up once we’ve checked your readings today.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English accent, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

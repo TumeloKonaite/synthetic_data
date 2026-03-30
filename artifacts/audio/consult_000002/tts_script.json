@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000002",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure check, but I’ve also been getting headaches on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female patient, relaxed but slightly concerned, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. We’ll check both. How long have the headaches been going on, and where do you feel them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, adult female doctor, calm and clear, professional tone, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About two months now. Mostly at the front of my head, like a dull pressure. It comes and goes.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female patient, relaxed but slightly concerned, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do they come with nausea, blurred vision, weakness, or any numbness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, adult female doctor, calm and clear, professional tone, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. Just a bit annoying. Sometimes I feel it after a long day at work.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female patient, relaxed but slightly concerned, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Okay. Any fever, neck stiffness, head injury, or headaches that wake you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, adult female doctor, calm and clear, professional tone, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No fever or injury. They don’t wake me up. I usually notice them in the afternoon.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female patient, relaxed but slightly concerned, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Tell me about your blood pressure medicine. Are you taking the amlodipine every day?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, adult female doctor, calm and clear, professional tone, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I only miss it maybe once in a while if I’m rushing.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female patient, relaxed but slightly concerned, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Any side effects from it, like ankle swelling, flushing, or dizziness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, adult female doctor, calm and clear, professional tone, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, nothing really. Maybe a little tired sometimes, but I’m not sure if it’s the tablets.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female patient, relaxed but slightly concerned, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "How has your lifestyle been lately? Things like salt intake, exercise, sleep, and stress can affect both blood pressure and headaches.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, adult female doctor, calm and clear, professional tone, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I’m mostly sitting at work all week. I know I don’t exercise enough. I do sleep okay, but work has been busy. I probably eat too much takeaway too.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female patient, relaxed but slightly concerned, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That helps. Do you smoke, or drink much alcohol?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, adult female doctor, calm and clear, professional tone, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No smoking. I only drink socially on weekends, not a lot.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female patient, relaxed but slightly concerned, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. I’ll check your blood pressure now. We’ll also look at your weight and talk about a plan that fits your routine.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, adult female doctor, calm and clear, professional tone, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay, that’s fine. I’ve been a bit worried because my mother also has high blood pressure.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female patient, relaxed but slightly concerned, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "That family history is useful. Based on what you’ve told me, the headaches sound more like tension or lifestyle-related headaches than anything dangerous, but I’d like to confirm your blood pressure reading first. If it’s still high, we may need to adjust treatment. For now, keep taking amlodipine, try to reduce salt, drink enough water, and add regular walking during the week. If the headaches become severe, sudden, or come with vision changes, weakness, chest pain, or shortness of breath, seek urgent care. Otherwise, we’ll review the reading today and arrange follow-up soon.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, adult female doctor, calm and clear, professional tone, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

@@ -1,0 +1,191 @@
+{
+  "consultation_id": "consult_000008",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure check, but I’ve also been getting headaches lately.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. Let’s go through both. When did the headaches start, and where do you feel them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About three weeks ago. Mostly across my forehead and sometimes at the back of my head.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. How often are they happening, and how bad are they on a scale of one to ten?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Maybe three or four times a week. Not terrible, maybe a five. It’s more of a dull ache.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do they come with nausea, vomiting, blurred vision, dizziness, chest pain, or weakness anywhere?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel a bit tense after work.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That helps. Any fever, sinus symptoms, neck stiffness, or headaches waking you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No fever or neck stiffness. I do not wake up with them. They usually come later in the day.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "And have you checked your blood pressure at home recently?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "A few times. It’s been around 145 over 90, sometimes a bit higher.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thank you. Are you taking the amlodipine every day, and have you missed any doses?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Mostly yes. I may have missed one or two tablets when work was busy, but not often.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Any side effects from it, like ankle swelling, flushing, or palpitations?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I have not noticed anything like that.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Let’s also talk about lifestyle. How is your salt intake, exercise, sleep, and stress at the moment?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "I probably eat too much takeaways. I sit most of the day at work. I try to walk twice a week, but I know it is not enough. Sleep is okay, but work has been stressful.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Understood. Any chance you could be pregnant, and when was your last menstrual period?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "No, I’m not pregnant. My periods are still regular.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, plain spoken, mildly anxious but cooperative, normal conversational pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Thanks. Based on what you’ve told me, this sounds most like mildly uncontrolled blood pressure with tension-type headaches, rather than anything dangerous. I’d like to check your blood pressure properly today, review your readings, and probably increase your treatment if it stays up. We should also work on salt, weight, and regular walking. If the headaches change, become severe, or you get vision changes, weakness, chest pain, or shortness of breath, seek urgent care. Otherwise, let’s arrange a follow-up soon after today’s readings.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm, clear South African English accent, moderately paced, professional and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

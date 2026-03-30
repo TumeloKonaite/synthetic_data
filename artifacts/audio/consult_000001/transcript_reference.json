@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000001",
+  "source_record": "data\\processed\\train.jsonl:2",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure check, and I\u2019ve also had this dry cough that just won\u2019t go away."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, please have a seat. We\u2019ll look at both. How long have you had the cough, and have you noticed anything else with it?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About two weeks now. It\u2019s dry, no phlegm. It\u2019s worse at night, I think."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Any fever, shortness of breath, wheezing, chest pain, sore throat, or coughing up blood?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. I feel fine otherwise, just a bit irritated by the cough."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Have you had a cold recently, any reflux or heartburn, or more allergy symptoms like a runny nose or post-nasal drip?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I did have a bit of a sniffly nose last week. I do get allergies now and then. No heartburn, though."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That helps. Are you taking your amlodipine every day? And have you started any new medicines, including over-the-counter cough remedies or supplements?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take the amlodipine daily. No new medicines. Just cetirizine sometimes when the allergies act up."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Any side effects from the amlodipine, like ankle swelling, dizziness, or headaches?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, not really. I\u2019ve been okay on it."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Do you know what your home blood pressure readings have been, if you\u2019ve checked them recently?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I checked a few times last week. It was around 128 over 82 most times. One reading was a bit higher, but not too bad."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That sounds fairly well controlled. I\u2019d like to check your blood pressure here today as well. Before I do, just to confirm, you do not smoke, correct?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Yes, correct. I\u2019ve never smoked. I only drink socially, maybe once or twice a month."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. Given the dry cough and your allergy history, this sounds most likely related to post-nasal drip or a lingering viral irritation. It does not sound like a chest infection from what you\u2019ve told me. Let me examine you and check your blood pressure now."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay, that makes sense. I was worried it might be something serious."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "At this stage it seems low risk. If your blood pressure here is similar to your home readings, we\u2019ll likely keep the same amlodipine dose. For the cough, I\u2019d suggest regular cetirizine for a short period, saline nasal rinses if you tolerate them, fluids, and avoiding triggers like dust. If the cough lasts more than another couple of weeks, or if you develop fever, breathlessness, chest pain, wheezing, or blood in the sputum, please come back sooner. We can also review you sooner if your blood pressure is running high or you get side effects. Otherwise, we\u2019ll plan routine follow-up after today\u2019s readings and keep monitoring both issues."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure check, and I\u2019ve also had this dry cough that just won\u2019t go away. doctor: Hello, please have a seat. We\u2019ll look at both. How long have you had the cough, and have you noticed anything else with it? patient: About two weeks now. It\u2019s dry, no phlegm. It\u2019s worse at night, I think. doctor: Any fever, shortness of breath, wheezing, chest pain, sore throat, or coughing up blood? patient: No, none of that. I feel fine otherwise, just a bit irritated by the cough. doctor: Have you had a cold recently, any reflux or heartburn, or more allergy symptoms like a runny nose or post-nasal drip? patient: I did have a bit of a sniffly nose last week. I do get allergies now and then. No heartburn, though. doctor: That helps. Are you taking your amlodipine every day? And have you started any new medicines, including over-the-counter cough remedies or supplements? patient: Yes, I take the amlodipine daily. No new medicines. Just cetirizine sometimes when the allergies act up. doctor: Any side effects from the amlodipine, like ankle swelling, dizziness, or headaches? patient: No, not really. I\u2019ve been okay on it. doctor: Good. Do you know what your home blood pressure readings have been, if you\u2019ve checked them recently? patient: I checked a few times last week. It was around 128 over 82 most times. One reading was a bit higher, but not too bad. doctor: That sounds fairly well controlled. I\u2019d like to check your blood pressure here today as well. Before I do, just to confirm, you do not smoke, correct? patient: Yes, correct. I\u2019ve never smoked. I only drink socially, maybe once or twice a month. doctor: Thank you. Given the dry cough and your allergy history, this sounds most likely related to post-nasal drip or a lingering viral irritation. It does not sound like a chest infection from what you\u2019ve told me. Let me examine you and check your blood pressure now. patient: Okay, that makes sense. I was worried it might be something serious. doctor: At this stage it seems low risk. If your blood pressure here is similar to your home readings, we\u2019ll likely keep the same amlodipine dose. For the cough, I\u2019d suggest regular cetirizine for a short period, saline nasal rinses if you tolerate them, fluids, and avoiding triggers like dust. If the cough lasts more than another couple of weeks, or if you develop fever, breathlessness, chest pain, wheezing, or blood in the sputum, please come back sooner. We can also review you sooner if your blood pressure is running high or you get side effects. Otherwise, we\u2019ll plan routine follow-up after today\u2019s readings and keep monitoring both issues."
+}

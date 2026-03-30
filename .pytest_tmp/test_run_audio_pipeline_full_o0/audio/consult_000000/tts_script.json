@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000000",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure follow-up, and I’ve also been getting some headaches on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild local accent, slightly breathy from mild concern. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. We will take it step by step. Tell me a bit more about the headaches and how your blood pressure has been going.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English speaker, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "The blood pressure has been okay, I think. I’ve been on amlodipine, but I’m not sure if it is fully controlled. The headaches started about two weeks ago.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild local accent, slightly breathy from mild concern. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Where is the pain, and what does it feel like? Also, how often do you get it, and how bad is it on a scale of one to ten?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English speaker, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It is usually across my forehead or at the back of my head. It feels like a pressure, not a sharp pain. Maybe a four or five out of ten. It comes and goes.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild local accent, slightly breathy from mild concern. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any nausea, vomiting, blurred vision, weakness, numbness, fever, or neck stiffness? And do the headaches wake you from sleep or come with chest pain or shortness of breath?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English speaker, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. No chest pain or breathing trouble. They do not wake me up at night either.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild local accent, slightly breathy from mild concern. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is reassuring. Have you checked your blood pressure at home or elsewhere recently? If yes, what sort of readings have you seen?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English speaker, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "At home it has been around 138 over 86, sometimes a bit higher when I’m stressed at work. I may miss a tablet once in a while, but mostly I take it daily.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild local accent, slightly breathy from mild concern. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Any side effects from the amlodipine, like ankle swelling, flushing, or dizziness? And have you had caffeine, poor sleep, or extra stress lately?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English speaker, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No swelling or dizziness. I have been a bit stressed, and I sit most of the day at work. I also sleep a bit late during the week.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild local accent, slightly breathy from mild concern. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Understood. Do you exercise at all, and how is your diet with salt, takeaways, and alcohol on weekends?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English speaker, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Honestly, not much exercise. I do have takeaways a few times a week, and on weekends I might have a few drinks with my husband.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild local accent, slightly breathy from mild concern. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Any chance you could be pregnant, or have you started any new medicines, including pain tablets, decongestants, or supplements?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English speaker, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I am not pregnant. I have only used cetirizine for my allergies, and sometimes paracetamol for the headache.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild local accent, slightly breathy from mild concern. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. Let me check your blood pressure today as well. Based on what you have told me, the headaches sound more like tension or stress-related headaches than something dangerous, but I want to confirm the readings and review your control.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English speaker, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay. I was worried it might mean the pressure is getting worse.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild local accent, slightly breathy from mild concern. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "It is possible the blood pressure is a little above ideal, but your home readings are not alarming. My plan is to check your blood pressure in clinic, review your home log if you have one, and discuss whether we should adjust the amlodipine or focus first on lifestyle changes and better adherence. I would also like you to reduce salt, increase walking, and keep a simple headache diary. If the headaches become severe, you get visual changes, weakness, chest pain, or your blood pressure is very high, please seek urgent care. We can arrange follow-up soon to see how you are doing.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English speaker, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

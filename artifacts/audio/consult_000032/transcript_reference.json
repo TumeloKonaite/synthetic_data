@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000032",
+  "source_record": "data\\processed\\train.jsonl:33",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also had a few headaches lately."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. Let\u2019s go through both. How have you been feeling overall, and have you been taking your amlodipine every day?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly okay, just a bit worried. Yes, I take the tablet every morning. I don\u2019t miss it often."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "That\u2019s good. Do you know what your home blood pressure readings have been, if you\u2019ve checked them?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "I checked a few times at the pharmacy. It was still a bit high. I think around 145 over 90, sometimes a little more."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Thanks. And about the headaches, can you tell me where they are, how bad they are, and what they feel like?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "They\u2019re mostly at the front of my head. More like a tight pressure. Not terrible, just annoying. They come and go."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Any blurred vision, weakness, numbness, chest pain, shortness of breath, or a sudden very severe headache?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headaches. I do get a bit stressed at work, though."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Stress can definitely play a role. Are the headaches worse at any particular time, like after long days, poor sleep, or not drinking enough water?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, probably after busy days. I sit a lot at work, and I don\u2019t always drink enough water. Sleep has been a bit off too."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Understood. Any side effects from the amlodipine, like swollen ankles, flushing, dizziness, or palpitations?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No swollen ankles. Maybe a little flushing sometimes, but nothing major."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Okay. I\u2019d also like to ask about a few risk factors. Do you smoke, and how often do you drink alcohol?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I don\u2019t smoke. I only drink socially on weekends, maybe a glass or two."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Good. And with your family history of high blood pressure and diabetes, it\u2019s worth keeping an eye on weight, exercise, and diet as well. Have there been any recent changes in weight or in your walking routine?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "My weight has been about the same. I try to walk a few times a week, but not as much when work gets busy."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thanks, that helps. Your headaches sound more like tension-type headaches, and your blood pressure may still be a little above target. I\u2019d like to check your blood pressure here today, review your readings, and likely adjust your treatment if it is still elevated. We can also talk about reducing salt, staying hydrated, regular walking, and managing stress. If the headaches change, become severe, or you get any vision changes, weakness, chest pain, or breathlessness, seek urgent care. Otherwise, let\u2019s arrange follow-up soon after today\u2019s readings."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also had a few headaches lately. doctor: Hello. Thanks for coming in. Let\u2019s go through both. How have you been feeling overall, and have you been taking your amlodipine every day? patient: Mostly okay, just a bit worried. Yes, I take the tablet every morning. I don\u2019t miss it often. doctor: That\u2019s good. Do you know what your home blood pressure readings have been, if you\u2019ve checked them? patient: I checked a few times at the pharmacy. It was still a bit high. I think around 145 over 90, sometimes a little more. doctor: Thanks. And about the headaches, can you tell me where they are, how bad they are, and what they feel like? patient: They\u2019re mostly at the front of my head. More like a tight pressure. Not terrible, just annoying. They come and go. doctor: Any blurred vision, weakness, numbness, chest pain, shortness of breath, or a sudden very severe headache? patient: No, none of that. Just the headaches. I do get a bit stressed at work, though. doctor: Stress can definitely play a role. Are the headaches worse at any particular time, like after long days, poor sleep, or not drinking enough water? patient: Yes, probably after busy days. I sit a lot at work, and I don\u2019t always drink enough water. Sleep has been a bit off too. doctor: Understood. Any side effects from the amlodipine, like swollen ankles, flushing, dizziness, or palpitations? patient: No swollen ankles. Maybe a little flushing sometimes, but nothing major. doctor: Okay. I\u2019d also like to ask about a few risk factors. Do you smoke, and how often do you drink alcohol? patient: I don\u2019t smoke. I only drink socially on weekends, maybe a glass or two. doctor: Good. And with your family history of high blood pressure and diabetes, it\u2019s worth keeping an eye on weight, exercise, and diet as well. Have there been any recent changes in weight or in your walking routine? patient: My weight has been about the same. I try to walk a few times a week, but not as much when work gets busy. doctor: Thanks, that helps. Your headaches sound more like tension-type headaches, and your blood pressure may still be a little above target. I\u2019d like to check your blood pressure here today, review your readings, and likely adjust your treatment if it is still elevated. We can also talk about reducing salt, staying hydrated, regular walking, and managing stress. If the headaches change, become severe, or you get any vision changes, weakness, chest pain, or breathlessness, seek urgent care. Otherwise, let\u2019s arrange follow-up soon after today\u2019s readings."
+}

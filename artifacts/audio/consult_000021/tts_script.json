@@ -1,0 +1,191 @@
+{
+  "consultation_id": "consult_000021",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure follow-up, but I’ve also been feeling a bit tired lately.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let’s go through both. When did the tiredness start, and has anything else changed recently?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About three weeks ago, I think. It’s not severe, just like I have less energy than usual.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do you feel tired all day, or mainly at certain times? Any shortness of breath, chest pain, dizziness, palpitations, or fainting?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly during the day. No chest pain or fainting. I do get a little winded if I climb stairs, but I thought that was just my fitness.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That’s helpful. Any fever, cough, heavy periods, weight loss, change in appetite, or trouble sleeping?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No fever or cough. My periods are normal. Sleep has been a bit patchy, but nothing major. I haven’t lost weight.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. How have you been taking your amlodipine? Any missed doses, side effects like swelling of the ankles, or headaches?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I take it every day. I did notice my ankles looked a bit puffy once or twice, but not every day. No headaches.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Understood. Have you checked your blood pressure at home or at a pharmacy recently?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, a few times. It has been around 138 over 86, sometimes a little higher in the evenings.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thanks. Tell me a bit about your routine. How is your diet, alcohol intake, exercise, and stress at work?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Work has been busy. I sit most of the day. I try to walk after work, maybe three times a week. I do like salty snacks, and I drink socially on weekends.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That gives me a good picture. Any chance you could be pregnant, or have you had any recent illness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, pregnancy is not possible. And I haven’t been sick recently.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Alright. I’d like to check your blood pressure today, and also your weight and possibly some blood tests if needed, to look for things like anaemia, thyroid issues, blood sugar, kidney function, and cholesterol. Does that sound okay?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Yes, that’s fine. I was wondering if the tiredness could be from the tablets.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "It could be related, especially if the ankle swelling is from amlodipine, but tiredness can have several causes. Your home readings sound fairly close to target, though we should confirm in clinic and review your overall cardiovascular risk. I also want to ask about sleep quality and mood, because those can affect energy too.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "My mood is okay. I’m just a bit stressed with work. Sleep is not great, but I still manage.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, slightly tired but cooperative, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Thanks. My impression is that this is likely a mix of blood pressure management, possible amlodipine side effects, and lifestyle factors, but we should rule out common medical causes of fatigue. We’ll check your blood pressure here today, examine the ankle swelling, and arrange blood tests. Depending on the results, we may adjust your medication or discuss changing treatment. In the meantime, keep taking your tablets, try to reduce salty snacks, keep walking, and bring a few home blood pressure readings. If you get chest pain, marked shortness of breath, fainting, or severe swelling, seek urgent care. Otherwise, let’s review once the results are back.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear clinic diction, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

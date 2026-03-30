@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000028",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure follow-up. Lately I’ve also been getting some headaches, on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, mildly worried but cooperative, natural conversational pace, clear and informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let’s go through it carefully. When did the headaches start, and how often are you getting them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Maybe about three months ago. Not every day. Sometimes once or twice a week.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, mildly worried but cooperative, natural conversational pace, clear and informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "And where is the pain, and what does it feel like? Is it throbbing, tight, or pressure-like?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Usually around my forehead or the back of my head. It feels more like pressure than anything else.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, mildly worried but cooperative, natural conversational pace, clear and informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do you get any warning signs with it, like blurred vision, nausea, weakness, numbness, or trouble speaking?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel a bit tense at work, but that’s about it.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, mildly worried but cooperative, natural conversational pace, clear and informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. Have you checked your blood pressure at home recently? If so, what sort of readings are you seeing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I have. It’s usually around 140 over 90, sometimes a little lower, sometimes a bit higher.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, mildly worried but cooperative, natural conversational pace, clear and informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Are you taking the amlodipine every day, and have you missed any doses?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I take it most days. I may have missed one or two doses in the last month, but not often.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, mildly worried but cooperative, natural conversational pace, clear and informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Any side effects from the amlodipine, like ankle swelling, dizziness, or flushing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No, I don’t think so. It seems fine.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, mildly worried but cooperative, natural conversational pace, clear and informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "How about your routine? Do you get much exercise, and how are things with sleep, stress, caffeine, and salt intake?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I’m mostly sitting at work, to be honest. I don’t exercise much during the week. Sleep is okay. I do try to watch the salt, and I have one or two coffees a day.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, mildly worried but cooperative, natural conversational pace, clear and informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "That helps. Any chest pain, shortness of breath, swelling in the legs, or headaches that wake you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No chest pain or breathing problems. The headaches don’t wake me up. They just come and go.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult South African English speaker, female, mildly worried but cooperative, natural conversational pace, clear and informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "All right. From what you’ve told me, your blood pressure is still a little above target, and the headaches sound more like tension or pressure-type headaches than something dangerous. I’d like to check your blood pressure here today, review your readings, and likely adjust the treatment if needed. In the meantime, keep taking the amlodipine daily, try to build in some regular walking, and continue limiting salt. If you develop severe headache, vision changes, weakness, chest pain, or shortness of breath, please seek urgent care. Otherwise, let’s arrange follow-up soon after today’s measurements.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, medium pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

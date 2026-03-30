@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000004",
+  "source_record": "data\\processed\\train.jsonl:5",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up. Lately I\u2019ve been getting these occasional headaches, and I feel very tired in the afternoons."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thank you for coming in. Let\u2019s talk through it properly. When did the headaches and tiredness start, and how often are they happening?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "It\u2019s been about three months, I think. The headaches are not every day, maybe a few times a week. The tiredness is more or less most afternoons."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I see. Can you describe the headaches for me? Where are they, what do they feel like, and do you get blurred vision, nausea, or sensitivity to light?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly at the back of my head or around the temples. It feels like a dull pressure. No vomiting, and my vision is fine. Maybe a little light sensitivity sometimes, but not bad."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Thank you. Have you checked your blood pressure at home or elsewhere recently? And have you missed any doses of your amlodipine?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I do check it sometimes at the pharmacy. It\u2019s been a bit up and down. I have missed a tablet now and then, maybe once or twice a week if I\u2019m rushing in the morning."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is helpful. Apart from the headaches, any chest pain, shortness of breath, palpitations, swelling of the legs, or numbness and weakness?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, none of those. I\u2019m just tired and a bit worried that my pressure is not controlled."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Understandable. Let\u2019s also look at lifestyle factors. How is your sleep, your salt intake, exercise, and alcohol on weekends?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Sleep is okay, but not always enough. I probably eat too much takeaway and salty snacks. I sit most of the day at work, so I do not exercise much. On weekends I\u2019ll have a few drinks socially."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thanks. Any recent weight change, stress at work, or symptoms like snoring or feeling unrefreshed in the morning?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "My weight has crept up a bit. Work has been stressful lately, yes. My husband says I snore sometimes, but I did not think much of it."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Alright. I\u2019d like to check your blood pressure in the room today, and I may review your home readings. Based on what you\u2019ve told me, this could be a mix of slightly high blood pressure, missed doses, stress, and possibly poor sleep. We should also consider sleep apnoea because of the snoring and daytime tiredness."
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Okay, that makes sense. I was wondering if the tablets were not working anymore."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "They may still be working, but one dose daily needs to be very regular to get the full benefit. Before we finish, do you have any allergy issues besides penicillin, and are you taking anything else like pain tablets, supplements, or herbal medicines?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No other allergies. I only take the amlodipine. Sometimes I take paracetamol for the headaches, but nothing else."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thank you. My impression is that this sounds like mildly uncontrolled hypertension, probably affected by missed doses and lifestyle factors, with headaches that may be tension-type rather than something dangerous. The next step is for me to check your blood pressure today, review your readings if you have them, and then decide if we should adjust the treatment or first focus on improving adherence and lifestyle. I would also like to screen further for possible sleep apnoea if the tiredness and snoring continue. In the meantime, please take the amlodipine every day, reduce salt, aim for regular walking, and limit alcohol on weekends. If you develop chest pain, severe headache, weakness, vision changes, or shortness of breath, seek urgent care. Otherwise, let\u2019s review the plan after today\u2019s measurements and arrange follow-up soon."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up. Lately I\u2019ve been getting these occasional headaches, and I feel very tired in the afternoons. doctor: Hello, thank you for coming in. Let\u2019s talk through it properly. When did the headaches and tiredness start, and how often are they happening? patient: It\u2019s been about three months, I think. The headaches are not every day, maybe a few times a week. The tiredness is more or less most afternoons. doctor: I see. Can you describe the headaches for me? Where are they, what do they feel like, and do you get blurred vision, nausea, or sensitivity to light? patient: Mostly at the back of my head or around the temples. It feels like a dull pressure. No vomiting, and my vision is fine. Maybe a little light sensitivity sometimes, but not bad. doctor: Thank you. Have you checked your blood pressure at home or elsewhere recently? And have you missed any doses of your amlodipine? patient: I do check it sometimes at the pharmacy. It\u2019s been a bit up and down. I have missed a tablet now and then, maybe once or twice a week if I\u2019m rushing in the morning. doctor: That is helpful. Apart from the headaches, any chest pain, shortness of breath, palpitations, swelling of the legs, or numbness and weakness? patient: No, none of those. I\u2019m just tired and a bit worried that my pressure is not controlled. doctor: Understandable. Let\u2019s also look at lifestyle factors. How is your sleep, your salt intake, exercise, and alcohol on weekends? patient: Sleep is okay, but not always enough. I probably eat too much takeaway and salty snacks. I sit most of the day at work, so I do not exercise much. On weekends I\u2019ll have a few drinks socially. doctor: Thanks. Any recent weight change, stress at work, or symptoms like snoring or feeling unrefreshed in the morning? patient: My weight has crept up a bit. Work has been stressful lately, yes. My husband says I snore sometimes, but I did not think much of it. doctor: Alright. I\u2019d like to check your blood pressure in the room today, and I may review your home readings. Based on what you\u2019ve told me, this could be a mix of slightly high blood pressure, missed doses, stress, and possibly poor sleep. We should also consider sleep apnoea because of the snoring and daytime tiredness. patient: Okay, that makes sense. I was wondering if the tablets were not working anymore. doctor: They may still be working, but one dose daily needs to be very regular to get the full benefit. Before we finish, do you have any allergy issues besides penicillin, and are you taking anything else like pain tablets, supplements, or herbal medicines? patient: No other allergies. I only take the amlodipine. Sometimes I take paracetamol for the headaches, but nothing else. doctor: Thank you. My impression is that this sounds like mildly uncontrolled hypertension, probably affected by missed doses and lifestyle factors, with headaches that may be tension-type rather than something dangerous. The next step is for me to check your blood pressure today, review your readings if you have them, and then decide if we should adjust the treatment or first focus on improving adherence and lifestyle. I would also like to screen further for possible sleep apnoea if the tiredness and snoring continue. In the meantime, please take the amlodipine every day, reduce salt, aim for regular walking, and limit alcohol on weekends. If you develop chest pain, severe headache, weakness, vision changes, or shortness of breath, seek urgent care. Otherwise, let\u2019s review the plan after today\u2019s measurements and arrange follow-up soon."
+}

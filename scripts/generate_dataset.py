@@ -5,7 +5,7 @@ from synthetic_consults.pipelines.generate_text_dataset import build_record
 def main():
     records = []
 
-    for i in range(5):  # start small
+    for i in range(50):  # start small
         conversation_id = f"consult_{i:06d}"
         record = build_record(conversation_id)
         records.append(record)

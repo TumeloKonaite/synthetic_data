@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000003",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure follow-up, but I’ve also been feeling a bit tired for the last couple of months.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female South African English speaker, natural conversational pace, mild South African English accent, slightly tired but clear and cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Thanks for coming in. Let’s talk through both. Have you noticed any other symptoms with the tiredness, like shortness of breath, dizziness, palpitations, fever, or weight loss?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear pace, neutral tone, slightly warm bedside manner. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "No fever or anything like that. I do get tired more easily, but I can still do my day. Just feel drained by the afternoon.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female South African English speaker, natural conversational pace, mild South African English accent, slightly tired but clear and cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Is the tiredness constant, or does it come and go? And how have you been sleeping at night?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear pace, neutral tone, slightly warm bedside manner. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It’s mostly every day. Sleep is not great, to be honest. I wake up a few times, and I sometimes stay up thinking about work.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female South African English speaker, natural conversational pace, mild South African English accent, slightly tired but clear and cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That makes sense. Any low mood, loss of interest, or feeling more anxious than usual?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear pace, neutral tone, slightly warm bedside manner. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Maybe a bit stressed, yes. But I don’t think I’m depressed. I still enjoy things, I’m just tired.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female South African English speaker, natural conversational pace, mild South African English accent, slightly tired but clear and cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Understood. Let’s review your blood pressure treatment. Are you taking the amlodipine every day? Any missed doses or side effects like swelling in the ankles, flushing, or headaches?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear pace, neutral tone, slightly warm bedside manner. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I take it most days. I may have missed one or two doses in the past month. No ankle swelling. I do get headaches sometimes, so I take ibuprofen now and then.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female South African English speaker, natural conversational pace, mild South African English accent, slightly tired but clear and cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thanks. How often are you using the ibuprofen? And have you checked your blood pressure at home or had readings elsewhere recently?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear pace, neutral tone, slightly warm bedside manner. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Maybe once or twice a week for the headaches. I haven’t been checking at home. My sister has a machine, but I haven’t used it properly.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female South African English speaker, natural conversational pace, mild South African English accent, slightly tired but clear and cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "All right. I’d also like to ask about your general health. Any heavy periods, blood in your stool, change in appetite, or increased thirst or urination?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear pace, neutral tone, slightly warm bedside manner. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No blood anywhere. My periods are a bit irregular now, but not heavy. I do feel more thirsty sometimes, but I thought it was just the weather.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female South African English speaker, natural conversational pace, mild South African English accent, slightly tired but clear and cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Okay. With your family history, I’d like to keep an eye on blood sugar as well. Do you snore loudly, or feel unrefreshed even after a full night’s sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear pace, neutral tone, slightly warm bedside manner. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "My husband says I snore a bit, yes. And I often wake up feeling like I didn’t really rest.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female South African English speaker, natural conversational pace, mild South African English accent, slightly tired but clear and cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you, that’s helpful. I’m going to check your blood pressure today, and we should also do some blood tests for anaemia, thyroid, kidney function, and diabetes screening. We may also consider sleep issues, including possible sleep apnoea, depending on the results.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear pace, neutral tone, slightly warm bedside manner. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay. Does that mean the tiredness is serious?",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female South African English speaker, natural conversational pace, mild South African English accent, slightly tired but clear and cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "At this stage it doesn’t sound urgent, which is reassuring. My impression is that the fatigue could be related to poor sleep, stress, or possibly something like anaemia, thyroid problems, or blood sugar issues. Your blood pressure may also need a review, especially if it has been running high or if the ibuprofen is affecting it. Today we’ll check your pressure, review your readings if you have any, and arrange the blood tests. In the meantime, try to take the amlodipine daily, limit ibuprofen if possible, and keep a simple log of headaches, sleep, and any home blood pressure readings. Please come back sooner if you develop chest pain, shortness of breath, fainting, severe headaches, or sudden swelling. Otherwise, let’s review the results and decide whether your treatment needs adjusting.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Adult South African English speaker, calm and professional, clear pace, neutral tone, slightly warm bedside manner. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

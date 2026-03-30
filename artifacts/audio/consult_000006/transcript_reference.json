@@ -1,0 +1,107 @@
+{
+  "consultation_id": "consult_000006",
+  "source_record": "data\\processed\\train.jsonl:7",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting these on and off headaches for about three weeks."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. Let\u2019s go through both. Have you been checking your blood pressure at home, and if so, what sort of readings have you been getting?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "I have checked it a few times at the pharmacy. It\u2019s usually around 140 over 88, sometimes a bit higher."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. And are you taking your amlodipine 5 mg every day as prescribed? Any missed doses or side effects like swelling, flushing, or dizziness?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "I\u2019m taking it daily. I\u2019ve missed maybe one dose in the last month. No real side effects, maybe just a little ankle puffiness now and then."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Thanks. Tell me more about the headaches. Where do you feel them, what do they feel like, and how long do they last?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Mostly across my forehead or behind my eyes. It feels like a dull pressure. It comes and goes, maybe a few hours at a time."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Do you get any warning signs with them, like blurred vision, nausea, weakness, numbness, trouble speaking, or a very sudden severe headache?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, none of that. It\u2019s not severe. I can still work, it\u2019s just annoying."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That\u2019s helpful. Any triggers you\u2019ve noticed, like stress, poor sleep, skipping meals, more screen time, caffeine, or dehydration?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Stress at work is probably part of it. We\u2019ve been busy at school. I also sit at a computer a lot, and I probably don\u2019t drink enough water during the day."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Understood. How about your sleep, exercise, and alcohol on weekends? And do you still walk a few times a week?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Sleep is okay, maybe not perfect. I still walk, but not as much lately. I do have a few drinks on weekends, nothing too much."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Any chest pain, shortness of breath, palpitations, swelling that is getting worse, or headaches that wake you from sleep?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, none of those. The ankle puffiness is mild and comes and goes."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Okay. Your blood pressure is still a bit above target, but it\u2019s not dangerously high. The headaches sound more like tension or strain headaches than something urgent. I\u2019d like to check your blood pressure here today and review your home readings if you have them."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Yes, I brought the pharmacy printout with me."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Great. I\u2019m also going to examine you briefly and look for any signs of medication side effects. If the pressure is still running high, we may need to adjust the treatment. For now, keep taking the amlodipine, drink more water, and try regular meals, screen breaks, and gentle exercise."
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "That sounds fine. I was a bit worried it might be something serious."
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "At this stage it does not sound like an emergency. My impression is mildly uncontrolled hypertension with likely tension-type headaches, possibly made worse by stress, posture, and low fluid intake. Next, we\u2019ll check your in-clinic blood pressure, review the home readings, and decide whether to keep the same dose or step up treatment. Please come back in a few weeks for follow-up, and seek urgent care sooner if you get a sudden severe headache, chest pain, shortness of breath, weakness, vision changes, or if your blood pressure is very high with symptoms."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting these on and off headaches for about three weeks. doctor: Hello, thanks for coming in. Let\u2019s go through both. Have you been checking your blood pressure at home, and if so, what sort of readings have you been getting? patient: I have checked it a few times at the pharmacy. It\u2019s usually around 140 over 88, sometimes a bit higher. doctor: Okay. And are you taking your amlodipine 5 mg every day as prescribed? Any missed doses or side effects like swelling, flushing, or dizziness? patient: I\u2019m taking it daily. I\u2019ve missed maybe one dose in the last month. No real side effects, maybe just a little ankle puffiness now and then. doctor: Thanks. Tell me more about the headaches. Where do you feel them, what do they feel like, and how long do they last? patient: Mostly across my forehead or behind my eyes. It feels like a dull pressure. It comes and goes, maybe a few hours at a time. doctor: Do you get any warning signs with them, like blurred vision, nausea, weakness, numbness, trouble speaking, or a very sudden severe headache? patient: No, none of that. It\u2019s not severe. I can still work, it\u2019s just annoying. doctor: That\u2019s helpful. Any triggers you\u2019ve noticed, like stress, poor sleep, skipping meals, more screen time, caffeine, or dehydration? patient: Stress at work is probably part of it. We\u2019ve been busy at school. I also sit at a computer a lot, and I probably don\u2019t drink enough water during the day. doctor: Understood. How about your sleep, exercise, and alcohol on weekends? And do you still walk a few times a week? patient: Sleep is okay, maybe not perfect. I still walk, but not as much lately. I do have a few drinks on weekends, nothing too much. doctor: Any chest pain, shortness of breath, palpitations, swelling that is getting worse, or headaches that wake you from sleep? patient: No, none of those. The ankle puffiness is mild and comes and goes. doctor: Okay. Your blood pressure is still a bit above target, but it\u2019s not dangerously high. The headaches sound more like tension or strain headaches than something urgent. I\u2019d like to check your blood pressure here today and review your home readings if you have them. patient: Yes, I brought the pharmacy printout with me. doctor: Great. I\u2019m also going to examine you briefly and look for any signs of medication side effects. If the pressure is still running high, we may need to adjust the treatment. For now, keep taking the amlodipine, drink more water, and try regular meals, screen breaks, and gentle exercise. patient: That sounds fine. I was a bit worried it might be something serious. doctor: At this stage it does not sound like an emergency. My impression is mildly uncontrolled hypertension with likely tension-type headaches, possibly made worse by stress, posture, and low fluid intake. Next, we\u2019ll check your in-clinic blood pressure, review the home readings, and decide whether to keep the same dose or step up treatment. Please come back in a few weeks for follow-up, and seek urgent care sooner if you get a sudden severe headache, chest pain, shortness of breath, weakness, vision changes, or if your blood pressure is very high with symptoms."
+}

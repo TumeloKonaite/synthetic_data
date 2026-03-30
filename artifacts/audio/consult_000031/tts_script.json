@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000031",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure follow-up, and I’ve also been getting some headaches on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first but easy to reassure, clear pronunciation, occasional pauses while thinking.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let’s go through it carefully. Tell me more about the headaches first, and then we’ll review your blood pressure readings and medication.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone, moderate pace, warm and reassuring, suitable for a routine primary care visit.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "They’ve been happening for about two months. Not every day. Mostly a dull ache, sometimes at the front of my head.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first but easy to reassure, clear pronunciation, occasional pauses while thinking.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do they come with nausea, blurred vision, dizziness, or weakness? And do they wake you from sleep or get worse suddenly?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone, moderate pace, warm and reassuring, suitable for a routine primary care visit.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. They don’t wake me up. They’re just annoying, really. Sometimes after a long day at work.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first but easy to reassure, clear pronunciation, occasional pauses while thinking.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That is helpful. How long do they last, and what do you usually do for them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone, moderate pace, warm and reassuring, suitable for a routine primary care visit.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Maybe a few hours. I take paracetamol sometimes, and that helps. If I’m stressed or haven’t had enough water, it seems worse.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first but easy to reassure, clear pronunciation, occasional pauses while thinking.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Understood. Any chest pain, shortness of breath, palpitations, or swelling in your legs?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone, moderate pace, warm and reassuring, suitable for a routine primary care visit.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, none of those. I feel fine otherwise.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first but easy to reassure, clear pronunciation, occasional pauses while thinking.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Let’s talk about the blood pressure. Have you been checking it at home, and if so, what sort of numbers are you seeing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone, moderate pace, warm and reassuring, suitable for a routine primary care visit.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, sometimes. It’s usually around 140 over 90, give or take. A few times it was a bit lower.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first but easy to reassure, clear pronunciation, occasional pauses while thinking.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "And are you taking the amlodipine 5 mg every day? Any side effects like ankle swelling, flushing, or dizziness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone, moderate pace, warm and reassuring, suitable for a routine primary care visit.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I take it most days. I may have missed a couple of doses. No real side effects, maybe a little flushing now and then.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first but easy to reassure, clear pronunciation, occasional pauses while thinking.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thank you. How has your lifestyle been lately — salt intake, exercise, alcohol, and sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone, moderate pace, warm and reassuring, suitable for a routine primary care visit.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I sit a lot at work. I try to walk a few times a week, but not as much as I should. I do enjoy salty food, and I drink socially on weekends. Sleep is okay.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first but easy to reassure, clear pronunciation, occasional pauses while thinking.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Any chance of pregnancy, and have you had any recent illness, fever, sinus symptoms, or new medicines or supplements?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone, moderate pace, warm and reassuring, suitable for a routine primary care visit.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No pregnancy. No recent illness. I’m not taking anything new, just the blood pressure tablets and the occasional paracetamol.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first but easy to reassure, clear pronunciation, occasional pauses while thinking.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thanks. From what you’ve described, these sound more like tension-type headaches, and your blood pressure is a little above target rather than dangerously high. I’d like to check your blood pressure here today, review your readings, and then likely adjust your treatment and focus on lifestyle measures. We should also make sure your headaches are not changing pattern. If you get a sudden severe headache, vision changes, weakness, chest pain, or breathlessness, you should seek urgent care. Let’s do the measurement now, and then we’ll decide on the next step together.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone, moderate pace, warm and reassuring, suitable for a routine primary care visit.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

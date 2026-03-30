@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000035",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure check. I’ve also been getting headaches now and then over the last few months.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with South African English accent, mild concern, clear everyday speech, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Thanks for coming in. I’m glad you brought it up. Tell me a bit more about the headaches and how your blood pressure has been at home, if you have been checking it.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "I check it sometimes at the pharmacy. It’s been a bit high, not always, but enough to worry me. The headaches are usually mild, mostly at the end of the day.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with South African English accent, mild concern, clear everyday speech, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Where is the headache located, and what does it feel like? Any nausea, blurred vision, dizziness, chest pain, or shortness of breath with it?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly around my forehead or behind my eyes. It feels like pressure. No chest pain or breathing trouble. Sometimes I feel a bit tired, but that’s about it.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with South African English accent, mild concern, clear everyday speech, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That sounds more like a tension-type or pressure headache, but let me ask a few more things. How often is it happening, and how long does it last?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Maybe two or three times a week. It usually lasts a few hours. Panado helps most times.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with South African English accent, mild concern, clear everyday speech, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Thank you. Have you missed any of your amlodipine doses? And have there been any changes in your stress, sleep, caffeine, or salt intake lately?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I do miss the odd tablet, maybe once every week or two. Work has been busy, so I’m more stressed. I do drink quite a lot of coffee during the day.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with South African English accent, mild concern, clear everyday speech, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That can definitely push blood pressure up. Any swelling in your ankles, palpitations, fainting, weakness on one side, or trouble speaking?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headaches and sometimes I feel tense.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with South African English accent, mild concern, clear everyday speech, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "All right. Let me also check your background a bit. Are you exercising, and how is your weight been recently? Any chance you could be pregnant?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I walk a few times a week, but not as much as I should. My weight has gone up a bit. And no, I’m not pregnant.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with South African English accent, mild concern, clear everyday speech, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thank you. I’d like to measure your blood pressure here today and review your readings if you have them. We should also think about blood tests, because high blood pressure can be linked with kidney issues, sugar, and cholesterol.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "That makes sense. I was worried it might be something serious because of the headaches.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with South African English accent, mild concern, clear everyday speech, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "It is understandable to worry. From what you’ve told me, this does not sound like an emergency, especially since you have no chest pain, breathing problems, neurological symptoms, or sudden severe headache. But we still need to make sure your pressure is controlled.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay. What should I do about the medicine?",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with South African English accent, mild concern, clear everyday speech, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "My likely impression is that your blood pressure may be a bit above target, with headaches possibly made worse by stress, missed doses, and caffeine. I’d like to check your blood pressure now, and if it is still elevated, we may increase the amlodipine or add another medicine after reviewing your readings and blood tests. In the meantime, take the tablet daily, try to reduce salt and caffeine, keep walking, and monitor your blood pressure if you can. Please come back sooner if the headache becomes sudden or severe, or if you develop chest pain, shortness of breath, weakness, vision changes, or speech trouble. Otherwise, we’ll review you again soon once we have the readings and test results.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

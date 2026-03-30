@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000016",
+  "source_record": "data\\processed\\train.jsonl:17",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also been getting these on-and-off headaches for the last few weeks."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. We\u2019ll go through both. How have your blood pressure readings been at home, if you\u2019ve been checking them?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "I have checked a few times. They seem a bit up and down. Mostly around the 140s over 90s, sometimes a bit lower."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. And are you taking your amlodipine every day, or have there been any missed doses?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly yes. I may have missed one or two doses when work was hectic, but not often."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That\u2019s helpful. Tell me about the headaches. Where do you feel them, and what do they feel like?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "It\u2019s usually across my forehead or at the back of my head. More like a dull ache than a sharp pain."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Do they come with blurred vision, nausea, weakness, chest pain, shortness of breath, or any numbness?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel a bit tense and tired after a long day at the desk."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Do you notice anything that triggers them, like stress, poor sleep, dehydration, or skipping meals?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Probably stress and staring at the screen. I also don\u2019t always drink enough water during the day."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Any fever, recent illness, head injury, or headaches waking you from sleep?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No, nothing like that. They don\u2019t wake me up. They just come and go."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Good. How has your diet been, and are you using much salt, takeaway food, or alcohol on weekends?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I do have some takeaway, maybe twice a week. I drink socially on weekends, but not a lot. I know I probably need to walk more too."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "That\u2019s fine, and it\u2019s good you\u2019re already walking sometimes. Any side effects from amlodipine, like ankle swelling, flushing, or dizziness?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No swelling or dizziness. I\u2019ve been okay on it."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thank you. From what you\u2019ve told me, this sounds more like blood pressure that is still a little above target, with headaches that may be tension or stress related rather than a dangerous cause. I\u2019d like to check your blood pressure here today, review your home readings, and then we can decide if your medication needs adjusting. In the meantime, keep taking the amlodipine daily, try to hydrate, and limit salt and caffeine. If the headaches become sudden and severe, or you get chest pain, weakness, vision changes, or shortness of breath, seek urgent care. Otherwise, let\u2019s plan follow-up after today\u2019s reading and a short home log."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also been getting these on-and-off headaches for the last few weeks. doctor: Hello, thanks for coming in. We\u2019ll go through both. How have your blood pressure readings been at home, if you\u2019ve been checking them? patient: I have checked a few times. They seem a bit up and down. Mostly around the 140s over 90s, sometimes a bit lower. doctor: Okay. And are you taking your amlodipine every day, or have there been any missed doses? patient: Mostly yes. I may have missed one or two doses when work was hectic, but not often. doctor: That\u2019s helpful. Tell me about the headaches. Where do you feel them, and what do they feel like? patient: It\u2019s usually across my forehead or at the back of my head. More like a dull ache than a sharp pain. doctor: Do they come with blurred vision, nausea, weakness, chest pain, shortness of breath, or any numbness? patient: No, none of that. Just the headache. Sometimes I feel a bit tense and tired after a long day at the desk. doctor: Do you notice anything that triggers them, like stress, poor sleep, dehydration, or skipping meals? patient: Probably stress and staring at the screen. I also don\u2019t always drink enough water during the day. doctor: Any fever, recent illness, head injury, or headaches waking you from sleep? patient: No, nothing like that. They don\u2019t wake me up. They just come and go. doctor: Good. How has your diet been, and are you using much salt, takeaway food, or alcohol on weekends? patient: I do have some takeaway, maybe twice a week. I drink socially on weekends, but not a lot. I know I probably need to walk more too. doctor: That\u2019s fine, and it\u2019s good you\u2019re already walking sometimes. Any side effects from amlodipine, like ankle swelling, flushing, or dizziness? patient: No swelling or dizziness. I\u2019ve been okay on it. doctor: Thank you. From what you\u2019ve told me, this sounds more like blood pressure that is still a little above target, with headaches that may be tension or stress related rather than a dangerous cause. I\u2019d like to check your blood pressure here today, review your home readings, and then we can decide if your medication needs adjusting. In the meantime, keep taking the amlodipine daily, try to hydrate, and limit salt and caffeine. If the headaches become sudden and severe, or you get chest pain, weakness, vision changes, or shortness of breath, seek urgent care. Otherwise, let\u2019s plan follow-up after today\u2019s reading and a short home log."
+}

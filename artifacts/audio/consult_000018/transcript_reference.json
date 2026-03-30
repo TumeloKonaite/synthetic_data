@@ -1,0 +1,107 @@
+{
+  "consultation_id": "consult_000018",
+  "source_record": "data\\processed\\train.jsonl:19",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019ve had a dry cough and I\u2019ve been a bit tired for about two weeks. I\u2019m also here for my blood pressure follow-up."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let\u2019s go through both issues. Have you had any fever, shortness of breath, chest pain, or coughing up phlegm or blood?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "No fever. No chest pain. I\u2019m not short of breath. It\u2019s mostly just a dry cough, especially when I talk a lot at work."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Any sore throat, runny nose, wheezing, heartburn, or post-nasal drip? And have you had any sick contacts recently?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "I do get a bit of a tickle in my throat. I\u2019ve had some sneezing too, but that happens with my allergies. No heartburn. I don\u2019t know about sick contacts."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That helps. Is the cough worse at night, when you lie down, or after exercise? And have you noticed any weight loss, night sweats, or feeling very unwell?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. It\u2019s not really worse at night. Mostly during the day when I\u2019m speaking a lot. I haven\u2019t lost weight."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Good. Tell me about your blood pressure medication. Are you taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or headaches?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I only miss it now and then if I\u2019m rushing. No dizziness. My ankles maybe swell a little by the evening, but not badly."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Have you checked your blood pressure at home or elsewhere recently?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I checked at a pharmacy last week. It was around 134 over 84. I can\u2019t remember the exact number, but it was not too high."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "That sounds fairly reasonable. I\u2019d like to ask a few more general questions. Do you smoke or vape, and do you have any asthma or lung problems?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No, I don\u2019t smoke or vape. And I\u2019ve never had asthma. I do have seasonal allergies, though."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Understood. Have you taken anything for the cough besides your cetirizine? Any new medicines, including blood pressure tablets or over-the-counter remedies?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, just the cetirizine sometimes. No new medicines."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thanks. On examination your blood pressure is a little above target today, but not dangerously high. Your chest sounds clear, and I\u2019m not finding anything worrying. This cough sounds most like irritation from allergies or throat tickle, possibly made worse by talking a lot at work."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay. So it\u2019s probably not anything serious?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "At this stage, it does not sound serious. I\u2019d suggest good fluid intake, avoiding throat irritants, and using your cetirizine more regularly for a short period if your allergies are active. For the blood pressure, keep taking the amlodipine daily and try not to miss doses. We can also review whether the ankle swelling is from the medication if it becomes more noticeable."
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "Alright. Should I come back if the cough stays on?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Yes. If the cough is not improving over the next two to three weeks, or if you develop fever, shortness of breath, chest pain, blood in the sputum, wheezing, or unexplained weight loss, please come back sooner. Otherwise, I\u2019d like you to book a routine follow-up for your blood pressure and cough review, and we can consider further tests if it persists."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019ve had a dry cough and I\u2019ve been a bit tired for about two weeks. I\u2019m also here for my blood pressure follow-up. doctor: Good morning. Let\u2019s go through both issues. Have you had any fever, shortness of breath, chest pain, or coughing up phlegm or blood? patient: No fever. No chest pain. I\u2019m not short of breath. It\u2019s mostly just a dry cough, especially when I talk a lot at work. doctor: Okay. Any sore throat, runny nose, wheezing, heartburn, or post-nasal drip? And have you had any sick contacts recently? patient: I do get a bit of a tickle in my throat. I\u2019ve had some sneezing too, but that happens with my allergies. No heartburn. I don\u2019t know about sick contacts. doctor: That helps. Is the cough worse at night, when you lie down, or after exercise? And have you noticed any weight loss, night sweats, or feeling very unwell? patient: No, none of that. It\u2019s not really worse at night. Mostly during the day when I\u2019m speaking a lot. I haven\u2019t lost weight. doctor: Good. Tell me about your blood pressure medication. Are you taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or headaches? patient: Yes, I take it daily. I only miss it now and then if I\u2019m rushing. No dizziness. My ankles maybe swell a little by the evening, but not badly. doctor: Thank you. Have you checked your blood pressure at home or elsewhere recently? patient: I checked at a pharmacy last week. It was around 134 over 84. I can\u2019t remember the exact number, but it was not too high. doctor: That sounds fairly reasonable. I\u2019d like to ask a few more general questions. Do you smoke or vape, and do you have any asthma or lung problems? patient: No, I don\u2019t smoke or vape. And I\u2019ve never had asthma. I do have seasonal allergies, though. doctor: Understood. Have you taken anything for the cough besides your cetirizine? Any new medicines, including blood pressure tablets or over-the-counter remedies? patient: No, just the cetirizine sometimes. No new medicines. doctor: Thanks. On examination your blood pressure is a little above target today, but not dangerously high. Your chest sounds clear, and I\u2019m not finding anything worrying. This cough sounds most like irritation from allergies or throat tickle, possibly made worse by talking a lot at work. patient: Okay. So it\u2019s probably not anything serious? doctor: At this stage, it does not sound serious. I\u2019d suggest good fluid intake, avoiding throat irritants, and using your cetirizine more regularly for a short period if your allergies are active. For the blood pressure, keep taking the amlodipine daily and try not to miss doses. We can also review whether the ankle swelling is from the medication if it becomes more noticeable. patient: Alright. Should I come back if the cough stays on? doctor: Yes. If the cough is not improving over the next two to three weeks, or if you develop fever, shortness of breath, chest pain, blood in the sputum, wheezing, or unexplained weight loss, please come back sooner. Otherwise, I\u2019d like you to book a routine follow-up for your blood pressure and cough review, and we can consider further tests if it persists."
+}

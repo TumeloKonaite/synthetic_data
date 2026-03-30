@@ -1,0 +1,155 @@
+{
+  "consultation_id": "consult_000020",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure follow-up. I’ve also been getting headaches on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational speech, slightly hesitant at times, soft but clear voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. Let’s go through it carefully. Tell me about the headaches and how your blood pressure has been at home, if you’ve been checking it.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "I check it sometimes at the pharmacy. It’s been up a few times. The headaches are not every day, but they come and go for about three months.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational speech, slightly hesitant at times, soft but clear voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. When the headache comes, where do you feel it, and what does it feel like? Also, any blurred vision, chest pain, shortness of breath, or weakness with it?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly around my forehead or the back of my head. It feels like a dull pressure. No chest pain or weakness. No shortness of breath either.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational speech, slightly hesitant at times, soft but clear voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That is helpful. Any nausea, vomiting, fever, or headaches that wake you from sleep? And do you ever get a very sudden, severe headache, the worst one of your life?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, nothing like that. It’s annoying, but not severe like that. I can still work.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational speech, slightly hesitant at times, soft but clear voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Good. Let’s talk about the blood pressure medication. Are you taking the amlodipine every day? Any side effects like swollen ankles, flushing, or dizziness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I do take it daily. I missed a dose once or twice, but not often. No real side effects, maybe a bit of ankle swelling sometimes, but mild.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational speech, slightly hesitant at times, soft but clear voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Alright. What sort of numbers have you seen at the pharmacy, if you remember? And have there been any changes in salt intake, stress, sleep, or exercise lately?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "It’s often around 145 over 90, sometimes a bit higher. Work has been stressful, and I’ve been less active. I do eat takeaways more than I should, honestly.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational speech, slightly hesitant at times, soft but clear voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thank you, that gives me a clear picture. Any kidney problems, diabetes, or high cholesterol that you know of? And does anyone in the family have hypertension or diabetes?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No kidney problems that I know of. My mother has high blood pressure, and my father has type 2 diabetes.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational speech, slightly hesitant at times, soft but clear voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Understood. I’m going to check your blood pressure here today and review your overall risk. We’ll also look at weight, lifestyle factors, and whether the current dose is enough. Have you ever had blood tests for kidney function or potassium on this medicine?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Yes, I had blood tests last year, I think. They said things were okay. I’m a bit worried the headaches mean something serious.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational speech, slightly hesitant at times, soft but clear voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "I can understand that. From what you’ve told me, the headaches do not sound like an emergency pattern, which is reassuring. The main issue may be blood pressure that is still a little higher than we want. I’ll check you now, then we can decide whether to adjust treatment and talk through lifestyle steps as well.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and clear, moderate pace, professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

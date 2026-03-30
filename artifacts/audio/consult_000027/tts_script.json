@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000027",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure follow-up. I’ve also had these occasional headaches for the last two weeks.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female, natural conversational tone, mildly concerned, medium pace, clear and polite. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. I’m glad you came in. Let’s talk through both. How have you been feeling overall, and have you been checking your blood pressure at home?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Overall I’m fine. I do check it sometimes at the pharmacy. It’s been a bit up and down, but not very high as far as I know.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female, natural conversational tone, mildly concerned, medium pace, clear and polite. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Do you remember any recent readings? And with the headaches, where do you feel them, and what do they feel like?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "The last one I saw was around 138 over 86. The headaches are mostly across my forehead. It feels like pressure, not a terrible pain.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female, natural conversational tone, mildly concerned, medium pace, clear and polite. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That sounds more like a tension-type headache. Do they come with blurred vision, nausea, weakness, chest pain, or shortness of breath?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I think it’s worse after a long day at work or if I haven’t had enough water.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female, natural conversational tone, mildly concerned, medium pace, clear and polite. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That helps. How often are you taking your amlodipine, and have you missed any doses recently? Any side effects like swelling in the ankles?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I take it every morning. I haven’t missed many doses. No ankle swelling that I’ve noticed.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female, natural conversational tone, mildly concerned, medium pace, clear and polite. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Good. Let me ask about a few other things. How are your sleep, stress, caffeine intake, and alcohol on weekends?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Work has been busy, so I’m probably more stressed than usual. I do drink coffee, maybe two cups a day. Alcohol is only sometimes on weekends.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female, natural conversational tone, mildly concerned, medium pace, clear and polite. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thanks. Any recent illness, sinus symptoms, or allergy flare-ups? Sometimes those can also contribute to headaches.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "My allergies have been a bit annoying, but nothing major. A little sneezing and blocked nose now and then.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female, natural conversational tone, mildly concerned, medium pace, clear and polite. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Understood. And just to confirm, no history of migraine, head injury, or headaches waking you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No head injury, and they don’t wake me up. I’ve had the odd headache before, but this feels more frequent lately.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female, natural conversational tone, mildly concerned, medium pace, clear and polite. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "All right. Your story is reassuring. Your blood pressure sounds close to target, and the headaches seem mild and related to stress, hydration, or maybe tension and allergies rather than something dangerous.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "doctor",
+      "text": "I’d like to check your blood pressure here today, review your readings if you have them, and continue the amlodipine for now. We can also discuss simple headache measures like regular fluids, reducing caffeine a little, better sleep, and paracetamol if needed, unless you have been told not to take it.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "If the headaches become severe, come with blurred vision, weakness, chest pain, breathlessness, or if your blood pressure is repeatedly very high, please seek urgent care. Otherwise, let’s arrange follow-up after today’s reading and review whether any medication adjustment is needed.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear pronunciation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

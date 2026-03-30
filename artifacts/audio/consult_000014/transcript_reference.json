@@ -1,0 +1,87 @@
+{
+  "consultation_id": "consult_000014",
+  "source_record": "data\\processed\\train.jsonl:15",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also got this dry cough that just won\u2019t go away."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let\u2019s take a look at both. How long have you had the cough, and have you noticed anything else with it?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About two weeks now. It\u2019s dry, mostly at night. No phlegm. It\u2019s a bit annoying, but I\u2019m otherwise okay."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Any fever, shortness of breath, wheezing, chest pain, or coughing up blood?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. Just the cough. My throat feels a little tickly sometimes."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "All right. Do you have a runny nose, sneezing, or post-nasal drip? And have your allergies been bothering you lately?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Yes, actually. I\u2019ve had some sneezing and a bit of a blocked nose. The pollen seems bad again."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That does sound like allergies. Are you taking the cetirizine regularly, or only when you need it?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Only when I need it. I took it a few times this week, but not every day."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Let\u2019s talk about your blood pressure now. Have you been taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or flushing?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. No real side effects. Maybe a little swelling in the evenings sometimes, but it\u2019s mild."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Okay. Do you know what your home readings have been, if you\u2019ve checked them?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I checked a few times at the pharmacy. It was around 132 over 84 last week, and one reading was 128 over 80."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Those are fairly good. I\u2019d like to confirm with today\u2019s reading here. Before I do that, any headaches, vision changes, palpitations, or swelling that\u2019s getting worse?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No headaches or vision changes. The swelling is not bad, and the cough is really the main thing bothering me."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Understood. I\u2019m thinking the cough is most likely from your allergies or post-nasal drip, rather than anything serious. Your blood pressure sounds reasonably controlled on the current dose. I\u2019ll check your pressure now, and if it stays around this range, we can keep the amlodipine as is for the moment. For the cough, I\u2019d suggest taking the cetirizine daily for the next couple of weeks, and using saline nasal rinses if you tolerate them. If the symptoms don\u2019t improve, we can review whether you need a different allergy treatment. Please come back sooner if you get shortness of breath, chest pain, fever, coughing blood, or if the cough lasts beyond about 3 to 4 weeks. We\u2019ll also keep an eye on the ankle swelling and your blood pressure at follow-up."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also got this dry cough that just won\u2019t go away. doctor: Good morning. Let\u2019s take a look at both. How long have you had the cough, and have you noticed anything else with it? patient: About two weeks now. It\u2019s dry, mostly at night. No phlegm. It\u2019s a bit annoying, but I\u2019m otherwise okay. doctor: Any fever, shortness of breath, wheezing, chest pain, or coughing up blood? patient: No, none of that. Just the cough. My throat feels a little tickly sometimes. doctor: All right. Do you have a runny nose, sneezing, or post-nasal drip? And have your allergies been bothering you lately? patient: Yes, actually. I\u2019ve had some sneezing and a bit of a blocked nose. The pollen seems bad again. doctor: That does sound like allergies. Are you taking the cetirizine regularly, or only when you need it? patient: Only when I need it. I took it a few times this week, but not every day. doctor: Thank you. Let\u2019s talk about your blood pressure now. Have you been taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or flushing? patient: Yes, I take it daily. No real side effects. Maybe a little swelling in the evenings sometimes, but it\u2019s mild. doctor: Okay. Do you know what your home readings have been, if you\u2019ve checked them? patient: I checked a few times at the pharmacy. It was around 132 over 84 last week, and one reading was 128 over 80. doctor: Those are fairly good. I\u2019d like to confirm with today\u2019s reading here. Before I do that, any headaches, vision changes, palpitations, or swelling that\u2019s getting worse? patient: No headaches or vision changes. The swelling is not bad, and the cough is really the main thing bothering me. doctor: Understood. I\u2019m thinking the cough is most likely from your allergies or post-nasal drip, rather than anything serious. Your blood pressure sounds reasonably controlled on the current dose. I\u2019ll check your pressure now, and if it stays around this range, we can keep the amlodipine as is for the moment. For the cough, I\u2019d suggest taking the cetirizine daily for the next couple of weeks, and using saline nasal rinses if you tolerate them. If the symptoms don\u2019t improve, we can review whether you need a different allergy treatment. Please come back sooner if you get shortness of breath, chest pain, fever, coughing blood, or if the cough lasts beyond about 3 to 4 weeks. We\u2019ll also keep an eye on the ankle swelling and your blood pressure at follow-up."
+}

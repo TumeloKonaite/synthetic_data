@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000037",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure check, but I’ve also been feeling tired for about three weeks.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, slightly tired-sounding, conversational pace, mild concern, plain speech. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, come in. I’m glad you came. Let’s talk through both issues. Have you noticed anything else with the tiredness, like headaches, dizziness, chest pain, shortness of breath, or swelling in the legs?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, medium pace, clear articulation, female adult voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. I do get a bit of a dull headache sometimes, and I feel low on energy by the afternoon.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, slightly tired-sounding, conversational pace, mild concern, plain speech. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Any fever, cough, weight loss, mood changes, poor sleep, or snoring at night?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, medium pace, clear articulation, female adult voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No fever or cough. My sleep is not great, but I think that’s mostly work stress. I do snore a bit, my husband says.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, slightly tired-sounding, conversational pace, mild concern, plain speech. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Thanks. How have your blood pressure readings been at home, if you’ve checked them? And have you missed any doses of the amlodipine?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, medium pace, clear articulation, female adult voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I have missed one or two tablets in the last month. I don’t check it often, but last time at the pharmacy it was a bit high, I think.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, slightly tired-sounding, conversational pace, mild concern, plain speech. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That helps. Tell me a bit about your day. How is your eating, exercise, tea or coffee, and alcohol?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, medium pace, clear articulation, female adult voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Honestly, not great. I sit most of the day at work. We do a lot of takeaways during the week. I have tea and coffee, and maybe a drink on weekends, but not much.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, slightly tired-sounding, conversational pace, mild concern, plain speech. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Understood. Any chance you could be pregnant, or have you had heavier periods, black stools, or any other bleeding?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, medium pace, clear articulation, female adult voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, I’m not pregnant. My periods are a bit irregular, but nothing very heavy. No black stools or bleeding.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, slightly tired-sounding, conversational pace, mild concern, plain speech. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. I’d like to check your blood pressure here today, and we may also do some blood tests for things like anaemia, thyroid, sugar, kidney function, and cholesterol, because those can add to tiredness and help us look after the blood pressure properly.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, medium pace, clear articulation, female adult voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "That sounds fine. I was worried something serious was going on.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, slightly tired-sounding, conversational pace, mild concern, plain speech. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "I understand. At the moment, this does not sound like an emergency, which is reassuring. The tiredness could be from poor sleep, stress, the blood pressure not being fully controlled, or something like low iron or blood sugar. We’ll check properly.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, medium pace, clear articulation, female adult voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Okay. Do I need to change my tablets now?",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, slightly tired-sounding, conversational pace, mild concern, plain speech. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Let’s first see your blood pressure today before changing anything. If it is still above target, we may need to adjust the dose or add another medicine. I’d also like you to keep taking the amlodipine daily, and try to take it at the same time each day.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, medium pace, clear articulation, female adult voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Alright. I can do that.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, slightly tired-sounding, conversational pace, mild concern, plain speech. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Great. For now, please aim for less takeaway food, a bit less salt, more water, and some walking most days if you can manage it. I’ll review your results and blood pressure readings, and we’ll decide the next step together. If you develop chest pain, shortness of breath, severe headache, fainting, or swelling that gets worse, please seek urgent care. Otherwise, let’s follow up soon after the tests.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, medium pace, clear articulation, female adult voice. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000036",
+  "source_record": "data\\processed\\train.jsonl:37",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve been getting these odd headaches on and off for the last two weeks."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. We\u2019ll go through it carefully. Tell me a bit more about the headaches first."
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "They\u2019re not terrible, but they\u2019re annoying. Mostly a dull ache, sometimes at the front of my head."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I see. How long do they last, and how often are you getting them?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Maybe an hour or two at a time. A few times a week, not every day."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any nausea, blurred vision, weakness, numbness, fever, or a very sudden severe headache?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache and sometimes I feel a bit tense."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. Do you notice anything that brings them on, like stress, poor sleep, dehydration, or skipping meals?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Work has been busy, and I probably don\u2019t drink enough water. I also sit at my desk most of the day."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That could play a role. How have your home blood pressure readings been, if you have been checking them?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I have checked a few times. It\u2019s usually around 140 over 88, sometimes a bit higher."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "And are you taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or flushing?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. No real side effects that I\u2019ve noticed."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Good. Any chest pain, shortness of breath, palpitations, or swelling in the legs?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thanks. Just to complete the picture, do you smoke, and how much alcohol do you usually have on weekends?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "I don\u2019t smoke. I only drink socially, maybe a couple of glasses on a weekend."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Alright. From what you\u2019ve told me, this sounds like mildly elevated blood pressure with headaches that may be tension-related or linked to stress, hydration, or posture. I\u2019d like to check your blood pressure here today, review your readings, and we may consider adjusting the amlodipine if the numbers stay up. In the meantime, keep taking it daily, drink more water, try regular meals and breaks from the desk, and keep a headache and blood pressure diary. Please seek urgent help if you develop a sudden severe headache, vision changes, weakness, chest pain, or shortness of breath. We\u2019ll arrange follow-up once we\u2019ve checked your readings today."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve been getting these odd headaches on and off for the last two weeks. doctor: Hello, thanks for coming in. We\u2019ll go through it carefully. Tell me a bit more about the headaches first. patient: They\u2019re not terrible, but they\u2019re annoying. Mostly a dull ache, sometimes at the front of my head. doctor: I see. How long do they last, and how often are you getting them? patient: Maybe an hour or two at a time. A few times a week, not every day. doctor: Any nausea, blurred vision, weakness, numbness, fever, or a very sudden severe headache? patient: No, none of that. Just the headache and sometimes I feel a bit tense. doctor: Okay. Do you notice anything that brings them on, like stress, poor sleep, dehydration, or skipping meals? patient: Work has been busy, and I probably don\u2019t drink enough water. I also sit at my desk most of the day. doctor: That could play a role. How have your home blood pressure readings been, if you have been checking them? patient: I have checked a few times. It\u2019s usually around 140 over 88, sometimes a bit higher. doctor: And are you taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or flushing? patient: Yes, I take it daily. No real side effects that I\u2019ve noticed. doctor: Good. Any chest pain, shortness of breath, palpitations, or swelling in the legs? patient: No, nothing like that. doctor: Thanks. Just to complete the picture, do you smoke, and how much alcohol do you usually have on weekends? patient: I don\u2019t smoke. I only drink socially, maybe a couple of glasses on a weekend. doctor: Alright. From what you\u2019ve told me, this sounds like mildly elevated blood pressure with headaches that may be tension-related or linked to stress, hydration, or posture. I\u2019d like to check your blood pressure here today, review your readings, and we may consider adjusting the amlodipine if the numbers stay up. In the meantime, keep taking it daily, drink more water, try regular meals and breaks from the desk, and keep a headache and blood pressure diary. Please seek urgent help if you develop a sudden severe headache, vision changes, weakness, chest pain, or shortness of breath. We\u2019ll arrange follow-up once we\u2019ve checked your readings today."
+}

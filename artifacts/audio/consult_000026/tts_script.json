@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000026",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Good morning, doctor. I’m here for my blood pressure follow-up. I’ve also been getting these headaches on and off for about two weeks.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, natural conversational speech, slightly anxious but clear, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let’s go through it carefully. Tell me about the headaches first. Where do you feel them, and what do they feel like?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and clear, moderate pace, neutral professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly across my forehead or at the back of my head. It’s a dull ache, not very strong, but it worries me.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, natural conversational speech, slightly anxious but clear, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I understand. Are they sudden or severe, or more mild and gradual? Any blurred vision, vomiting, weakness, numbness, or trouble speaking?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and clear, moderate pace, neutral professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. They come and go. Sometimes I notice them after a long day at work.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, natural conversational speech, slightly anxious but clear, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That’s helpful. Have you checked your blood pressure at home recently? And have you missed any doses of your amlodipine or hydrochlorothiazide?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and clear, moderate pace, neutral professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I checked it twice at the pharmacy. It was around 145 over 92 one day and 150 over 94 the next. I’ve missed one tablet maybe last week, but otherwise I take them.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, natural conversational speech, slightly anxious but clear, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Thank you. Any side effects from the tablets, like swelling of the ankles, dizziness, or needing to pass urine a lot?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and clear, moderate pace, neutral professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No swelling. I do get up to urinate more because of the water pill, but nothing major. I feel fine otherwise.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, natural conversational speech, slightly anxious but clear, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Alright. Let me ask a few general questions. How is your sleep, stress, caffeine intake, and alcohol on weekends?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and clear, moderate pace, neutral professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Sleep is not great when work is busy. I do drink two coffees a day, maybe three some days. On weekends I might have a few drinks socially.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, natural conversational speech, slightly anxious but clear, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "And with exercise and food, what does a normal week look like for you?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and clear, moderate pace, neutral professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I sit most of the day at work. I try to walk three times a week, but not always. Food could be better, honestly. I do like salty snacks.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, natural conversational speech, slightly anxious but clear, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That’s honest, and useful. Any chest pain, shortness of breath, palpitations, or leg swelling?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and clear, moderate pace, neutral professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, none of those. Just the headaches and the high readings.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, natural conversational speech, slightly anxious but clear, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Do you know your usual blood pressure when it is well controlled, and have you had any recent blood tests done for kidney function or electrolytes?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and clear, moderate pace, neutral professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Usually it is better than this, maybe around 130s over 80s. I had bloods last year, I think, but not recently.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, natural conversational speech, slightly anxious but clear, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Alright. Your readings are a bit above target, but not dangerously high today from what you’ve described. The headaches sound more like tension-type or stress-related headaches than an emergency cause. I’d like to check your blood pressure here, review your medication use, and arrange routine blood tests. We can also talk about tightening up salt, caffeine, alcohol, and exercise habits, and if the clinic reading is still high, we may need to adjust treatment. If the headache becomes severe, sudden, or comes with vision changes, weakness, confusion, chest pain, or shortness of breath, seek urgent care. Otherwise, let’s examine you now and make a follow-up plan.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and clear, moderate pace, neutral professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

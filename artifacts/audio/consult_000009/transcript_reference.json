@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000009",
+  "source_record": "data\\processed\\train.jsonl:10",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure check. I\u2019ve also been getting some headaches off and on."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. I\u2019m glad you came in. Let\u2019s talk through both. How have you been feeling overall, and what have your home or recent blood pressure readings been like, if you\u2019ve checked them?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Overall okay, just a bit worried. I checked a few times at the pharmacy. It was around 138 over 86, and once 142 over 88."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Thank you. Those readings are mildly elevated but not alarming. Tell me about the headaches. Where do you feel them, how long do they last, and what do they feel like?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly across my forehead and sometimes at the back of my head. It feels like pressure, not sharp. It comes and goes, maybe twice a week."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any nausea, blurred vision, weakness, numbness, chest pain, shortness of breath, or a sudden very severe headache?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. It\u2019s annoying, but not that bad. Paracetamol usually helps."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is reassuring. Are the headaches linked to stress, long screen time, missed meals, poor sleep, caffeine, or dehydration?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Actually, yes. I sit at a desk most of the day, and lately I\u2019ve been skipping lunch. I also sleep a bit late during the week."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That could \u05d1\u05d4\u05d7\u05dc\u05d8 contribute. How have you been taking your amlodipine? Any missed doses or side effects like ankle swelling, flushing, or dizziness?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I take it every morning. I may have missed one or two doses in the last month. No swelling or dizziness that I\u2019ve noticed."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Let me ask a few general questions. Do you smoke, and how much alcohol do you usually have on weekends? Also, how much exercise are you getting?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I don\u2019t smoke. On weekends I may have a few drinks, not every weekend. I try to walk after work, but not always enough."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. Any family history of high blood pressure, stroke, kidney disease, or diabetes?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "My mother has high blood pressure. My father had type 2 diabetes."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Understood. I\u2019d like to check your blood pressure in the room today, and if you\u2019re due, we can also review your weight and arrange blood tests to look at kidney function, sugar, and cholesterol. Does that sound okay?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Yes, that sounds fine. I was hoping it wasn\u2019t anything serious."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "From what you\u2019ve told me, this sounds most likely like mildly suboptimal blood pressure control with tension-type headaches, possibly made worse by stress, missed meals, and sleep pattern. The next step is to check your blood pressure today, review your medication use, and arrange routine blood tests. I\u2019d also like you to keep a home blood pressure diary for two weeks, take amlodipine daily, stay hydrated, avoid skipping meals, and keep up with walking. If the headaches become sudden and severe, or you develop chest pain, weakness, vision changes, or shortness of breath, seek urgent care. Otherwise, we\u2019ll review the results and your readings at follow-up."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure check. I\u2019ve also been getting some headaches off and on. doctor: Hello. I\u2019m glad you came in. Let\u2019s talk through both. How have you been feeling overall, and what have your home or recent blood pressure readings been like, if you\u2019ve checked them? patient: Overall okay, just a bit worried. I checked a few times at the pharmacy. It was around 138 over 86, and once 142 over 88. doctor: Thank you. Those readings are mildly elevated but not alarming. Tell me about the headaches. Where do you feel them, how long do they last, and what do they feel like? patient: Mostly across my forehead and sometimes at the back of my head. It feels like pressure, not sharp. It comes and goes, maybe twice a week. doctor: Any nausea, blurred vision, weakness, numbness, chest pain, shortness of breath, or a sudden very severe headache? patient: No, none of that. It\u2019s annoying, but not that bad. Paracetamol usually helps. doctor: That is reassuring. Are the headaches linked to stress, long screen time, missed meals, poor sleep, caffeine, or dehydration? patient: Actually, yes. I sit at a desk most of the day, and lately I\u2019ve been skipping lunch. I also sleep a bit late during the week. doctor: That could \u05d1\u05d4\u05d7\u05dc\u05d8 contribute. How have you been taking your amlodipine? Any missed doses or side effects like ankle swelling, flushing, or dizziness? patient: I take it every morning. I may have missed one or two doses in the last month. No swelling or dizziness that I\u2019ve noticed. doctor: Good. Let me ask a few general questions. Do you smoke, and how much alcohol do you usually have on weekends? Also, how much exercise are you getting? patient: I don\u2019t smoke. On weekends I may have a few drinks, not every weekend. I try to walk after work, but not always enough. doctor: Thanks. Any family history of high blood pressure, stroke, kidney disease, or diabetes? patient: My mother has high blood pressure. My father had type 2 diabetes. doctor: Understood. I\u2019d like to check your blood pressure in the room today, and if you\u2019re due, we can also review your weight and arrange blood tests to look at kidney function, sugar, and cholesterol. Does that sound okay? patient: Yes, that sounds fine. I was hoping it wasn\u2019t anything serious. doctor: From what you\u2019ve told me, this sounds most likely like mildly suboptimal blood pressure control with tension-type headaches, possibly made worse by stress, missed meals, and sleep pattern. The next step is to check your blood pressure today, review your medication use, and arrange routine blood tests. I\u2019d also like you to keep a home blood pressure diary for two weeks, take amlodipine daily, stay hydrated, avoid skipping meals, and keep up with walking. If the headaches become sudden and severe, or you develop chest pain, weakness, vision changes, or shortness of breath, seek urgent care. Otherwise, we\u2019ll review the results and your readings at follow-up."
+}

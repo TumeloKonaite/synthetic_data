@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000009",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure check. I’ve also been getting some headaches off and on.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English patient voice, mild local accent, plain speaking style, slightly hesitant at first but becomes more comfortable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. I’m glad you came in. Let’s talk through both. How have you been feeling overall, and what have your home or recent blood pressure readings been like, if you’ve checked them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English doctor voice, calm and professional, moderate pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Overall okay, just a bit worried. I checked a few times at the pharmacy. It was around 138 over 86, and once 142 over 88.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English patient voice, mild local accent, plain speaking style, slightly hesitant at first but becomes more comfortable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Thank you. Those readings are mildly elevated but not alarming. Tell me about the headaches. Where do you feel them, how long do they last, and what do they feel like?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English doctor voice, calm and professional, moderate pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly across my forehead and sometimes at the back of my head. It feels like pressure, not sharp. It comes and goes, maybe twice a week.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English patient voice, mild local accent, plain speaking style, slightly hesitant at first but becomes more comfortable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any nausea, blurred vision, weakness, numbness, chest pain, shortness of breath, or a sudden very severe headache?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English doctor voice, calm and professional, moderate pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. It’s annoying, but not that bad. Paracetamol usually helps.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English patient voice, mild local accent, plain speaking style, slightly hesitant at first but becomes more comfortable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is reassuring. Are the headaches linked to stress, long screen time, missed meals, poor sleep, caffeine, or dehydration?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English doctor voice, calm and professional, moderate pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Actually, yes. I sit at a desk most of the day, and lately I’ve been skipping lunch. I also sleep a bit late during the week.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English patient voice, mild local accent, plain speaking style, slightly hesitant at first but becomes more comfortable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That could בהחלט contribute. How have you been taking your amlodipine? Any missed doses or side effects like ankle swelling, flushing, or dizziness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English doctor voice, calm and professional, moderate pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I take it every morning. I may have missed one or two doses in the last month. No swelling or dizziness that I’ve noticed.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English patient voice, mild local accent, plain speaking style, slightly hesitant at first but becomes more comfortable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Let me ask a few general questions. Do you smoke, and how much alcohol do you usually have on weekends? Also, how much exercise are you getting?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English doctor voice, calm and professional, moderate pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I don’t smoke. On weekends I may have a few drinks, not every weekend. I try to walk after work, but not always enough.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English patient voice, mild local accent, plain speaking style, slightly hesitant at first but becomes more comfortable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. Any family history of high blood pressure, stroke, kidney disease, or diabetes?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English doctor voice, calm and professional, moderate pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "My mother has high blood pressure. My father had type 2 diabetes.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English patient voice, mild local accent, plain speaking style, slightly hesitant at first but becomes more comfortable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Understood. I’d like to check your blood pressure in the room today, and if you’re due, we can also review your weight and arrange blood tests to look at kidney function, sugar, and cholesterol. Does that sound okay?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English doctor voice, calm and professional, moderate pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Yes, that sounds fine. I was hoping it wasn’t anything serious.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English patient voice, mild local accent, plain speaking style, slightly hesitant at first but becomes more comfortable. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "From what you’ve told me, this sounds most likely like mildly suboptimal blood pressure control with tension-type headaches, possibly made worse by stress, missed meals, and sleep pattern. The next step is to check your blood pressure today, review your medication use, and arrange routine blood tests. I’d also like you to keep a home blood pressure diary for two weeks, take amlodipine daily, stay hydrated, avoid skipping meals, and keep up with walking. If the headaches become sudden and severe, or you develop chest pain, weakness, vision changes, or shortness of breath, seek urgent care. Otherwise, we’ll review the results and your readings at follow-up.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English doctor voice, calm and professional, moderate pace, clear articulation, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

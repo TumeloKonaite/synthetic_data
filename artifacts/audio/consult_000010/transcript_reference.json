@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000010",
+  "source_record": "data\\processed\\train.jsonl:11",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure check, but I\u2019ve also been getting these headaches on and off for about three weeks."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let\u2019s go through it carefully. Tell me about the headaches first. Where do you feel them, and what are they like?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly at the front or around my temples. It feels like a dull ache, not very sharp. It comes and goes."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. How long do they last, and how bad are they on a scale of 1 to 10?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Maybe an hour or two. I\u2019d say around 4 out of 10. Sometimes it settles if I rest or drink water."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any nausea, blurred vision, weakness, numbness, chest pain, or shortness of breath with the headaches?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. I have not fainted or anything like that."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is reassuring. Have you noticed anything that brings it on, like stress, poor sleep, skipping meals, or lots of screen time?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, actually. Work has been busy, and I sit at the computer most of the day. I probably drink too little water and I\u2019ve not been sleeping great."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thanks. Let\u2019s talk about your blood pressure now. Are you taking the amlodipine every day? Any missed doses or side effects like ankle swelling or flushing?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I take it most days. I may have missed a dose here and there, but not often. No swelling that I\u2019ve noticed."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Any home blood pressure readings, or have you checked it elsewhere recently?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I checked it at a pharmacy last week. It was around 145 over 90, I think. I don\u2019t check it often at home."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Understood. I\u2019d like to ask a few general questions too. Do you smoke, drink alcohol, or use any over-the-counter pain tablets or herbal products for the headaches?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I don\u2019t smoke. I only drink socially. For the headaches I sometimes take paracetamol, maybe once or twice a week. No herbs or anything."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Alright. And just to confirm, do you have any allergies besides penicillin?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No, just penicillin. It gives me a rash."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thanks. From what you\u2019ve told me, this sounds more like tension-type headaches or headaches related to stress, sleep, or blood pressure not being fully controlled. I\u2019d like to check your blood pressure here today and review your readings. We may also need to adjust your treatment if it is still running a bit high. In the meantime, try regular meals, more water, better sleep, and limit pain tablets to only when needed. If you get a sudden severe headache, vision changes, weakness, chest pain, or your blood pressure is very high, seek urgent care. Otherwise, let\u2019s check your BP now and then plan follow-up after that."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure check, but I\u2019ve also been getting these headaches on and off for about three weeks. doctor: Good morning. Let\u2019s go through it carefully. Tell me about the headaches first. Where do you feel them, and what are they like? patient: Mostly at the front or around my temples. It feels like a dull ache, not very sharp. It comes and goes. doctor: Okay. How long do they last, and how bad are they on a scale of 1 to 10? patient: Maybe an hour or two. I\u2019d say around 4 out of 10. Sometimes it settles if I rest or drink water. doctor: Any nausea, blurred vision, weakness, numbness, chest pain, or shortness of breath with the headaches? patient: No, none of that. Just the headache. I have not fainted or anything like that. doctor: That is reassuring. Have you noticed anything that brings it on, like stress, poor sleep, skipping meals, or lots of screen time? patient: Yes, actually. Work has been busy, and I sit at the computer most of the day. I probably drink too little water and I\u2019ve not been sleeping great. doctor: Thanks. Let\u2019s talk about your blood pressure now. Are you taking the amlodipine every day? Any missed doses or side effects like ankle swelling or flushing? patient: I take it most days. I may have missed a dose here and there, but not often. No swelling that I\u2019ve noticed. doctor: Any home blood pressure readings, or have you checked it elsewhere recently? patient: I checked it at a pharmacy last week. It was around 145 over 90, I think. I don\u2019t check it often at home. doctor: Understood. I\u2019d like to ask a few general questions too. Do you smoke, drink alcohol, or use any over-the-counter pain tablets or herbal products for the headaches? patient: I don\u2019t smoke. I only drink socially. For the headaches I sometimes take paracetamol, maybe once or twice a week. No herbs or anything. doctor: Alright. And just to confirm, do you have any allergies besides penicillin? patient: No, just penicillin. It gives me a rash. doctor: Thanks. From what you\u2019ve told me, this sounds more like tension-type headaches or headaches related to stress, sleep, or blood pressure not being fully controlled. I\u2019d like to check your blood pressure here today and review your readings. We may also need to adjust your treatment if it is still running a bit high. In the meantime, try regular meals, more water, better sleep, and limit pain tablets to only when needed. If you get a sudden severe headache, vision changes, weakness, chest pain, or your blood pressure is very high, seek urgent care. Otherwise, let\u2019s check your BP now and then plan follow-up after that."
+}

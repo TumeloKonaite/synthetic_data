@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000031",
+  "source_record": "data\\processed\\train.jsonl:32",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting some headaches on and off."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let\u2019s go through it carefully. Tell me more about the headaches first, and then we\u2019ll review your blood pressure readings and medication."
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "They\u2019ve been happening for about two months. Not every day. Mostly a dull ache, sometimes at the front of my head."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do they come with nausea, blurred vision, dizziness, or weakness? And do they wake you from sleep or get worse suddenly?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. They don\u2019t wake me up. They\u2019re just annoying, really. Sometimes after a long day at work."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That is helpful. How long do they last, and what do you usually do for them?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Maybe a few hours. I take paracetamol sometimes, and that helps. If I\u2019m stressed or haven\u2019t had enough water, it seems worse."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Understood. Any chest pain, shortness of breath, palpitations, or swelling in your legs?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, none of those. I feel fine otherwise."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Let\u2019s talk about the blood pressure. Have you been checking it at home, and if so, what sort of numbers are you seeing?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, sometimes. It\u2019s usually around 140 over 90, give or take. A few times it was a bit lower."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "And are you taking the amlodipine 5 mg every day? Any side effects like ankle swelling, flushing, or dizziness?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I take it most days. I may have missed a couple of doses. No real side effects, maybe a little flushing now and then."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thank you. How has your lifestyle been lately \u2014 salt intake, exercise, alcohol, and sleep?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I sit a lot at work. I try to walk a few times a week, but not as much as I should. I do enjoy salty food, and I drink socially on weekends. Sleep is okay."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Any chance of pregnancy, and have you had any recent illness, fever, sinus symptoms, or new medicines or supplements?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No pregnancy. No recent illness. I\u2019m not taking anything new, just the blood pressure tablets and the occasional paracetamol."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thanks. From what you\u2019ve described, these sound more like tension-type headaches, and your blood pressure is a little above target rather than dangerously high. I\u2019d like to check your blood pressure here today, review your readings, and then likely adjust your treatment and focus on lifestyle measures. We should also make sure your headaches are not changing pattern. If you get a sudden severe headache, vision changes, weakness, chest pain, or breathlessness, you should seek urgent care. Let\u2019s do the measurement now, and then we\u2019ll decide on the next step together."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting some headaches on and off. doctor: Good morning. Let\u2019s go through it carefully. Tell me more about the headaches first, and then we\u2019ll review your blood pressure readings and medication. patient: They\u2019ve been happening for about two months. Not every day. Mostly a dull ache, sometimes at the front of my head. doctor: Do they come with nausea, blurred vision, dizziness, or weakness? And do they wake you from sleep or get worse suddenly? patient: No, none of that. They don\u2019t wake me up. They\u2019re just annoying, really. Sometimes after a long day at work. doctor: That is helpful. How long do they last, and what do you usually do for them? patient: Maybe a few hours. I take paracetamol sometimes, and that helps. If I\u2019m stressed or haven\u2019t had enough water, it seems worse. doctor: Understood. Any chest pain, shortness of breath, palpitations, or swelling in your legs? patient: No, none of those. I feel fine otherwise. doctor: Let\u2019s talk about the blood pressure. Have you been checking it at home, and if so, what sort of numbers are you seeing? patient: Yes, sometimes. It\u2019s usually around 140 over 90, give or take. A few times it was a bit lower. doctor: And are you taking the amlodipine 5 mg every day? Any side effects like ankle swelling, flushing, or dizziness? patient: I take it most days. I may have missed a couple of doses. No real side effects, maybe a little flushing now and then. doctor: Thank you. How has your lifestyle been lately \u2014 salt intake, exercise, alcohol, and sleep? patient: I sit a lot at work. I try to walk a few times a week, but not as much as I should. I do enjoy salty food, and I drink socially on weekends. Sleep is okay. doctor: Any chance of pregnancy, and have you had any recent illness, fever, sinus symptoms, or new medicines or supplements? patient: No pregnancy. No recent illness. I\u2019m not taking anything new, just the blood pressure tablets and the occasional paracetamol. doctor: Thanks. From what you\u2019ve described, these sound more like tension-type headaches, and your blood pressure is a little above target rather than dangerously high. I\u2019d like to check your blood pressure here today, review your readings, and then likely adjust your treatment and focus on lifestyle measures. We should also make sure your headaches are not changing pattern. If you get a sudden severe headache, vision changes, weakness, chest pain, or breathlessness, you should seek urgent care. Let\u2019s do the measurement now, and then we\u2019ll decide on the next step together."
+}

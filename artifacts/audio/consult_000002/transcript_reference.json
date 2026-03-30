@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000002",
+  "source_record": "data\\processed\\train.jsonl:3",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure check, but I\u2019ve also been getting headaches on and off."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. We\u2019ll check both. How long have the headaches been going on, and where do you feel them?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About two months now. Mostly at the front of my head, like a dull pressure. It comes and goes."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do they come with nausea, blurred vision, weakness, or any numbness?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. Just a bit annoying. Sometimes I feel it after a long day at work."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Okay. Any fever, neck stiffness, head injury, or headaches that wake you from sleep?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No fever or injury. They don\u2019t wake me up. I usually notice them in the afternoon."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Tell me about your blood pressure medicine. Are you taking the amlodipine every day?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I only miss it maybe once in a while if I\u2019m rushing."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Any side effects from it, like ankle swelling, flushing, or dizziness?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, nothing really. Maybe a little tired sometimes, but I\u2019m not sure if it\u2019s the tablets."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "How has your lifestyle been lately? Things like salt intake, exercise, sleep, and stress can affect both blood pressure and headaches."
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I\u2019m mostly sitting at work all week. I know I don\u2019t exercise enough. I do sleep okay, but work has been busy. I probably eat too much takeaway too."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That helps. Do you smoke, or drink much alcohol?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No smoking. I only drink socially on weekends, not a lot."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. I\u2019ll check your blood pressure now. We\u2019ll also look at your weight and talk about a plan that fits your routine."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay, that\u2019s fine. I\u2019ve been a bit worried because my mother also has high blood pressure."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "That family history is useful. Based on what you\u2019ve told me, the headaches sound more like tension or lifestyle-related headaches than anything dangerous, but I\u2019d like to confirm your blood pressure reading first. If it\u2019s still high, we may need to adjust treatment. For now, keep taking amlodipine, try to reduce salt, drink enough water, and add regular walking during the week. If the headaches become severe, sudden, or come with vision changes, weakness, chest pain, or shortness of breath, seek urgent care. Otherwise, we\u2019ll review the reading today and arrange follow-up soon."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure check, but I\u2019ve also been getting headaches on and off. doctor: Hello. Thanks for coming in. We\u2019ll check both. How long have the headaches been going on, and where do you feel them? patient: About two months now. Mostly at the front of my head, like a dull pressure. It comes and goes. doctor: Do they come with nausea, blurred vision, weakness, or any numbness? patient: No, none of that. Just a bit annoying. Sometimes I feel it after a long day at work. doctor: Okay. Any fever, neck stiffness, head injury, or headaches that wake you from sleep? patient: No fever or injury. They don\u2019t wake me up. I usually notice them in the afternoon. doctor: Tell me about your blood pressure medicine. Are you taking the amlodipine every day? patient: Yes, I take it daily. I only miss it maybe once in a while if I\u2019m rushing. doctor: Any side effects from it, like ankle swelling, flushing, or dizziness? patient: No, nothing really. Maybe a little tired sometimes, but I\u2019m not sure if it\u2019s the tablets. doctor: How has your lifestyle been lately? Things like salt intake, exercise, sleep, and stress can affect both blood pressure and headaches. patient: I\u2019m mostly sitting at work all week. I know I don\u2019t exercise enough. I do sleep okay, but work has been busy. I probably eat too much takeaway too. doctor: That helps. Do you smoke, or drink much alcohol? patient: No smoking. I only drink socially on weekends, not a lot. doctor: Thank you. I\u2019ll check your blood pressure now. We\u2019ll also look at your weight and talk about a plan that fits your routine. patient: Okay, that\u2019s fine. I\u2019ve been a bit worried because my mother also has high blood pressure. doctor: That family history is useful. Based on what you\u2019ve told me, the headaches sound more like tension or lifestyle-related headaches than anything dangerous, but I\u2019d like to confirm your blood pressure reading first. If it\u2019s still high, we may need to adjust treatment. For now, keep taking amlodipine, try to reduce salt, drink enough water, and add regular walking during the week. If the headaches become severe, sudden, or come with vision changes, weakness, chest pain, or shortness of breath, seek urgent care. Otherwise, we\u2019ll review the reading today and arrange follow-up soon."
+}

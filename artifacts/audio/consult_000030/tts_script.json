@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000030",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure follow-up, but I’ve also been feeling quite tired for the last few weeks.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, slightly tired but easy to understand, plain speaking. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. We’ll check both. Tell me more about the tiredness. When did it start, and is it all day or on and off?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English accent, professional, moderate pace, warm and clear. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "It’s been about three weeks. Mostly all day. I feel a bit drained, even after a normal night’s sleep.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, slightly tired but easy to understand, plain speaking. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I see. Any other symptoms with it, like fever, cough, shortness of breath, dizziness, headaches, chest pain, or weight loss?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English accent, professional, moderate pace, warm and clear. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No fever or cough. Maybe a little light-headed at times, but no chest pain or shortness of breath. My weight seems the same.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, slightly tired but easy to understand, plain speaking. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "And your sleep, is it restful? Any snoring, waking up often, or feeling low in mood lately?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English accent, professional, moderate pace, warm and clear. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I do sleep okay. I wake once or twice, but that’s normal for me. Mood-wise, I’m a bit stressed at work, but nothing major.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, slightly tired but easy to understand, plain speaking. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Thank you. Let’s talk about your blood pressure. Are you taking the amlodipine every day? Any missed doses or side effects like swelling in the ankles or flushing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English accent, professional, moderate pace, warm and clear. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I might have missed one dose last month, but not often. No swelling that I’ve noticed.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, slightly tired but easy to understand, plain speaking. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Good. Do you check your blood pressure at home, or have you had any recent readings elsewhere?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English accent, professional, moderate pace, warm and clear. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I checked it at a pharmacy last week. It was around 138 over 86, I think. The clinic one today was similar.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, slightly tired but easy to understand, plain speaking. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "That’s helpful. Have there been any changes in your periods, heavy bleeding, dietary changes, new supplements, or any chance of pregnancy?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English accent, professional, moderate pace, warm and clear. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "My periods are still regular, not heavy. No new supplements, and no chance of pregnancy.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, slightly tired but easy to understand, plain speaking. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Okay. Do you have any symptoms like increased thirst, passing urine more often, palpitations, constipation, or feeling cold? And has anyone in your family had diabetes or thyroid problems?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English accent, professional, moderate pace, warm and clear. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I’ve been a bit thirsty, but I thought that was just because I’m not drinking enough water. No palpitations or constipation. My father had type 2 diabetes.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, slightly tired but easy to understand, plain speaking. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thanks. A few lifestyle questions as well. How is your diet, alcohol on weekends, and activity during the week?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English accent, professional, moderate pace, warm and clear. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "I sit most of the day at work. I do try to walk a few times a week, but not as much as I should. Diet is probably average. I do have a few drinks on weekends.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female with a natural South African English accent, slightly tired but easy to understand, plain speaking. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Understood. I’m going to examine you and review your blood pressure, pulse, and weight, and we may consider some blood tests to look for causes of fatigue, like anaemia, thyroid issues, blood sugar, and kidney function. The blood pressure sounds only mildly raised today. My impression is that this may be a mix of not-quite-optimal blood pressure control, stress, and a separate cause of fatigue that we should check. Next, we’ll arrange the tests, keep your amlodipine as prescribed, and discuss home blood pressure readings and lifestyle changes. If you develop chest pain, shortness of breath, fainting, severe headache, or rapidly worsening symptoms, please seek urgent care. Otherwise, we’ll review the results and your symptoms at follow-up.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English accent, professional, moderate pace, warm and clear. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

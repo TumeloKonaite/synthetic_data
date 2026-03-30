@@ -1,0 +1,155 @@
+{
+  "consultation_id": "consult_000023",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’ve had a dry cough and a bit of a sore throat for about a week, and I wanted to get it checked before it gets worse.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, natural conversational speech, mild anxiety, medium pace, clear and everyday wording. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Of course. Let’s go through it properly. When did it start, and has it been getting better, worse, or staying about the same?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "It started about seven days ago. It’s mostly stayed the same, maybe a little worse at night.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, natural conversational speech, mild anxiety, medium pace, clear and everyday wording. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do you have any fever, runny nose, blocked nose, or body aches?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "I had a bit of a runny nose at first, but no fever that I know of. No major body aches.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, natural conversational speech, mild anxiety, medium pace, clear and everyday wording. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any shortness of breath, wheezing, chest tightness, or coughing up phlegm or blood?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No blood. It’s dry. I’ve felt a tiny bit tight once or twice, but my asthma has not really flared up.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, natural conversational speech, mild anxiety, medium pace, clear and everyday wording. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. Are you needing your salbutamol inhaler more than usual? And is the cough disturbing your sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, not more than usual. Maybe once in the last few days. The cough does wake me up sometimes, though.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, natural conversational speech, mild anxiety, medium pace, clear and everyday wording. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Have you had any exposure to someone with a bad cold, COVID, or flu recently?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, a few people at work have been sniffly. I work in a school office, so there’s always something going around.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, natural conversational speech, mild anxiety, medium pace, clear and everyday wording. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "That makes sense. Do you have heartburn, post-nasal drip, or a feeling that mucus is dripping down the back of your throat?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Actually, yes. My throat feels a bit irritated and I keep clearing it. I do get allergies, so it could be that.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, natural conversational speech, mild anxiety, medium pace, clear and everyday wording. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thank you. Any fever, trouble swallowing, severe one-sided throat pain, or swelling in the neck?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, none of that. It’s uncomfortable, but not severe.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, natural conversational speech, mild anxiety, medium pace, clear and everyday wording. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "All right. From what you’ve told me, this sounds most likely like a mild वायरल upper respiratory infection or allergy-related post-nasal drip, with your asthma not sounding significantly upset. I’d like to check your throat and chest, and if needed we can do a COVID test or look at your inhaler technique. In the meantime, keep up fluids, continue cetirizine, use honey or warm drinks for the cough, and use salbutamol only if you feel wheezy or tight. Please come back sooner if you develop fever, shortness of breath, wheezing, chest pain, coughing blood, or if it lasts more than another couple of weeks. We’ll review the exam findings and decide if any further treatment is needed.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, medium pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

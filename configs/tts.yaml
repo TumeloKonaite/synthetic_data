@@ -1,0 +1,12 @@
+provider: openai
+model: gpt-4o-mini-tts
+tts_config_version: v1
+locale: en-ZA
+sample_rate: 16000
+channels: 1
+format: wav
+default_pause_after_sec: 0.6
+
+voices:
+  doctor_default: alloy
+  patient_default: verse

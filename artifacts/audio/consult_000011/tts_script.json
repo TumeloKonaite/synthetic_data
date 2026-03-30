@@ -1,0 +1,191 @@
+{
+  "consultation_id": "consult_000011",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure follow-up, and I’ve also been getting these headaches on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. I’m glad you came in. Let’s go through both issues carefully. When did the headaches start, and how often are they happening?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "It’s been about three months now. Not every day, but more on busy workdays.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Where is the pain, and what does it feel like? Is it tight, throbbing, or more like pressure?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly like pressure across my forehead. Sometimes at the back of my head too.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do you get any warning signs with it, like blurred vision, nausea, weakness, numbness, or trouble speaking?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. It’s just uncomfortable and annoying.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That’s helpful. Any fever, neck stiffness, recent head injury, or a headache that wakes you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No fever or injury. It doesn’t wake me up. It usually comes later in the day.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "How has your blood pressure been at home, if you’ve checked it? And have you missed any doses of the amlodipine?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I check it sometimes. It’s been a bit high on some days, especially when work is hectic. I don’t think I’ve missed many tablets, maybe once or twice.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thank you. Any chest pain, shortness of breath, swelling in the legs, or palpitations?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No, none of that.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Tell me about sleep, stress, caffeine, and pain medicine use. Sometimes those can trigger headaches and raise blood pressure.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Sleep is okay, but work has been quite stressful. I do have a few coffees during the day. I don’t really take pain tablets unless I need to.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Understood. Any sinus pressure, allergies acting up, or blocked nose around the same time?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Actually, yes. My allergies have been a bit worse lately, with some sneezing and a blocked nose.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "That may be contributing. I’d like to check your blood pressure today and review your readings. We may also need to adjust your treatment if it’s still running high. Have you had any side effects from the amlodipine, like ankle swelling or dizziness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "No side effects that I’ve noticed.",
+      "voice_id": "verse",
+      "style": "Voice profile: Clear South African English female voice, natural conversational pace, mild Johannesburg-style accent, slightly soft-spoken. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Alright. Based on what you’ve told me, the headaches sound more like tension-type or possibly allergy-related headaches, but I want to confirm your blood pressure first. My plan is to measure it now, review your home readings, and then decide whether we should keep the current dose or adjust it. I’d also suggest reducing extra caffeine, keeping hydrated, and treating the allergies more regularly if they’re active. If you develop a sudden severe headache, vision changes, weakness, chest pain, or shortness of breath, seek urgent care. Otherwise, let’s review everything together after the BP reading and arrange follow-up soon.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Clear South African English male voice, calm and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000019",
+  "source_record": "data\\processed\\train.jsonl:20",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I'm here for my blood pressure follow-up. I've also been getting some headaches off and on."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good day. No problem, we will go through it carefully. When did the headaches start, and how often are they happening?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Maybe the last few weeks. Not every day. Just now and then, like a dull ache."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Where is the headache located, and how bad is it on a scale of one to ten?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly around my forehead and sometimes behind my eyes. Maybe a 4 out of 10. It usually comes and goes."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do you get any blurred vision, nausea, vomiting, weakness, numbness, chest pain, or shortness of breath with it?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel a bit stressed at work, though."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is helpful. Have you checked your blood pressure recently, and have you been taking the amlodipine every day?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it every morning. I checked at a pharmacy twice. It was a bit high, but not extreme. I can't remember the exact numbers."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Alright. Any side effects from the amlodipine, like ankle swelling, flushing, or dizziness?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No swelling. Maybe a little flushing once or twice, but nothing major."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "How have things been with sleep, caffeine, salt intake, and stress at work? Those can all affect blood pressure and headaches."
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Sleep is okay, but not great every night. I do drink coffee most mornings. Work has been busy, and I probably eat too much take-away, to be honest."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thank you. Just to check, do you smoke, and how much alcohol do you have on a weekend?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I don't smoke. I only drink socially, maybe a couple of drinks on the weekend."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "And do you have any family history of high blood pressure, diabetes, or heart disease?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Yes, my mother has high blood pressure. My father had type 2 diabetes."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thanks. Based on what you've told me, the headaches sound more like tension or blood-pressure related headaches rather than something dangerous, but I would like to check your blood pressure properly today and review your readings. We may also need to adjust your treatment if it is still running high. In the meantime, keep taking the amlodipine, try to reduce salt and caffeine a bit, drink enough water, and keep a simple headache and BP log. If you get a severe sudden headache, chest pain, shortness of breath, weakness, numbness, or vision changes, seek urgent care. Otherwise, let us review the readings and plan a follow-up soon."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I'm here for my blood pressure follow-up. I've also been getting some headaches off and on. doctor: Good day. No problem, we will go through it carefully. When did the headaches start, and how often are they happening? patient: Maybe the last few weeks. Not every day. Just now and then, like a dull ache. doctor: Okay. Where is the headache located, and how bad is it on a scale of one to ten? patient: Mostly around my forehead and sometimes behind my eyes. Maybe a 4 out of 10. It usually comes and goes. doctor: Do you get any blurred vision, nausea, vomiting, weakness, numbness, chest pain, or shortness of breath with it? patient: No, none of that. Just the headache. Sometimes I feel a bit stressed at work, though. doctor: That is helpful. Have you checked your blood pressure recently, and have you been taking the amlodipine every day? patient: Yes, I take it every morning. I checked at a pharmacy twice. It was a bit high, but not extreme. I can't remember the exact numbers. doctor: Alright. Any side effects from the amlodipine, like ankle swelling, flushing, or dizziness? patient: No swelling. Maybe a little flushing once or twice, but nothing major. doctor: How have things been with sleep, caffeine, salt intake, and stress at work? Those can all affect blood pressure and headaches. patient: Sleep is okay, but not great every night. I do drink coffee most mornings. Work has been busy, and I probably eat too much take-away, to be honest. doctor: Thank you. Just to check, do you smoke, and how much alcohol do you have on a weekend? patient: No, I don't smoke. I only drink socially, maybe a couple of drinks on the weekend. doctor: And do you have any family history of high blood pressure, diabetes, or heart disease? patient: Yes, my mother has high blood pressure. My father had type 2 diabetes. doctor: Thanks. Based on what you've told me, the headaches sound more like tension or blood-pressure related headaches rather than something dangerous, but I would like to check your blood pressure properly today and review your readings. We may also need to adjust your treatment if it is still running high. In the meantime, keep taking the amlodipine, try to reduce salt and caffeine a bit, drink enough water, and keep a simple headache and BP log. If you get a severe sudden headache, chest pain, shortness of breath, weakness, numbness, or vision changes, seek urgent care. Otherwise, let us review the readings and plan a follow-up soon."
+}

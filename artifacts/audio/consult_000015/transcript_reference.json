@@ -1,0 +1,87 @@
+{
+  "consultation_id": "consult_000015",
+  "source_record": "data\\processed\\train.jsonl:16",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also been getting these occasional headaches."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. Let\u2019s go through both. How have you been feeling overall since starting the amlodipine six weeks ago?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly okay. I don\u2019t feel dizzy or anything. I\u2019ve just been a bit worried because the headaches still come and go."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I understand. Can you tell me about the headaches a little more? Where do you feel them, how long do they last, and how bad are they?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It\u2019s usually across my forehead or at the back of my head. It\u2019s not severe, more of a dull ache. Maybe once or twice a week, and it can last a few hours."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any nausea, vomiting, blurred vision, weakness, numbness, or trouble speaking with them?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel tense at work, and I sit at a computer most of the day."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is helpful. Do you notice if they come on with stress, poor sleep, missed meals, or after a long day on the screen?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, stress and screen time sound about right. I also probably don\u2019t drink enough water during the day."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "And how have your home blood pressure readings been, if you have been checking them?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I\u2019ve checked a few times. It\u2019s been better than before, but still sometimes around 140 over 88. I\u2019m not sure if I\u2019m doing it right every time."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "That is useful. Have you missed any doses of the amlodipine, and have you noticed swelling in the ankles, flushing, or palpitations?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I\u2019ve missed one or two doses, but mostly I take it. No ankle swelling or anything like that."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Good. I also need to check a few general things. Any chest pain, shortness of breath, fainting, or headaches that wake you from sleep?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, none of those. I feel fine otherwise. I do get seasonal allergies, but that\u2019s separate."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. Based on this, your blood pressure seems improved but not yet fully at target, and the headaches sound more tension or screen-related than dangerous. I would like to check your blood pressure today, review your home readings, and consider whether the amlodipine dose needs adjusting. We can also talk about headache prevention, like regular hydration, screen breaks, and sleep. If you get a sudden severe headache, vision changes, weakness, chest pain, or your blood pressure is very high, seek urgent care. Otherwise, let\u2019s arrange follow-up after today\u2019s reading and a short period of monitoring."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also been getting these occasional headaches. doctor: Hello. Thanks for coming in. Let\u2019s go through both. How have you been feeling overall since starting the amlodipine six weeks ago? patient: Mostly okay. I don\u2019t feel dizzy or anything. I\u2019ve just been a bit worried because the headaches still come and go. doctor: I understand. Can you tell me about the headaches a little more? Where do you feel them, how long do they last, and how bad are they? patient: It\u2019s usually across my forehead or at the back of my head. It\u2019s not severe, more of a dull ache. Maybe once or twice a week, and it can last a few hours. doctor: Any nausea, vomiting, blurred vision, weakness, numbness, or trouble speaking with them? patient: No, none of that. Just the headache. Sometimes I feel tense at work, and I sit at a computer most of the day. doctor: That is helpful. Do you notice if they come on with stress, poor sleep, missed meals, or after a long day on the screen? patient: Yes, stress and screen time sound about right. I also probably don\u2019t drink enough water during the day. doctor: And how have your home blood pressure readings been, if you have been checking them? patient: I\u2019ve checked a few times. It\u2019s been better than before, but still sometimes around 140 over 88. I\u2019m not sure if I\u2019m doing it right every time. doctor: That is useful. Have you missed any doses of the amlodipine, and have you noticed swelling in the ankles, flushing, or palpitations? patient: I\u2019ve missed one or two doses, but mostly I take it. No ankle swelling or anything like that. doctor: Good. I also need to check a few general things. Any chest pain, shortness of breath, fainting, or headaches that wake you from sleep? patient: No, none of those. I feel fine otherwise. I do get seasonal allergies, but that\u2019s separate. doctor: Thank you. Based on this, your blood pressure seems improved but not yet fully at target, and the headaches sound more tension or screen-related than dangerous. I would like to check your blood pressure today, review your home readings, and consider whether the amlodipine dose needs adjusting. We can also talk about headache prevention, like regular hydration, screen breaks, and sleep. If you get a sudden severe headache, vision changes, weakness, chest pain, or your blood pressure is very high, seek urgent care. Otherwise, let\u2019s arrange follow-up after today\u2019s reading and a short period of monitoring."
+}

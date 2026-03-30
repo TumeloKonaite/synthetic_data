@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000027",
+  "source_record": "data\\processed\\train.jsonl:28",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also had these occasional headaches for the last two weeks."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. I\u2019m glad you came in. Let\u2019s talk through both. How have you been feeling overall, and have you been checking your blood pressure at home?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Overall I\u2019m fine. I do check it sometimes at the pharmacy. It\u2019s been a bit up and down, but not very high as far as I know."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Do you remember any recent readings? And with the headaches, where do you feel them, and what do they feel like?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "The last one I saw was around 138 over 86. The headaches are mostly across my forehead. It feels like pressure, not a terrible pain."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That sounds more like a tension-type headache. Do they come with blurred vision, nausea, weakness, chest pain, or shortness of breath?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I think it\u2019s worse after a long day at work or if I haven\u2019t had enough water."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That helps. How often are you taking your amlodipine, and have you missed any doses recently? Any side effects like swelling in the ankles?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I take it every morning. I haven\u2019t missed many doses. No ankle swelling that I\u2019ve noticed."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Good. Let me ask about a few other things. How are your sleep, stress, caffeine intake, and alcohol on weekends?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Work has been busy, so I\u2019m probably more stressed than usual. I do drink coffee, maybe two cups a day. Alcohol is only sometimes on weekends."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thanks. Any recent illness, sinus symptoms, or allergy flare-ups? Sometimes those can also contribute to headaches."
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "My allergies have been a bit annoying, but nothing major. A little sneezing and blocked nose now and then."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Understood. And just to confirm, no history of migraine, head injury, or headaches waking you from sleep?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No head injury, and they don\u2019t wake me up. I\u2019ve had the odd headache before, but this feels more frequent lately."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "All right. Your story is reassuring. Your blood pressure sounds close to target, and the headaches seem mild and related to stress, hydration, or maybe tension and allergies rather than something dangerous."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "doctor",
+      "text": "I\u2019d like to check your blood pressure here today, review your readings if you have them, and continue the amlodipine for now. We can also discuss simple headache measures like regular fluids, reducing caffeine a little, better sleep, and paracetamol if needed, unless you have been told not to take it."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "If the headaches become severe, come with blurred vision, weakness, chest pain, breathlessness, or if your blood pressure is repeatedly very high, please seek urgent care. Otherwise, let\u2019s arrange follow-up after today\u2019s reading and review whether any medication adjustment is needed."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also had these occasional headaches for the last two weeks. doctor: Good morning. I\u2019m glad you came in. Let\u2019s talk through both. How have you been feeling overall, and have you been checking your blood pressure at home? patient: Overall I\u2019m fine. I do check it sometimes at the pharmacy. It\u2019s been a bit up and down, but not very high as far as I know. doctor: Okay. Do you remember any recent readings? And with the headaches, where do you feel them, and what do they feel like? patient: The last one I saw was around 138 over 86. The headaches are mostly across my forehead. It feels like pressure, not a terrible pain. doctor: That sounds more like a tension-type headache. Do they come with blurred vision, nausea, weakness, chest pain, or shortness of breath? patient: No, none of that. Just the headache. Sometimes I think it\u2019s worse after a long day at work or if I haven\u2019t had enough water. doctor: That helps. How often are you taking your amlodipine, and have you missed any doses recently? Any side effects like swelling in the ankles? patient: I take it every morning. I haven\u2019t missed many doses. No ankle swelling that I\u2019ve noticed. doctor: Good. Let me ask about a few other things. How are your sleep, stress, caffeine intake, and alcohol on weekends? patient: Work has been busy, so I\u2019m probably more stressed than usual. I do drink coffee, maybe two cups a day. Alcohol is only sometimes on weekends. doctor: Thanks. Any recent illness, sinus symptoms, or allergy flare-ups? Sometimes those can also contribute to headaches. patient: My allergies have been a bit annoying, but nothing major. A little sneezing and blocked nose now and then. doctor: Understood. And just to confirm, no history of migraine, head injury, or headaches waking you from sleep? patient: No head injury, and they don\u2019t wake me up. I\u2019ve had the odd headache before, but this feels more frequent lately. doctor: All right. Your story is reassuring. Your blood pressure sounds close to target, and the headaches seem mild and related to stress, hydration, or maybe tension and allergies rather than something dangerous. doctor: I\u2019d like to check your blood pressure here today, review your readings if you have them, and continue the amlodipine for now. We can also discuss simple headache measures like regular fluids, reducing caffeine a little, better sleep, and paracetamol if needed, unless you have been told not to take it. doctor: If the headaches become severe, come with blurred vision, weakness, chest pain, breathlessness, or if your blood pressure is repeatedly very high, please seek urgent care. Otherwise, let\u2019s arrange follow-up after today\u2019s reading and review whether any medication adjustment is needed."
+}

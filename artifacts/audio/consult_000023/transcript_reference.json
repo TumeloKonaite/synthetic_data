@@ -1,0 +1,87 @@
+{
+  "consultation_id": "consult_000023",
+  "source_record": "data\\processed\\train.jsonl:24",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019ve had a dry cough and a bit of a sore throat for about a week, and I wanted to get it checked before it gets worse."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Of course. Let\u2019s go through it properly. When did it start, and has it been getting better, worse, or staying about the same?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "It started about seven days ago. It\u2019s mostly stayed the same, maybe a little worse at night."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do you have any fever, runny nose, blocked nose, or body aches?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "I had a bit of a runny nose at first, but no fever that I know of. No major body aches."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any shortness of breath, wheezing, chest tightness, or coughing up phlegm or blood?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No blood. It\u2019s dry. I\u2019ve felt a tiny bit tight once or twice, but my asthma has not really flared up."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. Are you needing your salbutamol inhaler more than usual? And is the cough disturbing your sleep?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, not more than usual. Maybe once in the last few days. The cough does wake me up sometimes, though."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Have you had any exposure to someone with a bad cold, COVID, or flu recently?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, a few people at work have been sniffly. I work in a school office, so there\u2019s always something going around."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "That makes sense. Do you have heartburn, post-nasal drip, or a feeling that mucus is dripping down the back of your throat?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Actually, yes. My throat feels a bit irritated and I keep clearing it. I do get allergies, so it could be that."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thank you. Any fever, trouble swallowing, severe one-sided throat pain, or swelling in the neck?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, none of that. It\u2019s uncomfortable, but not severe."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "All right. From what you\u2019ve told me, this sounds most likely like a mild \u0935\u093e\u092f\u0930\u0932 upper respiratory infection or allergy-related post-nasal drip, with your asthma not sounding significantly upset. I\u2019d like to check your throat and chest, and if needed we can do a COVID test or look at your inhaler technique. In the meantime, keep up fluids, continue cetirizine, use honey or warm drinks for the cough, and use salbutamol only if you feel wheezy or tight. Please come back sooner if you develop fever, shortness of breath, wheezing, chest pain, coughing blood, or if it lasts more than another couple of weeks. We\u2019ll review the exam findings and decide if any further treatment is needed."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019ve had a dry cough and a bit of a sore throat for about a week, and I wanted to get it checked before it gets worse. doctor: Of course. Let\u2019s go through it properly. When did it start, and has it been getting better, worse, or staying about the same? patient: It started about seven days ago. It\u2019s mostly stayed the same, maybe a little worse at night. doctor: Do you have any fever, runny nose, blocked nose, or body aches? patient: I had a bit of a runny nose at first, but no fever that I know of. No major body aches. doctor: Any shortness of breath, wheezing, chest tightness, or coughing up phlegm or blood? patient: No blood. It\u2019s dry. I\u2019ve felt a tiny bit tight once or twice, but my asthma has not really flared up. doctor: Okay. Are you needing your salbutamol inhaler more than usual? And is the cough disturbing your sleep? patient: No, not more than usual. Maybe once in the last few days. The cough does wake me up sometimes, though. doctor: Have you had any exposure to someone with a bad cold, COVID, or flu recently? patient: Yes, a few people at work have been sniffly. I work in a school office, so there\u2019s always something going around. doctor: That makes sense. Do you have heartburn, post-nasal drip, or a feeling that mucus is dripping down the back of your throat? patient: Actually, yes. My throat feels a bit irritated and I keep clearing it. I do get allergies, so it could be that. doctor: Thank you. Any fever, trouble swallowing, severe one-sided throat pain, or swelling in the neck? patient: No, none of that. It\u2019s uncomfortable, but not severe. doctor: All right. From what you\u2019ve told me, this sounds most likely like a mild \u0935\u093e\u092f\u0930\u0932 upper respiratory infection or allergy-related post-nasal drip, with your asthma not sounding significantly upset. I\u2019d like to check your throat and chest, and if needed we can do a COVID test or look at your inhaler technique. In the meantime, keep up fluids, continue cetirizine, use honey or warm drinks for the cough, and use salbutamol only if you feel wheezy or tight. Please come back sooner if you develop fever, shortness of breath, wheezing, chest pain, coughing blood, or if it lasts more than another couple of weeks. We\u2019ll review the exam findings and decide if any further treatment is needed."
+}

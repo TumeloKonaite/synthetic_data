@@ -1,0 +1,191 @@
+{
+  "consultation_id": "consult_000017",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure check, but I’ve also had these on-and-off headaches for about three weeks.",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. We’ll look at both. Tell me a bit about the headaches first. Where do you feel them, and what do they feel like?",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly at the front or around my temples. It’s more like a dull pressure. It comes and goes.",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Any nausea, vomiting, blurry vision, dizziness, weakness, or trouble speaking with the headaches?",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel a bit tense with work.",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Okay. How bad is it out of ten, and how long does each one last?",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Maybe a four or five. It can last a few hours. I usually just take some water or rest.",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Have you noticed anything that brings it on, like stress, poor sleep, caffeine, or missing meals?",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Stress, I think. Work has been busy at school. And I do skip lunch sometimes.",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That makes sense. How have your blood pressure readings been lately, if you’ve checked them at home? And are you taking the amlodipine every day?",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I’ve been taking it daily. I don’t check at home very often, though. Last time at the pharmacy it was a bit high, I think.",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Any chest pain, shortness of breath, swelling in the legs, or headaches that wake you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. No swelling either. The headaches don’t wake me up.",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Good. Have you been taking anything else for the headaches, like pain tablets, nasal sprays, or extra caffeine?",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Just the cetirizine when my allergies act up. I haven’t really taken pain tablets for it.",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thanks. I’d like to check your blood pressure today and have a quick look at you. Based on what you’ve said, this sounds more like tension or stress headaches, but we’ll confirm your pressure first.",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay. I was worried it might mean the blood pressure is getting worse.",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "It’s understandable to worry. We’ll check it properly today. After that, if the reading is up, we may adjust your treatment or ask for home readings over the next week. For the headaches, regular meals, good hydration, sleep, and less stress can help. If needed, you can use paracetamol as directed, unless you’ve been told not to.",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "That sounds fair. Should I be doing anything else at home?",
+      "voice_id": "verse",
+      "style": "Voice profile: adult female South African English accent, natural conversational speech, slightly hesitant at times, calm but mildly concerned. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Yes. Try to keep a simple blood pressure log if you can, take your amlodipine daily, and come back sooner if the headaches become severe, sudden, or different, or if you get vision changes, weakness, chest pain, or shortness of breath. Today’s impression is that your headaches are likely tension-related, with routine blood pressure review needed. We’ll check your blood pressure now, then decide on follow-up depending on the result.",
+      "voice_id": "alloy",
+      "style": "Voice profile: adult female South African English accent, clear and professional, moderate pace, warm and reassuring. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

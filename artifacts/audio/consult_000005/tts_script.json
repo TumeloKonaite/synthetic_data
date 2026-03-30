@@ -1,0 +1,182 @@
+{
+  "consultation_id": "consult_000005",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure follow-up, but I’ve also been feeling quite tired for about three weeks.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged South African woman with a natural South African English accent, slightly tired but clear speech, relaxed pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. I’m sorry you’ve been feeling off. Let’s go through both issues carefully. How have you been overall, and have you noticed anything else with the tiredness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly just low energy. By the afternoon I feel drained. I’m still working, but I’m not myself.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged South African woman with a natural South African English accent, slightly tired but clear speech, relaxed pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I see. Is the tiredness all day, or worse at certain times? And any fever, cough, weight loss, mood changes, or trouble sleeping?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It’s worse in the afternoon. No fever or cough. I sleep okay, maybe not enough some nights. My mood is fine, just a bit stressed at work.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged South African woman with a natural South African English accent, slightly tired but clear speech, relaxed pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Thank you. Have you had any chest pain, shortness of breath, palpitations, dizziness, or fainting?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the tiredness. Maybe a little headache now and then, but nothing major.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged South African woman with a natural South African English accent, slightly tired but clear speech, relaxed pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "All right. Tell me about your blood pressure readings lately, if you’ve checked them. And are you taking the amlodipine every day?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take the amlodipine every morning. I haven’t missed many doses. The last readings at the pharmacy were around 138 over 86, and once it was 142 over 88.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged South African woman with a natural South African English accent, slightly tired but clear speech, relaxed pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Those are a bit above ideal, but not too high. Any swelling in the ankles, flushing, or headaches since starting the tablet?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "My ankles do swell a little by the evening sometimes, but it goes down overnight. No real headaches from the tablets.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged South African woman with a natural South African English accent, slightly tired but clear speech, relaxed pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thanks. I’d like to ask about your day-to-day routine as well. How is your eating, exercise, and alcohol intake lately?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Honestly, I sit most of the day at work and I haven’t been exercising much. We eat fairly normally at home, but maybe too much takeaways. I only drink on weekends, socially.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged South African woman with a natural South African English accent, slightly tired but clear speech, relaxed pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That helps. Have your periods been heavy or irregular, and when was your last blood test? I’m also thinking about things like anaemia, thyroid problems, blood sugar, or vitamin deficiency as causes of tiredness.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "My periods are still regular. Maybe a bit heavier than before, but not extreme. I can’t remember my last blood test. It was a while ago.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged South African woman with a natural South African English accent, slightly tired but clear speech, relaxed pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Understood. Any snoring or waking unrefreshed, and how many hours of sleep are you usually getting?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "My husband says I snore a bit, yes. I probably get about six hours most nights, sometimes less.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged South African woman with a natural South African English accent, slightly tired but clear speech, relaxed pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thanks, that gives me a good picture. On examination today your blood pressure is mildly raised, and your weight is still in the obese range, which can also affect energy levels and blood pressure control.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 19,
+      "speaker": "doctor",
+      "text": "My impression is that your tiredness may be related to a mix of reduced sleep, low activity, and possibly something medical like anaemia, thyroid imbalance, or blood sugar issues. Your blood pressure is close to target but not quite there yet. I’d like to do blood tests, including a full blood count, thyroid, kidney function, glucose, and iron studies, and then review whether we should adjust your treatment. In the meantime, keep taking the amlodipine, aim for more regular walking, reduce salty takeaways, and try to improve sleep routine. Please come back sooner if you get chest pain, shortness of breath, fainting, marked swelling, or if the fatigue suddenly worsens. Otherwise, let’s review the results and your blood pressure in the next couple of weeks.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm, clear South African English accent, medium pace, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

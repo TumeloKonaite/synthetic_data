@@ -1,0 +1,107 @@
+{
+  "consultation_id": "consult_000021",
+  "source_record": "data\\processed\\train.jsonl:22",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure follow-up, but I\u2019ve also been feeling a bit tired lately."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let\u2019s go through both. When did the tiredness start, and has anything else changed recently?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About three weeks ago, I think. It\u2019s not severe, just like I have less energy than usual."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do you feel tired all day, or mainly at certain times? Any shortness of breath, chest pain, dizziness, palpitations, or fainting?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly during the day. No chest pain or fainting. I do get a little winded if I climb stairs, but I thought that was just my fitness."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That\u2019s helpful. Any fever, cough, heavy periods, weight loss, change in appetite, or trouble sleeping?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No fever or cough. My periods are normal. Sleep has been a bit patchy, but nothing major. I haven\u2019t lost weight."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. How have you been taking your amlodipine? Any missed doses, side effects like swelling of the ankles, or headaches?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I take it every day. I did notice my ankles looked a bit puffy once or twice, but not every day. No headaches."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Understood. Have you checked your blood pressure at home or at a pharmacy recently?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, a few times. It has been around 138 over 86, sometimes a little higher in the evenings."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thanks. Tell me a bit about your routine. How is your diet, alcohol intake, exercise, and stress at work?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Work has been busy. I sit most of the day. I try to walk after work, maybe three times a week. I do like salty snacks, and I drink socially on weekends."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That gives me a good picture. Any chance you could be pregnant, or have you had any recent illness?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, pregnancy is not possible. And I haven\u2019t been sick recently."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Alright. I\u2019d like to check your blood pressure today, and also your weight and possibly some blood tests if needed, to look for things like anaemia, thyroid issues, blood sugar, kidney function, and cholesterol. Does that sound okay?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Yes, that\u2019s fine. I was wondering if the tiredness could be from the tablets."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "It could be related, especially if the ankle swelling is from amlodipine, but tiredness can have several causes. Your home readings sound fairly close to target, though we should confirm in clinic and review your overall cardiovascular risk. I also want to ask about sleep quality and mood, because those can affect energy too."
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "My mood is okay. I\u2019m just a bit stressed with work. Sleep is not great, but I still manage."
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Thanks. My impression is that this is likely a mix of blood pressure management, possible amlodipine side effects, and lifestyle factors, but we should rule out common medical causes of fatigue. We\u2019ll check your blood pressure here today, examine the ankle swelling, and arrange blood tests. Depending on the results, we may adjust your medication or discuss changing treatment. In the meantime, keep taking your tablets, try to reduce salty snacks, keep walking, and bring a few home blood pressure readings. If you get chest pain, marked shortness of breath, fainting, or severe swelling, seek urgent care. Otherwise, let\u2019s review once the results are back."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure follow-up, but I\u2019ve also been feeling a bit tired lately. doctor: Good morning. Let\u2019s go through both. When did the tiredness start, and has anything else changed recently? patient: About three weeks ago, I think. It\u2019s not severe, just like I have less energy than usual. doctor: Do you feel tired all day, or mainly at certain times? Any shortness of breath, chest pain, dizziness, palpitations, or fainting? patient: Mostly during the day. No chest pain or fainting. I do get a little winded if I climb stairs, but I thought that was just my fitness. doctor: That\u2019s helpful. Any fever, cough, heavy periods, weight loss, change in appetite, or trouble sleeping? patient: No fever or cough. My periods are normal. Sleep has been a bit patchy, but nothing major. I haven\u2019t lost weight. doctor: Okay. How have you been taking your amlodipine? Any missed doses, side effects like swelling of the ankles, or headaches? patient: I take it every day. I did notice my ankles looked a bit puffy once or twice, but not every day. No headaches. doctor: Understood. Have you checked your blood pressure at home or at a pharmacy recently? patient: Yes, a few times. It has been around 138 over 86, sometimes a little higher in the evenings. doctor: Thanks. Tell me a bit about your routine. How is your diet, alcohol intake, exercise, and stress at work? patient: Work has been busy. I sit most of the day. I try to walk after work, maybe three times a week. I do like salty snacks, and I drink socially on weekends. doctor: That gives me a good picture. Any chance you could be pregnant, or have you had any recent illness? patient: No, pregnancy is not possible. And I haven\u2019t been sick recently. doctor: Alright. I\u2019d like to check your blood pressure today, and also your weight and possibly some blood tests if needed, to look for things like anaemia, thyroid issues, blood sugar, kidney function, and cholesterol. Does that sound okay? patient: Yes, that\u2019s fine. I was wondering if the tiredness could be from the tablets. doctor: It could be related, especially if the ankle swelling is from amlodipine, but tiredness can have several causes. Your home readings sound fairly close to target, though we should confirm in clinic and review your overall cardiovascular risk. I also want to ask about sleep quality and mood, because those can affect energy too. patient: My mood is okay. I\u2019m just a bit stressed with work. Sleep is not great, but I still manage. doctor: Thanks. My impression is that this is likely a mix of blood pressure management, possible amlodipine side effects, and lifestyle factors, but we should rule out common medical causes of fatigue. We\u2019ll check your blood pressure here today, examine the ankle swelling, and arrange blood tests. Depending on the results, we may adjust your medication or discuss changing treatment. In the meantime, keep taking your tablets, try to reduce salty snacks, keep walking, and bring a few home blood pressure readings. If you get chest pain, marked shortness of breath, fainting, or severe swelling, seek urgent care. Otherwise, let\u2019s review once the results are back."
+}

@@ -1,0 +1,31 @@
+{
+  "consultation_id": "consult_000000",
+  "canonical_record_path": "data/processed/train.jsonl:1",
+  "tts_script_path": "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\tts_script.json",
+  "turn_audio_paths": [
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0001_patient.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0002_doctor.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0003_patient.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0004_doctor.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0005_patient.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0006_doctor.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0007_patient.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0008_doctor.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0009_patient.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0010_doctor.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0011_patient.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0012_doctor.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0013_patient.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0014_doctor.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0015_patient.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0016_doctor.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0017_patient.wav",
+    "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\turns\\0018_doctor.wav"
+  ],
+  "full_audio_path": "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\full.wav",
+  "transcript_reference_path": "C:\\Users\\l\\Documents\\synthetic_patient_DR_data\\.pytest_tmp\\test_run_audio_pipeline_writes0\\audio\\consult_000000\\transcript_reference.json",
+  "model": "gpt-4o-mini-tts",
+  "synthetic_version": "v1",
+  "tts_config_version": "v1",
+  "audio_pipeline_version": "v1"
+}

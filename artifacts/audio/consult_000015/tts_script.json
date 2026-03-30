@@ -1,0 +1,155 @@
+{
+  "consultation_id": "consult_000015",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure follow-up. I’ve also been getting these occasional headaches.",
+      "voice_id": "verse",
+      "style": "Voice profile: female South African English accent, natural conversational pace, slightly cautious but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. Let’s go through both. How have you been feeling overall since starting the amlodipine six weeks ago?",
+      "voice_id": "alloy",
+      "style": "Voice profile: warm, clear South African English accent, moderate pace, professional and friendly. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly okay. I don’t feel dizzy or anything. I’ve just been a bit worried because the headaches still come and go.",
+      "voice_id": "verse",
+      "style": "Voice profile: female South African English accent, natural conversational pace, slightly cautious but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I understand. Can you tell me about the headaches a little more? Where do you feel them, how long do they last, and how bad are they?",
+      "voice_id": "alloy",
+      "style": "Voice profile: warm, clear South African English accent, moderate pace, professional and friendly. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It’s usually across my forehead or at the back of my head. It’s not severe, more of a dull ache. Maybe once or twice a week, and it can last a few hours.",
+      "voice_id": "verse",
+      "style": "Voice profile: female South African English accent, natural conversational pace, slightly cautious but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any nausea, vomiting, blurred vision, weakness, numbness, or trouble speaking with them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: warm, clear South African English accent, moderate pace, professional and friendly. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel tense at work, and I sit at a computer most of the day.",
+      "voice_id": "verse",
+      "style": "Voice profile: female South African English accent, natural conversational pace, slightly cautious but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is helpful. Do you notice if they come on with stress, poor sleep, missed meals, or after a long day on the screen?",
+      "voice_id": "alloy",
+      "style": "Voice profile: warm, clear South African English accent, moderate pace, professional and friendly. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, stress and screen time sound about right. I also probably don’t drink enough water during the day.",
+      "voice_id": "verse",
+      "style": "Voice profile: female South African English accent, natural conversational pace, slightly cautious but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "And how have your home blood pressure readings been, if you have been checking them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: warm, clear South African English accent, moderate pace, professional and friendly. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I’ve checked a few times. It’s been better than before, but still sometimes around 140 over 88. I’m not sure if I’m doing it right every time.",
+      "voice_id": "verse",
+      "style": "Voice profile: female South African English accent, natural conversational pace, slightly cautious but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "That is useful. Have you missed any doses of the amlodipine, and have you noticed swelling in the ankles, flushing, or palpitations?",
+      "voice_id": "alloy",
+      "style": "Voice profile: warm, clear South African English accent, moderate pace, professional and friendly. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I’ve missed one or two doses, but mostly I take it. No ankle swelling or anything like that.",
+      "voice_id": "verse",
+      "style": "Voice profile: female South African English accent, natural conversational pace, slightly cautious but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Good. I also need to check a few general things. Any chest pain, shortness of breath, fainting, or headaches that wake you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: warm, clear South African English accent, moderate pace, professional and friendly. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, none of those. I feel fine otherwise. I do get seasonal allergies, but that’s separate.",
+      "voice_id": "verse",
+      "style": "Voice profile: female South African English accent, natural conversational pace, slightly cautious but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. Based on this, your blood pressure seems improved but not yet fully at target, and the headaches sound more tension or screen-related than dangerous. I would like to check your blood pressure today, review your home readings, and consider whether the amlodipine dose needs adjusting. We can also talk about headache prevention, like regular hydration, screen breaks, and sleep. If you get a sudden severe headache, vision changes, weakness, chest pain, or your blood pressure is very high, seek urgent care. Otherwise, let’s arrange follow-up after today’s reading and a short period of monitoring.",
+      "voice_id": "alloy",
+      "style": "Voice profile: warm, clear South African English accent, moderate pace, professional and friendly. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

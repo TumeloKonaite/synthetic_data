@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000024",
+  "source_record": "data\\processed\\train.jsonl:25",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also been getting some headaches lately."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Thanks for coming in. Let\u2019s talk through both. How have you been feeling overall, and when did you last check your blood pressure?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Overall I\u2019m okay. The blood pressure was checked about a month ago at a pharmacy, and it was still a bit high. The headaches started about two weeks ago."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I see. Can you tell me what the headaches feel like, where they are, and how long they last?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It\u2019s more like a dull ache, mostly at the back of my head or across my forehead. It comes and goes. Usually not the whole day."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do you get any warning signs with them, like blurred vision, nausea, weakness, chest pain, or shortness of breath?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, nothing like that. No weakness or chest pain. Sometimes I feel a bit tense at work, but that\u2019s it."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That\u2019s helpful. Have you missed any doses of your amlodipine, or started any new medicines, supplements, or pain tablets?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I\u2019ve missed one or two tablets, but not often. I only take paracetamol when the headache is annoying. No other medicines."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Okay. Any side effects from the amlodipine, like ankle swelling, flushing, or dizziness?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No swelling or dizziness. I\u2019m tolerating it fine."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "And how have things been with sleep, stress, caffeine, alcohol, and exercise?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Sleep is not great during the week. Work is busy. I do drink coffee in the mornings, maybe two cups. Alcohol is only now and then. I\u2019m mostly sitting at work, so not much exercise."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. Given your blood pressure history, I\u2019d also like to ask about home readings, if you have any, and whether there\u2019s any family history of high blood pressure or diabetes."
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "My mother had hypertension, and my father has type 2 diabetes. I don\u2019t have a home machine, so I haven\u2019t been checking at home."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Understood. I\u2019m going to check your blood pressure here today and review your weight and general exam. If the reading is still above target, we may need to adjust treatment or arrange home or pharmacy monitoring. We\u2019ll also talk about food, salt, and activity, because those can make a real difference."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay, that sounds fine. I\u2019ve been trying to cut down on salt, but I know I could do more."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "That\u2019s a good start. Based on what you\u2019ve told me, this sounds most likely like mildly uncontrolled hypertension with tension-type headaches, but I\u2019d want to confirm with today\u2019s readings and exam. For now, keep taking the amlodipine daily, use paracetamol sparingly, and avoid taking extra pain tablets too often. We\u2019ll check your blood pressure now, and if needed I may increase the dose or add another medicine. Please come back sooner if you develop severe headache, chest pain, shortness of breath, weakness, vision changes, or if the headaches become sudden or much worse. Otherwise, let\u2019s review the readings and plan follow-up in the next few weeks."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also been getting some headaches lately. doctor: Good morning. Thanks for coming in. Let\u2019s talk through both. How have you been feeling overall, and when did you last check your blood pressure? patient: Overall I\u2019m okay. The blood pressure was checked about a month ago at a pharmacy, and it was still a bit high. The headaches started about two weeks ago. doctor: I see. Can you tell me what the headaches feel like, where they are, and how long they last? patient: It\u2019s more like a dull ache, mostly at the back of my head or across my forehead. It comes and goes. Usually not the whole day. doctor: Do you get any warning signs with them, like blurred vision, nausea, weakness, chest pain, or shortness of breath? patient: No, nothing like that. No weakness or chest pain. Sometimes I feel a bit tense at work, but that\u2019s it. doctor: That\u2019s helpful. Have you missed any doses of your amlodipine, or started any new medicines, supplements, or pain tablets? patient: I\u2019ve missed one or two tablets, but not often. I only take paracetamol when the headache is annoying. No other medicines. doctor: Okay. Any side effects from the amlodipine, like ankle swelling, flushing, or dizziness? patient: No swelling or dizziness. I\u2019m tolerating it fine. doctor: And how have things been with sleep, stress, caffeine, alcohol, and exercise? patient: Sleep is not great during the week. Work is busy. I do drink coffee in the mornings, maybe two cups. Alcohol is only now and then. I\u2019m mostly sitting at work, so not much exercise. doctor: Thanks. Given your blood pressure history, I\u2019d also like to ask about home readings, if you have any, and whether there\u2019s any family history of high blood pressure or diabetes. patient: My mother had hypertension, and my father has type 2 diabetes. I don\u2019t have a home machine, so I haven\u2019t been checking at home. doctor: Understood. I\u2019m going to check your blood pressure here today and review your weight and general exam. If the reading is still above target, we may need to adjust treatment or arrange home or pharmacy monitoring. We\u2019ll also talk about food, salt, and activity, because those can make a real difference. patient: Okay, that sounds fine. I\u2019ve been trying to cut down on salt, but I know I could do more. doctor: That\u2019s a good start. Based on what you\u2019ve told me, this sounds most likely like mildly uncontrolled hypertension with tension-type headaches, but I\u2019d want to confirm with today\u2019s readings and exam. For now, keep taking the amlodipine daily, use paracetamol sparingly, and avoid taking extra pain tablets too often. We\u2019ll check your blood pressure now, and if needed I may increase the dose or add another medicine. Please come back sooner if you develop severe headache, chest pain, shortness of breath, weakness, vision changes, or if the headaches become sudden or much worse. Otherwise, let\u2019s review the readings and plan follow-up in the next few weeks."
+}

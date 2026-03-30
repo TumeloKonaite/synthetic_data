@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000034",
+  "source_record": "data\\processed\\train.jsonl:35",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting these headaches on and off."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. I\u2019m glad you came in. Let\u2019s go through both carefully. When did the headaches start, and how often are they happening?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About three weeks ago. Not every day, maybe a few times a week. They\u2019re not severe, but they\u2019re annoying."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Where is the pain, and what does it feel like? Is it tight, throbbing, or pressure-like?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly across my forehead and sometimes behind my eyes. It feels like pressure, not a sharp pain."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do you get any warning signs like blurred vision, nausea, vomiting, weakness, numbness, or trouble speaking?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel a bit tired, but that\u2019s all."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is reassuring. Have you checked your blood pressure at home recently? If so, what sort of readings have you been getting?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, a few times. It\u2019s usually around 140 over 90, sometimes a little higher, but not very high."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Are you taking the amlodipine every day, and have you missed any doses?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Mostly yes. I might miss one now and then if I\u2019m rushing in the morning, but not often."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Any side effects from it, like ankle swelling, flushing, dizziness, or palpitations?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No, I haven\u2019t noticed anything like that."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "How about sleep, stress, caffeine, and hydration? School work can be quite stressful. Any change there recently?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Yes, it has been a busy term. I\u2019ve had more coffee than usual, and I probably don\u2019t drink enough water during the day."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Understood. Any sinus symptoms, fever, or allergy flare-ups with these headaches?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "My allergies have been a bit up and down, but no fever. I do get a bit stuffy sometimes, especially in the mornings."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thank you. I\u2019m going to check your pressure here today, and then we can talk about whether the medication needs adjusting. Based on what you\u2019ve told me, this sounds more like mildly uncontrolled hypertension with tension or sinus-type headaches, rather than something dangerous. Let\u2019s do the blood pressure reading, keep an eye on home readings, improve hydration and regular meals, and cut back a little on caffeine. If the pressure is still above target, we may increase the amlodipine. Please seek urgent care if you develop a sudden severe headache, chest pain, shortness of breath, weakness, vision changes, or if the headaches become much worse or different. We\u2019ll arrange follow-up after today\u2019s reading and review."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting these headaches on and off. doctor: Hello. I\u2019m glad you came in. Let\u2019s go through both carefully. When did the headaches start, and how often are they happening? patient: About three weeks ago. Not every day, maybe a few times a week. They\u2019re not severe, but they\u2019re annoying. doctor: Okay. Where is the pain, and what does it feel like? Is it tight, throbbing, or pressure-like? patient: Mostly across my forehead and sometimes behind my eyes. It feels like pressure, not a sharp pain. doctor: Do you get any warning signs like blurred vision, nausea, vomiting, weakness, numbness, or trouble speaking? patient: No, none of that. Just the headache. Sometimes I feel a bit tired, but that\u2019s all. doctor: That is reassuring. Have you checked your blood pressure at home recently? If so, what sort of readings have you been getting? patient: Yes, a few times. It\u2019s usually around 140 over 90, sometimes a little higher, but not very high. doctor: Thank you. Are you taking the amlodipine every day, and have you missed any doses? patient: Mostly yes. I might miss one now and then if I\u2019m rushing in the morning, but not often. doctor: Any side effects from it, like ankle swelling, flushing, dizziness, or palpitations? patient: No, I haven\u2019t noticed anything like that. doctor: How about sleep, stress, caffeine, and hydration? School work can be quite stressful. Any change there recently? patient: Yes, it has been a busy term. I\u2019ve had more coffee than usual, and I probably don\u2019t drink enough water during the day. doctor: Understood. Any sinus symptoms, fever, or allergy flare-ups with these headaches? patient: My allergies have been a bit up and down, but no fever. I do get a bit stuffy sometimes, especially in the mornings. doctor: Thank you. I\u2019m going to check your pressure here today, and then we can talk about whether the medication needs adjusting. Based on what you\u2019ve told me, this sounds more like mildly uncontrolled hypertension with tension or sinus-type headaches, rather than something dangerous. Let\u2019s do the blood pressure reading, keep an eye on home readings, improve hydration and regular meals, and cut back a little on caffeine. If the pressure is still above target, we may increase the amlodipine. Please seek urgent care if you develop a sudden severe headache, chest pain, shortness of breath, weakness, vision changes, or if the headaches become much worse or different. We\u2019ll arrange follow-up after today\u2019s reading and review."
+}

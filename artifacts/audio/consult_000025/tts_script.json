@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000025",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure follow-up, but I’ve also been getting these headaches on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female speaking South African English with a mild local accent, conversational pace, slightly hesitant when describing symptoms. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. Let’s go through both. How have you been feeling overall, and have you been checking your blood pressure at home?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm, clear South African English with a friendly professional tone, moderate pace, easy-to-understand phrasing. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly okay, just a bit worried. I do check it sometimes, not every day. It’s been a bit high now and then.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female speaking South African English with a mild local accent, conversational pace, slightly hesitant when describing symptoms. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do you remember any of the readings? And when you say high, is it mostly the top number, the bottom number, or both?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm, clear South African English with a friendly professional tone, moderate pace, easy-to-understand phrasing. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "The top number is usually around 145 or 150. The bottom one is not too bad, maybe in the 80s.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female speaking South African English with a mild local accent, conversational pace, slightly hesitant when describing symptoms. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Thank you. And about the headaches, where do you feel them, how long do they last, and what do they feel like?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm, clear South African English with a friendly professional tone, moderate pace, easy-to-understand phrasing. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Mostly at the front of my head or around my temples. It’s like a dull pressure. It comes and goes, maybe for a few hours.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female speaking South African English with a mild local accent, conversational pace, slightly hesitant when describing symptoms. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Any nausea, blurred vision, weakness, numbness, fever, or headaches that wake you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm, clear South African English with a friendly professional tone, moderate pace, easy-to-understand phrasing. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, none of that. No fever either. It’s just annoying, really.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female speaking South African English with a mild local accent, conversational pace, slightly hesitant when describing symptoms. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That’s reassuring. Do you notice any link with stress, poor sleep, dehydration, caffeine, or missed doses of amlodipine?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm, clear South African English with a friendly professional tone, moderate pace, easy-to-understand phrasing. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Actually, yes. Work has been hectic, and I’ve missed a dose once or twice. I also don’t sleep that well when I’m stressed.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female speaking South African English with a mild local accent, conversational pace, slightly hesitant when describing symptoms. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Understood. Any chest pain, shortness of breath, swelling in the legs, or palpitations?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm, clear South African English with a friendly professional tone, moderate pace, easy-to-understand phrasing. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. My ankles are fine. Sometimes I feel a bit tense, but that’s it.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female speaking South African English with a mild local accent, conversational pace, slightly hesitant when describing symptoms. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Good. How is your diet and salt intake? And are you still walking a few times a week?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm, clear South African English with a friendly professional tone, moderate pace, easy-to-understand phrasing. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I try to be careful, but I do eat takeaways now and then. I still walk, maybe three times a week when I can.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female speaking South African English with a mild local accent, conversational pace, slightly hesitant when describing symptoms. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thanks. I’d also like to check your medication use. Any side effects from amlodipine, like ankle swelling, flushing, or dizziness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm, clear South African English with a friendly professional tone, moderate pace, easy-to-understand phrasing. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No, I don’t think so. It seems fine. I just forget it sometimes in the morning.",
+      "voice_id": "verse",
+      "style": "Voice profile: Adult female speaking South African English with a mild local accent, conversational pace, slightly hesitant when describing symptoms. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Alright. On exam today your blood pressure is mildly above target, but not dangerously high. Your pulse and exam are otherwise reassuring. My impression is that your blood pressure is not quite fully controlled, and the headaches sound more tension or stress related than anything dangerous. I’d like you to take the amlodipine daily without missed doses, keep a home blood pressure log for two weeks, and continue walking and watching salt intake. If the readings stay high, we can consider adjusting treatment at review. Please come back sooner if you get severe sudden headache, vision changes, chest pain, shortness of breath, weakness, or if the headaches become frequent or different. Otherwise, let’s review your blood pressure log in about two weeks to four weeks.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm, clear South African English with a friendly professional tone, moderate pace, easy-to-understand phrasing. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

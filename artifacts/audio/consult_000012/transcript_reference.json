@@ -1,0 +1,107 @@
+{
+  "consultation_id": "consult_000012",
+  "source_record": "data\\processed\\train.jsonl:13",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Good morning, doctor. I\u2019m here for my blood pressure check, and I\u2019ve been getting some headaches on and off."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. I\u2019m glad you came in. Let\u2019s talk through both. When did the headaches start, and where do you feel them?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About three weeks ago. Mostly at the back of my head or around my temples. It comes and goes."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do they come with blurred vision, nausea, weakness, chest pain, or trouble speaking?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel a bit tense as well."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "All right. How bad is the pain on a scale of zero to ten, and does anything make it better or worse?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Maybe a four or five. It\u2019s worse after a long day at work or if I haven\u2019t had enough water. Rest helps a bit."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Have you checked your blood pressure at home lately? And are you taking the amlodipine every day?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I\u2019ve checked a few times. It\u2019s usually around 138 over 86, but once it was 145 over 90."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That is helpful. Any side effects from the amlodipine, like swollen ankles, dizziness, or flushing?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, nothing like that. I\u2019m fine on it."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Do you use any pain tablets, decongestants, or supplements? Some of those can affect blood pressure or headaches."
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Only the cetirizine for allergies sometimes. I haven\u2019t taken much else."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Okay. Tell me a bit about your routine. How is your sleep, stress, caffeine, and water intake?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Work has been busy. I sit most of the day. I do drink a lot of tea, and I probably do not drink enough water. Sleep is fair, but not great."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. Based on what you\u2019ve said, the headaches sound more like tension or lifestyle-related headaches than an emergency. Your blood pressure readings are a little above ideal, but not severely high. I\u2019d like to check your pressure here today and review your medication plan."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "That makes sense. I was worried it might mean something serious."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "I understand. If your reading today is similar, we may continue the same dose for now or consider a small adjustment depending on the full picture. I\u2019d also like you to work on regular hydration, fewer long gaps without food or water, and a bit more movement during the day. If the headaches continue, a simple pain reliever like paracetamol can be used occasionally, if it suits you and you have no reason to avoid it."
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "All right. Should I keep checking my blood pressure at home?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Yes, please. Check it morning and evening for about a week, and write the readings down. Bring the list back with you. If you get a severe headache, chest pain, shortness of breath, weakness, confusion, or vision changes, seek urgent care. Otherwise, we\u2019ll review your readings and symptoms, and then decide if any treatment changes are needed."
+    }
+  ],
+  "full_transcript": "patient: Good morning, doctor. I\u2019m here for my blood pressure check, and I\u2019ve been getting some headaches on and off. doctor: Good morning. I\u2019m glad you came in. Let\u2019s talk through both. When did the headaches start, and where do you feel them? patient: About three weeks ago. Mostly at the back of my head or around my temples. It comes and goes. doctor: Do they come with blurred vision, nausea, weakness, chest pain, or trouble speaking? patient: No, none of that. Just the headache. Sometimes I feel a bit tense as well. doctor: All right. How bad is the pain on a scale of zero to ten, and does anything make it better or worse? patient: Maybe a four or five. It\u2019s worse after a long day at work or if I haven\u2019t had enough water. Rest helps a bit. doctor: Have you checked your blood pressure at home lately? And are you taking the amlodipine every day? patient: Yes, I take it daily. I\u2019ve checked a few times. It\u2019s usually around 138 over 86, but once it was 145 over 90. doctor: That is helpful. Any side effects from the amlodipine, like swollen ankles, dizziness, or flushing? patient: No, nothing like that. I\u2019m fine on it. doctor: Do you use any pain tablets, decongestants, or supplements? Some of those can affect blood pressure or headaches. patient: Only the cetirizine for allergies sometimes. I haven\u2019t taken much else. doctor: Okay. Tell me a bit about your routine. How is your sleep, stress, caffeine, and water intake? patient: Work has been busy. I sit most of the day. I do drink a lot of tea, and I probably do not drink enough water. Sleep is fair, but not great. doctor: Thank you. Based on what you\u2019ve said, the headaches sound more like tension or lifestyle-related headaches than an emergency. Your blood pressure readings are a little above ideal, but not severely high. I\u2019d like to check your pressure here today and review your medication plan. patient: That makes sense. I was worried it might mean something serious. doctor: I understand. If your reading today is similar, we may continue the same dose for now or consider a small adjustment depending on the full picture. I\u2019d also like you to work on regular hydration, fewer long gaps without food or water, and a bit more movement during the day. If the headaches continue, a simple pain reliever like paracetamol can be used occasionally, if it suits you and you have no reason to avoid it. patient: All right. Should I keep checking my blood pressure at home? doctor: Yes, please. Check it morning and evening for about a week, and write the readings down. Bring the list back with you. If you get a severe headache, chest pain, shortness of breath, weakness, confusion, or vision changes, seek urgent care. Otherwise, we\u2019ll review your readings and symptoms, and then decide if any treatment changes are needed."
+}

@@ -1,0 +1,107 @@
+{
+  "consultation_id": "consult_000011",
+  "source_record": "data\\processed\\train.jsonl:12",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting these headaches on and off."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. I\u2019m glad you came in. Let\u2019s go through both issues carefully. When did the headaches start, and how often are they happening?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "It\u2019s been about three months now. Not every day, but more on busy workdays."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Where is the pain, and what does it feel like? Is it tight, throbbing, or more like pressure?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly like pressure across my forehead. Sometimes at the back of my head too."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do you get any warning signs with it, like blurred vision, nausea, weakness, numbness, or trouble speaking?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. It\u2019s just uncomfortable and annoying."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That\u2019s helpful. Any fever, neck stiffness, recent head injury, or a headache that wakes you from sleep?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No fever or injury. It doesn\u2019t wake me up. It usually comes later in the day."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "How has your blood pressure been at home, if you\u2019ve checked it? And have you missed any doses of the amlodipine?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I check it sometimes. It\u2019s been a bit high on some days, especially when work is hectic. I don\u2019t think I\u2019ve missed many tablets, maybe once or twice."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thank you. Any chest pain, shortness of breath, swelling in the legs, or palpitations?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No, none of that."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Tell me about sleep, stress, caffeine, and pain medicine use. Sometimes those can trigger headaches and raise blood pressure."
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Sleep is okay, but work has been quite stressful. I do have a few coffees during the day. I don\u2019t really take pain tablets unless I need to."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Understood. Any sinus pressure, allergies acting up, or blocked nose around the same time?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Actually, yes. My allergies have been a bit worse lately, with some sneezing and a blocked nose."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "That may be contributing. I\u2019d like to check your blood pressure today and review your readings. We may also need to adjust your treatment if it\u2019s still running high. Have you had any side effects from the amlodipine, like ankle swelling or dizziness?"
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "No side effects that I\u2019ve noticed."
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Alright. Based on what you\u2019ve told me, the headaches sound more like tension-type or possibly allergy-related headaches, but I want to confirm your blood pressure first. My plan is to measure it now, review your home readings, and then decide whether we should keep the current dose or adjust it. I\u2019d also suggest reducing extra caffeine, keeping hydrated, and treating the allergies more regularly if they\u2019re active. If you develop a sudden severe headache, vision changes, weakness, chest pain, or shortness of breath, seek urgent care. Otherwise, let\u2019s review everything together after the BP reading and arrange follow-up soon."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting these headaches on and off. doctor: Good morning. I\u2019m glad you came in. Let\u2019s go through both issues carefully. When did the headaches start, and how often are they happening? patient: It\u2019s been about three months now. Not every day, but more on busy workdays. doctor: Okay. Where is the pain, and what does it feel like? Is it tight, throbbing, or more like pressure? patient: Mostly like pressure across my forehead. Sometimes at the back of my head too. doctor: Do you get any warning signs with it, like blurred vision, nausea, weakness, numbness, or trouble speaking? patient: No, none of that. It\u2019s just uncomfortable and annoying. doctor: That\u2019s helpful. Any fever, neck stiffness, recent head injury, or a headache that wakes you from sleep? patient: No fever or injury. It doesn\u2019t wake me up. It usually comes later in the day. doctor: How has your blood pressure been at home, if you\u2019ve checked it? And have you missed any doses of the amlodipine? patient: I check it sometimes. It\u2019s been a bit high on some days, especially when work is hectic. I don\u2019t think I\u2019ve missed many tablets, maybe once or twice. doctor: Thank you. Any chest pain, shortness of breath, swelling in the legs, or palpitations? patient: No, none of that. doctor: Tell me about sleep, stress, caffeine, and pain medicine use. Sometimes those can trigger headaches and raise blood pressure. patient: Sleep is okay, but work has been quite stressful. I do have a few coffees during the day. I don\u2019t really take pain tablets unless I need to. doctor: Understood. Any sinus pressure, allergies acting up, or blocked nose around the same time? patient: Actually, yes. My allergies have been a bit worse lately, with some sneezing and a blocked nose. doctor: That may be contributing. I\u2019d like to check your blood pressure today and review your readings. We may also need to adjust your treatment if it\u2019s still running high. Have you had any side effects from the amlodipine, like ankle swelling or dizziness? patient: No side effects that I\u2019ve noticed. doctor: Alright. Based on what you\u2019ve told me, the headaches sound more like tension-type or possibly allergy-related headaches, but I want to confirm your blood pressure first. My plan is to measure it now, review your home readings, and then decide whether we should keep the current dose or adjust it. I\u2019d also suggest reducing extra caffeine, keeping hydrated, and treating the allergies more regularly if they\u2019re active. If you develop a sudden severe headache, vision changes, weakness, chest pain, or shortness of breath, seek urgent care. Otherwise, let\u2019s review everything together after the BP reading and arrange follow-up soon."
+}

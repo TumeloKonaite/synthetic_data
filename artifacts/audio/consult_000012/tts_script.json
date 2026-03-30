@@ -1,0 +1,191 @@
+{
+  "consultation_id": "consult_000012",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Good morning, doctor. I’m here for my blood pressure check, and I’ve been getting some headaches on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. I’m glad you came in. Let’s talk through both. When did the headaches start, and where do you feel them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About three weeks ago. Mostly at the back of my head or around my temples. It comes and goes.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do they come with blurred vision, nausea, weakness, chest pain, or trouble speaking?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel a bit tense as well.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "All right. How bad is the pain on a scale of zero to ten, and does anything make it better or worse?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Maybe a four or five. It’s worse after a long day at work or if I haven’t had enough water. Rest helps a bit.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Have you checked your blood pressure at home lately? And are you taking the amlodipine every day?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I’ve checked a few times. It’s usually around 138 over 86, but once it was 145 over 90.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That is helpful. Any side effects from the amlodipine, like swollen ankles, dizziness, or flushing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, nothing like that. I’m fine on it.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Do you use any pain tablets, decongestants, or supplements? Some of those can affect blood pressure or headaches.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Only the cetirizine for allergies sometimes. I haven’t taken much else.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Okay. Tell me a bit about your routine. How is your sleep, stress, caffeine, and water intake?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Work has been busy. I sit most of the day. I do drink a lot of tea, and I probably do not drink enough water. Sleep is fair, but not great.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. Based on what you’ve said, the headaches sound more like tension or lifestyle-related headaches than an emergency. Your blood pressure readings are a little above ideal, but not severely high. I’d like to check your pressure here today and review your medication plan.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "That makes sense. I was worried it might mean something serious.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "I understand. If your reading today is similar, we may continue the same dose for now or consider a small adjustment depending on the full picture. I’d also like you to work on regular hydration, fewer long gaps without food or water, and a bit more movement during the day. If the headaches continue, a simple pain reliever like paracetamol can be used occasionally, if it suits you and you have no reason to avoid it.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "All right. Should I keep checking my blood pressure at home?",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, polite and slightly reserved, natural conversational pace, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Yes, please. Check it morning and evening for about a week, and write the readings down. Bring the list back with you. If you get a severe headache, chest pain, shortness of breath, weakness, confusion, or vision changes, seek urgent care. Otherwise, we’ll review your readings and symptoms, and then decide if any treatment changes are needed.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

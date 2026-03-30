@@ -1,0 +1,107 @@
+{
+  "consultation_id": "consult_000007",
+  "source_record": "data\\processed\\train.jsonl:8",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Good morning, doctor. I\u2019m here for my blood pressure follow-up, but I\u2019ve also been feeling quite tired most afternoons for the last two months."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Thanks for coming in. Let\u2019s talk through both issues. How has the tiredness been affecting you, and have you noticed anything else with it?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "It\u2019s mainly after lunch. I feel flat and sleepy. By late afternoon I just want to sit down. No fever or anything like that."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I see. Is it a new thing, or has it been slowly building? And how are you sleeping at night?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It\u2019s been slowly building. Sleep is okay, maybe not perfect. I do wake up once or twice, but I usually get back to sleep."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any weight change, low mood, heavy periods, headaches, chest pain, shortness of breath, or palpitations?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. My periods are still there, but maybe a bit heavier than before. No major mood issues. I do get headaches sometimes, but not often."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Thank you. Tell me about your blood pressure tablets. Are you taking the amlodipine every day, and have you had any side effects like ankle swelling or dizziness?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I might miss one here and there, but mostly I\u2019m good. I have noticed a little swelling around my ankles by the evening."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That is helpful. How has your home or recent clinic blood pressure been? And do you know your last readings?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "At home it\u2019s often around 140 over 90, sometimes a bit lower. I can\u2019t remember the exact last clinic number."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Okay. I\u2019d like to ask a few general questions. Do you snore loudly, feel unrefreshed in the morning, or have any urinary symptoms, increased thirst, or frequent urination?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "My husband says I snore a bit, but not badly. I do feel tired when I wake up. No urinary symptoms, and I\u2019m not extra thirsty."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. How is your diet and activity during the week? Any change in caffeine, alcohol, or stress at work?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Work has been busy, and I sit most of the day. I try to walk on weekends, but not much during the week. I do have a few cups of coffee, and maybe a glass of wine on the weekend."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Understood. Given the heavier periods and tiredness, have you ever had anaemia or low iron before?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Not that I know of. I\u2019ve never been told that before."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "All right. I\u2019m going to check your blood pressure today and review your weight, pulse, and ankles. We may also need blood tests to look at iron, full blood count, thyroid, kidney function, sugar, and cholesterol. After that we can decide if your treatment needs adjusting."
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "Okay, that sounds fine. I was wondering if the tablets could be part of the tiredness."
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "They could be contributing, especially if the ankle swelling is from amlodipine, but we should confirm your readings and check for other common causes first. My impression is that your blood pressure may still be a little above target, and the afternoon tiredness could be from a mix of sleep, lifestyle, possible iron deficiency, and possibly the medication. The next step is to do the exam and arrange blood tests. We will then review whether to continue amlodipine, adjust the dose, or change treatment. In the meantime, keep taking it as prescribed, try regular weekday walks if you can, and note any home blood pressure readings. Please seek help sooner if you develop chest pain, shortness of breath, fainting, severe headaches, or marked swelling."
+    }
+  ],
+  "full_transcript": "patient: Good morning, doctor. I\u2019m here for my blood pressure follow-up, but I\u2019ve also been feeling quite tired most afternoons for the last two months. doctor: Good morning. Thanks for coming in. Let\u2019s talk through both issues. How has the tiredness been affecting you, and have you noticed anything else with it? patient: It\u2019s mainly after lunch. I feel flat and sleepy. By late afternoon I just want to sit down. No fever or anything like that. doctor: I see. Is it a new thing, or has it been slowly building? And how are you sleeping at night? patient: It\u2019s been slowly building. Sleep is okay, maybe not perfect. I do wake up once or twice, but I usually get back to sleep. doctor: Any weight change, low mood, heavy periods, headaches, chest pain, shortness of breath, or palpitations? patient: No chest pain or shortness of breath. My periods are still there, but maybe a bit heavier than before. No major mood issues. I do get headaches sometimes, but not often. doctor: Thank you. Tell me about your blood pressure tablets. Are you taking the amlodipine every day, and have you had any side effects like ankle swelling or dizziness? patient: Yes, I take it daily. I might miss one here and there, but mostly I\u2019m good. I have noticed a little swelling around my ankles by the evening. doctor: That is helpful. How has your home or recent clinic blood pressure been? And do you know your last readings? patient: At home it\u2019s often around 140 over 90, sometimes a bit lower. I can\u2019t remember the exact last clinic number. doctor: Okay. I\u2019d like to ask a few general questions. Do you snore loudly, feel unrefreshed in the morning, or have any urinary symptoms, increased thirst, or frequent urination? patient: My husband says I snore a bit, but not badly. I do feel tired when I wake up. No urinary symptoms, and I\u2019m not extra thirsty. doctor: Thanks. How is your diet and activity during the week? Any change in caffeine, alcohol, or stress at work? patient: Work has been busy, and I sit most of the day. I try to walk on weekends, but not much during the week. I do have a few cups of coffee, and maybe a glass of wine on the weekend. doctor: Understood. Given the heavier periods and tiredness, have you ever had anaemia or low iron before? patient: Not that I know of. I\u2019ve never been told that before. doctor: All right. I\u2019m going to check your blood pressure today and review your weight, pulse, and ankles. We may also need blood tests to look at iron, full blood count, thyroid, kidney function, sugar, and cholesterol. After that we can decide if your treatment needs adjusting. patient: Okay, that sounds fine. I was wondering if the tablets could be part of the tiredness. doctor: They could be contributing, especially if the ankle swelling is from amlodipine, but we should confirm your readings and check for other common causes first. My impression is that your blood pressure may still be a little above target, and the afternoon tiredness could be from a mix of sleep, lifestyle, possible iron deficiency, and possibly the medication. The next step is to do the exam and arrange blood tests. We will then review whether to continue amlodipine, adjust the dose, or change treatment. In the meantime, keep taking it as prescribed, try regular weekday walks if you can, and note any home blood pressure readings. Please seek help sooner if you develop chest pain, shortness of breath, fainting, severe headaches, or marked swelling."
+}

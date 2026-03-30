@@ -1,0 +1,235 @@
+{
+  "total": 50,
+  "succeeded": 37,
+  "failed": 1,
+  "successes": [
+    {
+      "record_path": "data\\processed\\train.jsonl:1",
+      "consultation_id": "consult_000000",
+      "audio_manifest_path": "artifacts\\audio\\consult_000000\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000000\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:2",
+      "consultation_id": "consult_000001",
+      "audio_manifest_path": "artifacts\\audio\\consult_000001\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000001\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:3",
+      "consultation_id": "consult_000002",
+      "audio_manifest_path": "artifacts\\audio\\consult_000002\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000002\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:4",
+      "consultation_id": "consult_000003",
+      "audio_manifest_path": "artifacts\\audio\\consult_000003\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000003\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:5",
+      "consultation_id": "consult_000004",
+      "audio_manifest_path": "artifacts\\audio\\consult_000004\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000004\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:6",
+      "consultation_id": "consult_000005",
+      "audio_manifest_path": "artifacts\\audio\\consult_000005\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000005\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:7",
+      "consultation_id": "consult_000006",
+      "audio_manifest_path": "artifacts\\audio\\consult_000006\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000006\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:8",
+      "consultation_id": "consult_000007",
+      "audio_manifest_path": "artifacts\\audio\\consult_000007\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000007\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:9",
+      "consultation_id": "consult_000008",
+      "audio_manifest_path": "artifacts\\audio\\consult_000008\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000008\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:10",
+      "consultation_id": "consult_000009",
+      "audio_manifest_path": "artifacts\\audio\\consult_000009\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000009\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:11",
+      "consultation_id": "consult_000010",
+      "audio_manifest_path": "artifacts\\audio\\consult_000010\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000010\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:12",
+      "consultation_id": "consult_000011",
+      "audio_manifest_path": "artifacts\\audio\\consult_000011\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000011\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:13",
+      "consultation_id": "consult_000012",
+      "audio_manifest_path": "artifacts\\audio\\consult_000012\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000012\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:14",
+      "consultation_id": "consult_000013",
+      "audio_manifest_path": "artifacts\\audio\\consult_000013\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000013\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:15",
+      "consultation_id": "consult_000014",
+      "audio_manifest_path": "artifacts\\audio\\consult_000014\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000014\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:16",
+      "consultation_id": "consult_000015",
+      "audio_manifest_path": "artifacts\\audio\\consult_000015\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000015\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:17",
+      "consultation_id": "consult_000016",
+      "audio_manifest_path": "artifacts\\audio\\consult_000016\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000016\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:18",
+      "consultation_id": "consult_000017",
+      "audio_manifest_path": "artifacts\\audio\\consult_000017\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000017\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:19",
+      "consultation_id": "consult_000018",
+      "audio_manifest_path": "artifacts\\audio\\consult_000018\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000018\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:20",
+      "consultation_id": "consult_000019",
+      "audio_manifest_path": "artifacts\\audio\\consult_000019\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000019\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:21",
+      "consultation_id": "consult_000020",
+      "audio_manifest_path": "artifacts\\audio\\consult_000020\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000020\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:22",
+      "consultation_id": "consult_000021",
+      "audio_manifest_path": "artifacts\\audio\\consult_000021\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000021\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:23",
+      "consultation_id": "consult_000022",
+      "audio_manifest_path": "artifacts\\audio\\consult_000022\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000022\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:24",
+      "consultation_id": "consult_000023",
+      "audio_manifest_path": "artifacts\\audio\\consult_000023\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000023\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:25",
+      "consultation_id": "consult_000024",
+      "audio_manifest_path": "artifacts\\audio\\consult_000024\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000024\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:26",
+      "consultation_id": "consult_000025",
+      "audio_manifest_path": "artifacts\\audio\\consult_000025\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000025\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:27",
+      "consultation_id": "consult_000026",
+      "audio_manifest_path": "artifacts\\audio\\consult_000026\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000026\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:28",
+      "consultation_id": "consult_000027",
+      "audio_manifest_path": "artifacts\\audio\\consult_000027\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000027\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:29",
+      "consultation_id": "consult_000028",
+      "audio_manifest_path": "artifacts\\audio\\consult_000028\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000028\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:30",
+      "consultation_id": "consult_000029",
+      "audio_manifest_path": "artifacts\\audio\\consult_000029\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000029\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:31",
+      "consultation_id": "consult_000030",
+      "audio_manifest_path": "artifacts\\audio\\consult_000030\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000030\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:32",
+      "consultation_id": "consult_000031",
+      "audio_manifest_path": "artifacts\\audio\\consult_000031\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000031\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:33",
+      "consultation_id": "consult_000032",
+      "audio_manifest_path": "artifacts\\audio\\consult_000032\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000032\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:34",
+      "consultation_id": "consult_000033",
+      "audio_manifest_path": "artifacts\\audio\\consult_000033\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000033\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:35",
+      "consultation_id": "consult_000034",
+      "audio_manifest_path": "artifacts\\audio\\consult_000034\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000034\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:36",
+      "consultation_id": "consult_000035",
+      "audio_manifest_path": "artifacts\\audio\\consult_000035\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000035\\full.wav"
+    },
+    {
+      "record_path": "data\\processed\\train.jsonl:37",
+      "consultation_id": "consult_000036",
+      "audio_manifest_path": "artifacts\\audio\\consult_000036\\audio_manifest.json",
+      "full_audio_path": "artifacts\\audio\\consult_000036\\full.wav"
+    }
+  ],
+  "failures": [
+    {
+      "record_path": "data\\processed\\train.jsonl:38",
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000001",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure check, and I’ve also had this dry cough that just won’t go away.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, natural conversational speech, slight Cape Town accent, mild anxiety, clear but occasionally pauses to think. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, please have a seat. We’ll look at both. How long have you had the cough, and have you noticed anything else with it?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm middle-aged female GP, clear and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "About two weeks now. It’s dry, no phlegm. It’s worse at night, I think.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, natural conversational speech, slight Cape Town accent, mild anxiety, clear but occasionally pauses to think. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Any fever, shortness of breath, wheezing, chest pain, sore throat, or coughing up blood?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm middle-aged female GP, clear and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. I feel fine otherwise, just a bit irritated by the cough.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, natural conversational speech, slight Cape Town accent, mild anxiety, clear but occasionally pauses to think. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Have you had a cold recently, any reflux or heartburn, or more allergy symptoms like a runny nose or post-nasal drip?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm middle-aged female GP, clear and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I did have a bit of a sniffly nose last week. I do get allergies now and then. No heartburn, though.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, natural conversational speech, slight Cape Town accent, mild anxiety, clear but occasionally pauses to think. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That helps. Are you taking your amlodipine every day? And have you started any new medicines, including over-the-counter cough remedies or supplements?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm middle-aged female GP, clear and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take the amlodipine daily. No new medicines. Just cetirizine sometimes when the allergies act up.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, natural conversational speech, slight Cape Town accent, mild anxiety, clear but occasionally pauses to think. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Any side effects from the amlodipine, like ankle swelling, dizziness, or headaches?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm middle-aged female GP, clear and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, not really. I’ve been okay on it.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, natural conversational speech, slight Cape Town accent, mild anxiety, clear but occasionally pauses to think. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Do you know what your home blood pressure readings have been, if you’ve checked them recently?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm middle-aged female GP, clear and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I checked a few times last week. It was around 128 over 82 most times. One reading was a bit higher, but not too bad.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, natural conversational speech, slight Cape Town accent, mild anxiety, clear but occasionally pauses to think. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That sounds fairly well controlled. I’d like to check your blood pressure here today as well. Before I do, just to confirm, you do not smoke, correct?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm middle-aged female GP, clear and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Yes, correct. I’ve never smoked. I only drink socially, maybe once or twice a month.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, natural conversational speech, slight Cape Town accent, mild anxiety, clear but occasionally pauses to think. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. Given the dry cough and your allergy history, this sounds most likely related to post-nasal drip or a lingering viral irritation. It does not sound like a chest infection from what you’ve told me. Let me examine you and check your blood pressure now.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm middle-aged female GP, clear and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay, that makes sense. I was worried it might be something serious.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, natural conversational speech, slight Cape Town accent, mild anxiety, clear but occasionally pauses to think. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "At this stage it seems low risk. If your blood pressure here is similar to your home readings, we’ll likely keep the same amlodipine dose. For the cough, I’d suggest regular cetirizine for a short period, saline nasal rinses if you tolerate them, fluids, and avoiding triggers like dust. If the cough lasts more than another couple of weeks, or if you develop fever, breathlessness, chest pain, wheezing, or blood in the sputum, please come back sooner. We can also review you sooner if your blood pressure is running high or you get side effects. Otherwise, we’ll plan routine follow-up after today’s readings and keep monitoring both issues.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm middle-aged female GP, clear and professional, moderate pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

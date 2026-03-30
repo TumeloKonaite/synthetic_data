@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000010",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure check, but I’ve also been getting these headaches on and off for about three weeks.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, slightly anxious but conversational, moderate pace, clear everyday speech, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let’s go through it carefully. Tell me about the headaches first. Where do you feel them, and what are they like?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly at the front or around my temples. It feels like a dull ache, not very sharp. It comes and goes.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, slightly anxious but conversational, moderate pace, clear everyday speech, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. How long do they last, and how bad are they on a scale of 1 to 10?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Maybe an hour or two. I’d say around 4 out of 10. Sometimes it settles if I rest or drink water.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, slightly anxious but conversational, moderate pace, clear everyday speech, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Any nausea, blurred vision, weakness, numbness, chest pain, or shortness of breath with the headaches?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. I have not fainted or anything like that.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, slightly anxious but conversational, moderate pace, clear everyday speech, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That is reassuring. Have you noticed anything that brings it on, like stress, poor sleep, skipping meals, or lots of screen time?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, actually. Work has been busy, and I sit at the computer most of the day. I probably drink too little water and I’ve not been sleeping great.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, slightly anxious but conversational, moderate pace, clear everyday speech, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thanks. Let’s talk about your blood pressure now. Are you taking the amlodipine every day? Any missed doses or side effects like ankle swelling or flushing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I take it most days. I may have missed a dose here and there, but not often. No swelling that I’ve noticed.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, slightly anxious but conversational, moderate pace, clear everyday speech, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Any home blood pressure readings, or have you checked it elsewhere recently?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I checked it at a pharmacy last week. It was around 145 over 90, I think. I don’t check it often at home.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, slightly anxious but conversational, moderate pace, clear everyday speech, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Understood. I’d like to ask a few general questions too. Do you smoke, drink alcohol, or use any over-the-counter pain tablets or herbal products for the headaches?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I don’t smoke. I only drink socially. For the headaches I sometimes take paracetamol, maybe once or twice a week. No herbs or anything.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, slightly anxious but conversational, moderate pace, clear everyday speech, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Alright. And just to confirm, do you have any allergies besides penicillin?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No, just penicillin. It gives me a rash.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, female adult, slightly anxious but conversational, moderate pace, clear everyday speech, mild local accent. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thanks. From what you’ve told me, this sounds more like tension-type headaches or headaches related to stress, sleep, or blood pressure not being fully controlled. I’d like to check your blood pressure here today and review your readings. We may also need to adjust your treatment if it is still running a bit high. In the meantime, try regular meals, more water, better sleep, and limit pain tablets to only when needed. If you get a sudden severe headache, vision changes, weakness, chest pain, or your blood pressure is very high, seek urgent care. Otherwise, let’s check your BP now and then plan follow-up after that.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

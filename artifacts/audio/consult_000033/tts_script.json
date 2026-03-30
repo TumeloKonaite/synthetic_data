@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000033",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure follow-up. I’ve also been getting some headaches lately.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult, natural conversational pace, slightly cautious but cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let’s go through it carefully. How have you been measuring your blood pressure, and what sort of headache are you getting?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Professional South African English accent, calm and clear, medium pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "I check it at the pharmacy sometimes. It’s been a bit up and down. The headaches started about three weeks ago. They’re not severe, just annoying.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult, natural conversational pace, slightly cautious but cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Where is the headache, and how long does it last? Any nausea, blurred vision, weakness, or numbness with it?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Professional South African English accent, calm and clear, medium pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly across my forehead or at the back of my head. It lasts a few hours. No vomiting, no weakness, and my vision is fine.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult, natural conversational pace, slightly cautious but cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That is reassuring. Do you get them after a long day at work, after screen time, or when you have not eaten or drunk enough water?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Professional South African English accent, calm and clear, medium pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Yes, actually. I sit at a desk most of the day, and I think I do forget to drink enough water. Stress at work probably doesn’t help either.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult, natural conversational pace, slightly cautious but cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Understood. Any chest pain, shortness of breath, palpitations, or swelling in your legs? And have you had any very high readings at home or at the pharmacy?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Professional South African English accent, calm and clear, medium pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. I haven’t checked at home, but at the pharmacy it was around 145 over 92 last week.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult, natural conversational pace, slightly cautious but cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Are you taking the amlodipine every day? Any side effects like ankle swelling, flushing, or dizziness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Professional South African English accent, calm and clear, medium pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I haven’t noticed any side effects. I do sometimes forget in the morning, but not often.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult, natural conversational pace, slightly cautious but cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "And how often are you using pain tablets for the headaches? Also, tell me about sleep, caffeine, and alcohol on weekends.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Professional South African English accent, calm and clear, medium pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I’ve taken paracetamol a few times, not every day. Sleep is okay, maybe not enough. I do have two coffees a day. Alcohol is just socially on weekends.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult, natural conversational pace, slightly cautious but cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thank you. Just to check, any fever, sinus symptoms, head injury, or headaches that wake you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Professional South African English accent, calm and clear, medium pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No fever or injury. I do have allergies sometimes, but no bad sinus pain. The headaches don’t wake me up at night.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult, natural conversational pace, slightly cautious but cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "All right. Based on what you’ve told me, the blood pressure seems a bit above target, and the headaches sound more like tension or strain headaches than anything dangerous. I’d like to check your blood pressure properly here today and review whether your treatment needs adjusting.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Professional South African English accent, calm and clear, medium pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay, that makes sense. I was wondering if the blood pressure was causing them.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult, natural conversational pace, slightly cautious but cooperative. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "It can contribute, yes, but these headaches do not sound like an emergency. My plan is to measure your pressure now, review your readings, and likely continue the amlodipine for the moment. We may increase the dose or add another medicine if your numbers stay high. I also recommend more regular fluids, fewer missed doses, less caffeine if possible, and a simple headache diary. Please come back in two to four weeks, or sooner if you get severe headache, chest pain, shortness of breath, weakness, vision changes, or a much higher blood pressure reading.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Professional South African English accent, calm and clear, medium pace, warm tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

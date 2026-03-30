@@ -2,18 +2,20 @@
 import json
 from pathlib import Path
 
-from src.audio.voice_mapper import assign_voices
-from src.audio.tts_script_builder import build_tts_script
-from src.audio.providers.openai_tts import OpenAITTSProvider
-from src.audio.synthesizer import synthesize_turns
-from src.audio.stitcher import stitch_turn_audio
 from src.audio.audio_manifest import save_audio_manifest, save_json
+from src.audio.providers.openai_tts import OpenAITTSProvider
+from src.audio.stitcher import stitch_turn_audio
+from src.audio.synthesizer import synthesize_turns
+from src.audio.tts_script_builder import build_tts_script
+from src.audio.voice_mapper import assign_voices
 from src.models.tts import AudioManifest
 from src.validators.audio_validator import validate_record_for_audio
+
 
 def load_record(record_path: str):
     with open(record_path, "r", encoding="utf-8") as f:
         return json.load(f)
+
 
 def run_audio_pipeline(record_obj, record_path: str, tts_config: dict, output_root: str):
     validate_record_for_audio(record_obj)
@@ -46,12 +48,9 @@ def run_audio_pipeline(record_obj, record_path: str, tts_config: dict, output_ro
     transcript_reference = {
         "consultation_id": consultation_id,
         "turns": [
-            {"turn_id": t.turn_id, "speaker": t.speaker, "text": t.text}
-            for t in tts_script.turns
+            {"turn_id": t.turn_id, "speaker": t.speaker, "text": t.text} for t in tts_script.turns
         ],
-        "full_transcript": " ".join(
-            [f"{t.speaker}: {t.text}" for t in tts_script.turns]
-        ),
+        "full_transcript": " ".join([f"{t.speaker}: {t.text}" for t in tts_script.turns]),
     }
 
     transcript_reference_path = consultation_dir / "transcript_reference.json"

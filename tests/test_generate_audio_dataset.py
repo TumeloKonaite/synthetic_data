@@ -4,8 +4,8 @@ import json
 import wave
 from pathlib import Path
 
-from synthetic_consults.models.consultation_record import ConsultationRecord
 from synthetic_consults.audio.stitcher import stitch_turn_audio
+from synthetic_consults.models.consultation_record import ConsultationRecord
 from synthetic_consults.pipelines.generate_audio_dataset import (
     build_runtime_tts_script,
     iter_record_payloads,

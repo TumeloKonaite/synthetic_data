@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import datetime, UTC
+from datetime import UTC, datetime
 
 from synthetic_consults.audio.tts_script_builder import build_tts_script
 from synthetic_consults.generators import (
@@ -13,7 +13,6 @@ from synthetic_consults.generators import (
 )
 from synthetic_consults.generators.conversation_generator import ConversationBundle
 from synthetic_consults.models.audio import AudioLabels, AudioManifest, AudioPaths
-from synthetic_consults.models.clinical_outputs import QualityLabels
 from synthetic_consults.models.consultation_record import (
     ConsultationRecord,
     GeneratorInfo,
@@ -21,7 +20,6 @@ from synthetic_consults.models.consultation_record import (
 )
 from synthetic_consults.models.scenario import Scenario
 from synthetic_consults.models.transcript import TranscriptArtifact, TranscriptReference
-from synthetic_consults.validators.dialogue_validator import validate_dialogue
 
 
 def build_record(conversation_id: str) -> ConsultationRecord:
@@ -109,8 +107,7 @@ def build_record(conversation_id: str) -> ConsultationRecord:
             paths=AudioPaths(
                 full_audio=f"data/audio/{conversation_id}/full.wav",
                 turn_audios=[
-                    f"data/audio/{conversation_id}/turn_{t.turn_id:03d}.wav"
-                    for t in conversation
+                    f"data/audio/{conversation_id}/turn_{t.turn_id:03d}.wav" for t in conversation
                 ],
             ),
             audio_labels=AudioLabels(),
@@ -118,10 +115,7 @@ def build_record(conversation_id: str) -> ConsultationRecord:
         transcript_reference=TranscriptReference(
             gold_verbatim=TranscriptArtifact(
                 path=f"data/transcripts/gold/{conversation_id}_verbatim.json",
-                text=" ".join(
-                    f"{t.speaker.capitalize()}: {t.utterance}"
-                    for t in conversation
-                ),
+                text=" ".join(f"{t.speaker.capitalize()}: {t.utterance}" for t in conversation),
             ),
             gold_normalized=TranscriptArtifact(
                 path=f"data/transcripts/gold/{conversation_id}_normalized.json",

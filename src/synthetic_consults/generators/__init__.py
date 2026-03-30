@@ -1,6 +1,6 @@
 from synthetic_consults.generators.base import GenerationError, StructuredGenerator
-from synthetic_consults.generators.critic import ConversationCritic
 from synthetic_consults.generators.conversation_generator import ConversationGenerator
+from synthetic_consults.generators.critic import ConversationCritic
 from synthetic_consults.generators.extractor import ClinicalExtractor
 from synthetic_consults.generators.openai_chat_generator import OpenAIChatGenerator
 from synthetic_consults.generators.revision import ConversationReviser

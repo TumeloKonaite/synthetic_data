@@ -1,6 +1,7 @@
+from typing import Literal
 
 from pydantic import BaseModel
-from typing import Literal
+
 
 class TTSTurn(BaseModel):
     turn_id: int
@@ -10,6 +11,7 @@ class TTSTurn(BaseModel):
     style: str = "neutral"
     pace: str = "normal"
     pause_after_sec: float = 0.6
+
 
 class TTSScript(BaseModel):
     consultation_id: str

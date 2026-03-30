@@ -288,9 +288,7 @@ def run_audio_pipeline(
             {"turn_id": turn.turn_id, "speaker": turn.speaker, "text": turn.text}
             for turn in tts_script.turns
         ],
-        "full_transcript": " ".join(
-            f"{turn.speaker}: {turn.text}" for turn in tts_script.turns
-        ),
+        "full_transcript": " ".join(f"{turn.speaker}: {turn.text}" for turn in tts_script.turns),
     }
 
     transcript_reference_path = consultation_dir / "transcript_reference.json"
@@ -378,9 +376,7 @@ def main() -> int:
                     "record_path": record_ref,
                     "consultation_id": manifest.consultation_id,
                     "audio_manifest_path": str(
-                        Path(args.output_dir)
-                        / manifest.consultation_id
-                        / "audio_manifest.json"
+                        Path(args.output_dir) / manifest.consultation_id / "audio_manifest.json"
                     ),
                     "full_audio_path": manifest.full_audio_path,
                 }

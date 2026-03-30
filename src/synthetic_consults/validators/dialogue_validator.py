@@ -22,8 +22,12 @@ def validate_dialogue(record: ConsultationRecord) -> None:
     if not doctor_turns or not patient_turns:
         raise DialogueValidationError("Conversation must include both patient and doctor.")
 
-    if not any("plan" in t.intent or "assessment" in t.intent or "close" in t.intent for t in doctor_turns):
-        raise DialogueValidationError("Conversation must include assessment/plan/closing from doctor.")
+    if not any(
+        "plan" in t.intent or "assessment" in t.intent or "close" in t.intent for t in doctor_turns
+    ):
+        raise DialogueValidationError(
+            "Conversation must include assessment/plan/closing from doctor."
+        )
 
     for turn in turns:
         if len(turn.utterance.split()) > 60:

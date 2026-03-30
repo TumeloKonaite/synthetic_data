@@ -1,4 +1,3 @@
-
 def assign_voices(record, tts_config: dict) -> dict[str, str]:
     voices = tts_config["voices"]
 

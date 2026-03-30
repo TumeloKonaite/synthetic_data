@@ -4,10 +4,12 @@ from synthetic_consults.models.tts import TTSScript, TTSTurn
 
 MAX_WORDS_PER_UTTERANCE = 60
 
+
 def normalize_tts_text(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     text = re.sub(r"[ ]+([,?.!])", r"\1", text)
     return text
+
 
 def estimate_pause(text: str, default_pause: float) -> float:
     if text.endswith("?"):
@@ -15,6 +17,7 @@ def estimate_pause(text: str, default_pause: float) -> float:
     if text.endswith("."):
         return default_pause + 0.1
     return default_pause
+
 
 def build_tts_script(record, voice_map: dict[str, str], tts_config: dict) -> TTSScript:
     turns = []

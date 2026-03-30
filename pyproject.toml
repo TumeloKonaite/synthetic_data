@@ -12,6 +12,7 @@ dependencies = [
     "openai>=2.29.0",
     "pydantic>=2.12.5",
     "PyYAML>=6.0",
+    "ruff>=0.15.8",
 ]
 
 [tool.setuptools]
@@ -22,3 +23,15 @@ where = ["src"]
 
 [project.scripts]
 generate-audio-dataset = "synthetic_consults.pipelines.generate_audio_dataset:main"
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+src = ["src", "tests", "scripts"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+fixable = ["ALL"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["synthetic_consults"]

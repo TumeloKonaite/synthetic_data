@@ -3,6 +3,7 @@ from pathlib import Path
 
 from synthetic_consults.models.tts import AudioManifest
 
+
 def save_audio_manifest(manifest: AudioManifest, output_path: str) -> str:
     path = Path(output_path)
     path.parent.mkdir(parents=True, exist_ok=True)

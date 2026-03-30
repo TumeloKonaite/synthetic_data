@@ -32,7 +32,7 @@ When the audio pipeline runs successfully, it writes:
 - `data/processed/train.jsonl` currently contains 50 synthetic consultation records
 - `artifacts/audio/` already contains generated audio outputs for a subset of those records
 - The committed audio summary shows 37 successful audio generations and 1 failure caused by OpenAI quota exhaustion
-- Some export and ASR-related scripts are present as placeholders and are not yet implemented end to end
+- Some export-related scripts are present as placeholders and are not yet implemented end to end
 
 ## Project Layout
 
@@ -126,6 +126,7 @@ Important flags:
 - `--input-dir`: recursively process a directory of records
 - `--pattern`: file glob when using `--input-dir`
 - `--limit`: cap the number of records processed
+- `--skip-existing`: skip consultations that already have `full.wav` and `audio_manifest.json`
 - `--fail-fast`: stop on first failure
 - `--verbose`: print per-record progress
 - `--full-only`: delete intermediate turn WAV files after stitching
@@ -173,7 +174,7 @@ This makes the dataset usable for:
 
 - Clinical dialogue research
 - Structured extraction benchmarking
-- Speech and ASR benchmarking
+- Speech synthesis benchmarking
 - Multi-modal synthetic patient workflows
 
 ## Testing
@@ -231,8 +232,6 @@ Example generated audio artifacts:
 
 - `scripts/export_to_hf.py` is currently empty
 - `src/synthetic_consults/pipelines/build_hf_export.py` is currently empty
-- `scripts/transcribe_audio.py` is currently empty
-- `src/synthetic_consults/pipelines/run_asr_benchmark.py` is currently empty
 - The current audio generation summary shows quota-related failures when OpenAI usage limits are hit
 
 ## Notes

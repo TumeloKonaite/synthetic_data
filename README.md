@@ -1,7 +1,6 @@
 # Synthetic Patient DR Data
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-gpt--5.4--mini%20%7C%20gpt--4o--mini--tts-black)](https://platform.openai.com/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-synthetic__data-181717?logo=github)](https://github.com/TumeloKonaite/synthetic_data)
 [![GitHub Stars](https://img.shields.io/github/stars/TumeloKonaite/synthetic_data?style=social)](https://github.com/TumeloKonaite/synthetic_data/stargazers)
 [![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/TumeloKonaite/synthetic-patient-dr-data)

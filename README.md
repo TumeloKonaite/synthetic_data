@@ -283,4 +283,4 @@ Published dataset:
 
 ## License
 
-No license file is currently included in this repository. Add one before external distribution if that matters for your use case.
+This project is open source under the MIT License. See [LICENSE](LICENSE).

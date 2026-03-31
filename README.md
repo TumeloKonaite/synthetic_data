@@ -1,11 +1,31 @@
 # Synthetic Patient DR Data
 
-Synthetic doctor-patient consultation dataset generation pipeline with structured clinical outputs and optional multi-speaker audio synthesis.
+[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-gpt--5.4--mini%20%7C%20gpt--4o--mini--tts-black)](https://platform.openai.com/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-synthetic__data-181717?logo=github)](https://github.com/TumeloKonaite/synthetic_data)
+[![GitHub Stars](https://img.shields.io/github/stars/TumeloKonaite/synthetic_data?style=social)](https://github.com/TumeloKonaite/synthetic_data/stargazers)
+[![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/TumeloKonaite/synthetic-patient-dr-data)
+[![Synthetic Data](https://img.shields.io/badge/data-synthetic-orange)](https://github.com/TumeloKonaite/synthetic_data)
+
+Synthetic doctor-patient consultation dataset generation pipeline for structured text generation and optional full-consultation audio synthesis.
+
+GitHub: `https://github.com/TumeloKonaite/synthetic_data`  
+Hugging Face dataset: `https://huggingface.co/datasets/TumeloKonaite/synthetic-patient-dr-data`
+
+This repository is for synthetic data generation only. It is not intended for real clinical care, diagnosis, or triage.
 
 This repository currently supports two main stages:
 
 1. Text dataset generation: create synthetic consultation records with scenario metadata, dialogue, clinical extraction, quality labels, transcript references, and TTS-ready turns.
 2. Audio dataset generation: convert processed records into turn-level WAV files, stitched full consultations, transcript references, and audio manifests using OpenAI TTS.
+
+## At A Glance
+
+- Generates synthetic South African English doctor-patient consultations
+- Produces structured JSONL records with scenario, dialogue, transcript, and clinical outputs
+- Supports OpenAI TTS-based full consultation audio generation
+- Builds Hugging Face-ready text and audio export bundles
+- Includes unit coverage for export and audio pipeline behavior
 
 ## What The Project Produces
 
@@ -23,15 +43,15 @@ When the audio pipeline runs successfully, it writes:
 - `tts_script.json`
 - `transcript_reference.json`
 - `audio_manifest.json`
-- Turn-level WAV files in `turns/`
 - A stitched consultation file such as `full.wav`
 - An `audio_generation_summary.json` file at the output root
 
-## Current Repository State
+## Primary Workflows
 
-- `data/processed/train.jsonl` currently contains 50 synthetic consultation records
-- `artifacts/audio/` already contains generated audio outputs for a subset of those records
-- The committed audio summary shows 37 successful audio generations and 1 failure caused by OpenAI quota exhaustion
+- Generate structured text records
+- Generate consultation audio from processed records
+- Resume interrupted audio generation
+- Export text or audio bundles for Hugging Face
 
 ## Project Layout
 
@@ -59,6 +79,29 @@ The code currently uses:
 
 - `gpt-5.4-mini` for scenario, conversation, critique, revision, and extraction
 - `gpt-4o-mini-tts` for audio synthesis by default
+
+## Output Schema
+
+The core record type is `ConsultationRecord`, which includes:
+
+- `conversation_id`
+- `generator` metadata
+- `locale` information
+- `scenario`
+- `conversation`
+- `tts_script`
+- `audio_manifest`
+- `transcript_reference`
+- `clinical_outputs`
+- `quality_labels`
+- `tags`
+
+This makes the dataset usable for:
+
+- Clinical dialogue research
+- Structured extraction benchmarking
+- Speech synthesis benchmarking
+- Multi-modal synthetic patient workflows
 
 ## Installation
 
@@ -143,29 +186,6 @@ Current defaults:
   - doctor: `alloy`
   - patient: `verse`
 
-## Data Model Summary
-
-The core record type is `ConsultationRecord`, which includes:
-
-- `conversation_id`
-- `generator` metadata
-- `locale` information
-- `scenario`
-- `conversation`
-- `tts_script`
-- `audio_manifest`
-- `transcript_reference`
-- `clinical_outputs`
-- `quality_labels`
-- `tags`
-
-This makes the dataset usable for:
-
-- Clinical dialogue research
-- Structured extraction benchmarking
-- Speech synthesis benchmarking
-- Multi-modal synthetic patient workflows
-
 ## Testing
 
 Run the test suite with:
@@ -246,6 +266,10 @@ Example generated audio artifacts:
 - `artifacts/audio/consult_000000/audio_manifest.json`
 - `artifacts/audio/consult_000000/transcript_reference.json`
 - `artifacts/audio/consult_000000/full.wav`
+
+Published dataset:
+
+- `https://huggingface.co/datasets/TumeloKonaite/synthetic-patient-dr-data`
 
 ## Known Gaps
 

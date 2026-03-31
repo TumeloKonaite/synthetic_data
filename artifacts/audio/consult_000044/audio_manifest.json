@@ -1,0 +1,14 @@
+﻿{
+    "consultation_id":  "consult_000044",
+    "canonical_record_path":  "data\\processed\\train.jsonl:45",
+    "tts_script_path":  "artifacts\\audio\\consult_000044\\tts_script.json",
+    "turn_audio_paths":  [
+
+                         ],
+    "full_audio_path":  "artifacts\\audio\\consult_000044\\full.wav",
+    "transcript_reference_path":  "artifacts\\audio\\consult_000044\\transcript_reference.json",
+    "model":  "gpt-4o-mini-tts",
+    "synthetic_version":  "v1",
+    "tts_config_version":  "v1",
+    "audio_pipeline_version":  "v1"
+}

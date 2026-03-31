@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000048",
+  "source_record": "data\\processed\\train.jsonl:49",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019ve had this dry cough for about two weeks now, and I\u2019m feeling a bit more tired than usual."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. I\u2019m glad you came in. Let me ask a few questions so we can work out what\u2019s going on. Have you had any fever, chest pain, or shortness of breath?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "No fever, and no chest pain. I can breathe okay. It\u2019s just this annoying cough and I feel a bit drained."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Alright. Is the cough completely dry, or are you bringing up any phlegm? Any wheezing or throat irritation?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly dry. Maybe once or twice a tiny bit of clear mucus, but not much. My throat does feel a bit tickly."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That helps. Have you had a runny nose, sneezing, itchy eyes, or post-nasal drip? I know you have seasonal allergies."
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Yes, actually. My eyes have been itchy off and on, and I\u2019ve been sneezing a little. The allergies have been bothering me more lately."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. Any heartburn, sour taste in the mouth, or cough worse at night? And have you noticed any weight loss, night sweats, or contact with anyone who has been very unwell?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No heartburn. It is maybe a bit worse at night, but not terrible. No weight loss or night sweats, and nobody at home has been sick."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Good. Have you tested for COVID recently, and have you had any recent travel or exposure at work?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I didn\u2019t test. I haven\u2019t travelled, and I work at a desk office, so not much exposure that I know of."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Understood. I\u2019d also like to check your medicines. You take amlodipine daily and cetirizine as needed, correct? Any new medicines, inhalers, or over-the-counter cough remedies?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Yes, that\u2019s right. No new medicines. I tried a normal cough syrup from the pharmacy once, but it didn\u2019t do much."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thank you. Do you smoke or vape at all? And has the cough affected your sleep or daily activities much?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I\u2019ve never smoked or vaped. It does wake me up sometimes, and I\u2019m a bit tired at work, but I\u2019m managing."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Alright. From what you\u2019ve told me, this sounds most likely like irritation from allergies or a post-nasal drip, rather than something serious. I\u2019d like to examine your chest, throat, and nose, and check your temperature and oxygen level, just to be safe."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay, that sounds fine. I was worried it might be something more serious."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "I understand. I don\u2019t hear any strong warning signs from your history, which is reassuring. After the exam, if everything looks straightforward, we can treat the allergies more consistently, and I may suggest a saline nasal rinse and a regular antihistamine for a short period. If needed, we can also consider a different cough treatment. Please come back sooner if you develop fever, shortness of breath, chest pain, coughing blood, or if the cough lasts more than another couple of weeks or gets worse. We\u2019ll also arrange follow-up to see if you\u2019re improving."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019ve had this dry cough for about two weeks now, and I\u2019m feeling a bit more tired than usual. doctor: Hello. I\u2019m glad you came in. Let me ask a few questions so we can work out what\u2019s going on. Have you had any fever, chest pain, or shortness of breath? patient: No fever, and no chest pain. I can breathe okay. It\u2019s just this annoying cough and I feel a bit drained. doctor: Alright. Is the cough completely dry, or are you bringing up any phlegm? Any wheezing or throat irritation? patient: Mostly dry. Maybe once or twice a tiny bit of clear mucus, but not much. My throat does feel a bit tickly. doctor: That helps. Have you had a runny nose, sneezing, itchy eyes, or post-nasal drip? I know you have seasonal allergies. patient: Yes, actually. My eyes have been itchy off and on, and I\u2019ve been sneezing a little. The allergies have been bothering me more lately. doctor: Okay. Any heartburn, sour taste in the mouth, or cough worse at night? And have you noticed any weight loss, night sweats, or contact with anyone who has been very unwell? patient: No heartburn. It is maybe a bit worse at night, but not terrible. No weight loss or night sweats, and nobody at home has been sick. doctor: Good. Have you tested for COVID recently, and have you had any recent travel or exposure at work? patient: I didn\u2019t test. I haven\u2019t travelled, and I work at a desk office, so not much exposure that I know of. doctor: Understood. I\u2019d also like to check your medicines. You take amlodipine daily and cetirizine as needed, correct? Any new medicines, inhalers, or over-the-counter cough remedies? patient: Yes, that\u2019s right. No new medicines. I tried a normal cough syrup from the pharmacy once, but it didn\u2019t do much. doctor: Thank you. Do you smoke or vape at all? And has the cough affected your sleep or daily activities much? patient: No, I\u2019ve never smoked or vaped. It does wake me up sometimes, and I\u2019m a bit tired at work, but I\u2019m managing. doctor: Alright. From what you\u2019ve told me, this sounds most likely like irritation from allergies or a post-nasal drip, rather than something serious. I\u2019d like to examine your chest, throat, and nose, and check your temperature and oxygen level, just to be safe. patient: Okay, that sounds fine. I was worried it might be something more serious. doctor: I understand. I don\u2019t hear any strong warning signs from your history, which is reassuring. After the exam, if everything looks straightforward, we can treat the allergies more consistently, and I may suggest a saline nasal rinse and a regular antihistamine for a short period. If needed, we can also consider a different cough treatment. Please come back sooner if you develop fever, shortness of breath, chest pain, coughing blood, or if the cough lasts more than another couple of weeks or gets worse. We\u2019ll also arrange follow-up to see if you\u2019re improving."
+}

@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000039",
+  "source_record": "data\\processed\\train.jsonl:40",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting headaches now and then for the last few months."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Thanks for coming in. We\u2019ll review your blood pressure and the headaches together. Can you tell me what the headaches feel like, and how often they happen?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "They\u2019re usually a dull ache, mostly at the back of my head or across my forehead. Maybe once or twice a week. Not every day."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do they come with nausea, blurred vision, weakness, dizziness, or anything like that? And do they wake you from sleep?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. They don\u2019t wake me up. I just notice them more after a long day at work."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That\u2019s helpful. Have you noticed if they happen when your blood pressure is high, or after stress, poor sleep, or skipping meals?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I think stress plays a part. I sit at a desk most of the day, and some weeks I don\u2019t drink enough water. Sleep is a bit up and down too."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. Are you taking your amlodipine every day as prescribed? Any side effects like swollen ankles, flushing, or palpitations?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it every morning. No real side effects that I\u2019ve noticed."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Good. I\u2019d like to check your blood pressure now. Also, have you had any chest pain, shortness of breath, or leg swelling?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. My ankles are fine. I do get a bit stiff from sitting, but that\u2019s about it."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thanks. Let me ask a few general questions. How is your weight been, and what does a typical day of eating and exercise look like for you?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I know I\u2019m a bit overweight. I try to walk a few times a week, but with work it\u2019s not always consistent. Food is probably where I slip up, especially takeaway on busy days."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That\u2019s very common. Any family history of high blood pressure, diabetes, stroke, or heart disease?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Yes, my mother has high blood pressure, and my father had type 2 diabetes."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "All right. Your blood pressure today is a little above target, but not dangerously high. Before I explain the plan, have you had recent blood tests or a home blood pressure monitor?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No home monitor. I had bloods done a while back, but not recently."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Understood. My impression is that your headaches sound more like tension-type headaches, and they do not sound like an emergency today. Your blood pressure is not quite controlled yet. I\u2019d like to check some routine blood tests, including kidney function and diabetes screening, and we should consider increasing your amlodipine if your readings stay high. I also recommend a home blood pressure monitor, regular walking, less takeaway and salt, good hydration, and better sleep where possible. If the headaches become severe, sudden, come with vision changes, weakness, chest pain, or shortness of breath, seek urgent help. Otherwise, let\u2019s review your readings and results soon."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting headaches now and then for the last few months. doctor: Good morning. Thanks for coming in. We\u2019ll review your blood pressure and the headaches together. Can you tell me what the headaches feel like, and how often they happen? patient: They\u2019re usually a dull ache, mostly at the back of my head or across my forehead. Maybe once or twice a week. Not every day. doctor: Do they come with nausea, blurred vision, weakness, dizziness, or anything like that? And do they wake you from sleep? patient: No, none of that. They don\u2019t wake me up. I just notice them more after a long day at work. doctor: That\u2019s helpful. Have you noticed if they happen when your blood pressure is high, or after stress, poor sleep, or skipping meals? patient: I think stress plays a part. I sit at a desk most of the day, and some weeks I don\u2019t drink enough water. Sleep is a bit up and down too. doctor: Okay. Are you taking your amlodipine every day as prescribed? Any side effects like swollen ankles, flushing, or palpitations? patient: Yes, I take it every morning. No real side effects that I\u2019ve noticed. doctor: Good. I\u2019d like to check your blood pressure now. Also, have you had any chest pain, shortness of breath, or leg swelling? patient: No chest pain or shortness of breath. My ankles are fine. I do get a bit stiff from sitting, but that\u2019s about it. doctor: Thanks. Let me ask a few general questions. How is your weight been, and what does a typical day of eating and exercise look like for you? patient: I know I\u2019m a bit overweight. I try to walk a few times a week, but with work it\u2019s not always consistent. Food is probably where I slip up, especially takeaway on busy days. doctor: That\u2019s very common. Any family history of high blood pressure, diabetes, stroke, or heart disease? patient: Yes, my mother has high blood pressure, and my father had type 2 diabetes. doctor: All right. Your blood pressure today is a little above target, but not dangerously high. Before I explain the plan, have you had recent blood tests or a home blood pressure monitor? patient: No home monitor. I had bloods done a while back, but not recently. doctor: Understood. My impression is that your headaches sound more like tension-type headaches, and they do not sound like an emergency today. Your blood pressure is not quite controlled yet. I\u2019d like to check some routine blood tests, including kidney function and diabetes screening, and we should consider increasing your amlodipine if your readings stay high. I also recommend a home blood pressure monitor, regular walking, less takeaway and salt, good hydration, and better sleep where possible. If the headaches become severe, sudden, come with vision changes, weakness, chest pain, or shortness of breath, seek urgent help. Otherwise, let\u2019s review your readings and results soon."
+}

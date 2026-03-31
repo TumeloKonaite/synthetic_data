@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000037",
+  "source_record": "data\\processed\\train.jsonl:38",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure check, but I\u2019ve also been feeling tired for about three weeks."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, come in. I\u2019m glad you came. Let\u2019s talk through both issues. Have you noticed anything else with the tiredness, like headaches, dizziness, chest pain, shortness of breath, or swelling in the legs?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. I do get a bit of a dull headache sometimes, and I feel low on energy by the afternoon."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Any fever, cough, weight loss, mood changes, poor sleep, or snoring at night?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No fever or cough. My sleep is not great, but I think that\u2019s mostly work stress. I do snore a bit, my husband says."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Thanks. How have your blood pressure readings been at home, if you\u2019ve checked them? And have you missed any doses of the amlodipine?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I have missed one or two tablets in the last month. I don\u2019t check it often, but last time at the pharmacy it was a bit high, I think."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That helps. Tell me a bit about your day. How is your eating, exercise, tea or coffee, and alcohol?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Honestly, not great. I sit most of the day at work. We do a lot of takeaways during the week. I have tea and coffee, and maybe a drink on weekends, but not much."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Understood. Any chance you could be pregnant, or have you had heavier periods, black stools, or any other bleeding?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, I\u2019m not pregnant. My periods are a bit irregular, but nothing very heavy. No black stools or bleeding."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. I\u2019d like to check your blood pressure here today, and we may also do some blood tests for things like anaemia, thyroid, sugar, kidney function, and cholesterol, because those can add to tiredness and help us look after the blood pressure properly."
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "That sounds fine. I was worried something serious was going on."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "I understand. At the moment, this does not sound like an emergency, which is reassuring. The tiredness could be from poor sleep, stress, the blood pressure not being fully controlled, or something like low iron or blood sugar. We\u2019ll check properly."
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Okay. Do I need to change my tablets now?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Let\u2019s first see your blood pressure today before changing anything. If it is still above target, we may need to adjust the dose or add another medicine. I\u2019d also like you to keep taking the amlodipine daily, and try to take it at the same time each day."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Alright. I can do that."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Great. For now, please aim for less takeaway food, a bit less salt, more water, and some walking most days if you can manage it. I\u2019ll review your results and blood pressure readings, and we\u2019ll decide the next step together. If you develop chest pain, shortness of breath, severe headache, fainting, or swelling that gets worse, please seek urgent care. Otherwise, let\u2019s follow up soon after the tests."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure check, but I\u2019ve also been feeling tired for about three weeks. doctor: Hello, come in. I\u2019m glad you came. Let\u2019s talk through both issues. Have you noticed anything else with the tiredness, like headaches, dizziness, chest pain, shortness of breath, or swelling in the legs? patient: No chest pain or shortness of breath. I do get a bit of a dull headache sometimes, and I feel low on energy by the afternoon. doctor: Okay. Any fever, cough, weight loss, mood changes, poor sleep, or snoring at night? patient: No fever or cough. My sleep is not great, but I think that\u2019s mostly work stress. I do snore a bit, my husband says. doctor: Thanks. How have your blood pressure readings been at home, if you\u2019ve checked them? And have you missed any doses of the amlodipine? patient: I have missed one or two tablets in the last month. I don\u2019t check it often, but last time at the pharmacy it was a bit high, I think. doctor: That helps. Tell me a bit about your day. How is your eating, exercise, tea or coffee, and alcohol? patient: Honestly, not great. I sit most of the day at work. We do a lot of takeaways during the week. I have tea and coffee, and maybe a drink on weekends, but not much. doctor: Understood. Any chance you could be pregnant, or have you had heavier periods, black stools, or any other bleeding? patient: No, I\u2019m not pregnant. My periods are a bit irregular, but nothing very heavy. No black stools or bleeding. doctor: Good. I\u2019d like to check your blood pressure here today, and we may also do some blood tests for things like anaemia, thyroid, sugar, kidney function, and cholesterol, because those can add to tiredness and help us look after the blood pressure properly. patient: That sounds fine. I was worried something serious was going on. doctor: I understand. At the moment, this does not sound like an emergency, which is reassuring. The tiredness could be from poor sleep, stress, the blood pressure not being fully controlled, or something like low iron or blood sugar. We\u2019ll check properly. patient: Okay. Do I need to change my tablets now? doctor: Let\u2019s first see your blood pressure today before changing anything. If it is still above target, we may need to adjust the dose or add another medicine. I\u2019d also like you to keep taking the amlodipine daily, and try to take it at the same time each day. patient: Alright. I can do that. doctor: Great. For now, please aim for less takeaway food, a bit less salt, more water, and some walking most days if you can manage it. I\u2019ll review your results and blood pressure readings, and we\u2019ll decide the next step together. If you develop chest pain, shortness of breath, severe headache, fainting, or swelling that gets worse, please seek urgent care. Otherwise, let\u2019s follow up soon after the tests."
+}

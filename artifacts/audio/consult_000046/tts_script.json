@@ -1,0 +1,191 @@
+{
+  "consultation_id": "consult_000046",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure check, but I’ve also been getting these headaches on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Let’s go through both. How have you been feeling overall, and how often are the headaches happening?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Overall I’m okay. The headaches come maybe two or three times a week. It’s been about three months now.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Where is the pain, and what does it feel like? Is it throbbing, tight, or pressure-like?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly at the front or around my temples. It feels like a dull pressure, not a bad sharp pain.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do you get nausea, vomiting, blurred vision, weakness, numbness, or any trouble speaking with it?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Sometimes I’m a bit sensitive to light, but that’s about it.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Any fever, neck stiffness, head injury, or a headache that wakes you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No fever or injury. It doesn’t wake me up at night.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "How has your blood pressure been at home or at previous visits? And are you taking the amlodipine every day?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I do take it every day. I’ve missed maybe one dose here and there. At home it’s usually around 135 over 85, sometimes a bit higher when I’m stressed.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Any side effects from the amlodipine, like swollen ankles, flushing, or dizziness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No swollen ankles. Maybe a little flushing now and then, but nothing major.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Tell me about your day-to-day routine. How is your sleep, stress, caffeine, and screen time at work?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I work at a desk most of the day, so I sit a lot. Sleep is not too bad, but when work is busy I get stressed. I do have a few cups of coffee a day.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "That helps. Do the headaches seem linked to long screen days, missed meals, dehydration, or caffeine changes?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Yes, actually. If I skip lunch or drink less water, I notice it more. Long computer days too.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Any history of migraines, eye strain, or recent changes in your glasses prescription?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 19,
+      "speaker": "patient",
+      "text": "I do wear glasses, and I think my eyes have been strained lately. No real migraine history that I know of.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mild Cape Town/South African English accent, slightly hesitant when describing symptoms but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 20,
+      "speaker": "doctor",
+      "text": "Thank you. From what you’ve described, this sounds more like tension-type or strain-related headaches, possibly made worse by screen time, stress, hydration, or meals. Your blood pressure does not sound wildly out of control, but I’d like to check it properly here today and review your readings. If the pressure is still above target, we may adjust your treatment. For now, keep taking the amlodipine daily, drink enough water, avoid skipping meals, and try regular screen breaks. We can also use paracetamol as needed, within the recommended dose. Please book a follow-up in a few weeks, and come back sooner if the headaches suddenly become severe, you get weakness, vision changes, vomiting, fainting, or a very high blood pressure reading.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Male South African English doctor, calm and professional, moderate pace, clear articulation, friendly tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

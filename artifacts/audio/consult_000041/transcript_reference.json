@@ -1,0 +1,87 @@
+{
+  "consultation_id": "consult_000041",
+  "source_record": "data\\processed\\train.jsonl:42",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I'm here for my blood pressure follow-up. I've also been getting some headaches lately."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. I\u2019m glad you came in. Let\u2019s talk through it carefully. How have you been feeling overall, and when did the headaches start?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Overall I\u2019m okay. The headaches started about two weeks ago. They come and go, not every day."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Where do you feel the headache, and what does it feel like? Any nausea, blurred vision, weakness, or trouble speaking?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It's mostly around my forehead, like a pressure. No vomiting. No weakness or speech problems. My vision is fine."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That is helpful. Does anything seem to bring it on, like stress, poor sleep, long screen time, or skipping meals? And what helps it settle?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Work has been busy, so I do get stressed. I sit at a computer a lot. Sometimes paracetamol helps, and rest helps too."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Understood. Have you checked your blood pressure at home or elsewhere recently? And how have you been taking the amlodipine?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I take the amlodipine every day, yes. I\u2019ve missed maybe one dose in the last month. I checked it at a pharmacy last week and it was a bit high, around 148 over 92."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Any chest pain, shortness of breath, palpitations, swelling in the legs, or dizziness?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. I do not feel dizzy. Maybe I\u2019ve been a bit tired, but that\u2019s all."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Alright. Let me ask a bit about your routine. How is your sleep, caffeine intake, and alcohol on weekends?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Sleep is not great some nights. I have two cups of coffee in the morning. On weekends I might have a few drinks, but not every weekend."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. And just to complete the picture, do you smoke, and do you have any chance of being pregnant?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I don\u2019t smoke. And no, I\u2019m not pregnant."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Good. Your headaches sound more like tension-type headaches than something dangerous, and your blood pressure still seems a little above target. I\u2019d like to check your blood pressure here today, review your readings, and consider whether we should adjust your treatment. We should also look at weight, salt intake, exercise, and sleep. If the pressure is still raised, we may increase the amlodipine or add another medicine, depending on the reading and your exam. Please come back sooner if you get a sudden severe headache, chest pain, weakness, blurred vision, or if the blood pressure is very high. Otherwise, we\u2019ll plan follow-up after today\u2019s measurements."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I'm here for my blood pressure follow-up. I've also been getting some headaches lately. doctor: Good morning. I\u2019m glad you came in. Let\u2019s talk through it carefully. How have you been feeling overall, and when did the headaches start? patient: Overall I\u2019m okay. The headaches started about two weeks ago. They come and go, not every day. doctor: Where do you feel the headache, and what does it feel like? Any nausea, blurred vision, weakness, or trouble speaking? patient: It's mostly around my forehead, like a pressure. No vomiting. No weakness or speech problems. My vision is fine. doctor: That is helpful. Does anything seem to bring it on, like stress, poor sleep, long screen time, or skipping meals? And what helps it settle? patient: Work has been busy, so I do get stressed. I sit at a computer a lot. Sometimes paracetamol helps, and rest helps too. doctor: Understood. Have you checked your blood pressure at home or elsewhere recently? And how have you been taking the amlodipine? patient: I take the amlodipine every day, yes. I\u2019ve missed maybe one dose in the last month. I checked it at a pharmacy last week and it was a bit high, around 148 over 92. doctor: Thank you. Any chest pain, shortness of breath, palpitations, swelling in the legs, or dizziness? patient: No chest pain or shortness of breath. I do not feel dizzy. Maybe I\u2019ve been a bit tired, but that\u2019s all. doctor: Alright. Let me ask a bit about your routine. How is your sleep, caffeine intake, and alcohol on weekends? patient: Sleep is not great some nights. I have two cups of coffee in the morning. On weekends I might have a few drinks, but not every weekend. doctor: Thanks. And just to complete the picture, do you smoke, and do you have any chance of being pregnant? patient: No, I don\u2019t smoke. And no, I\u2019m not pregnant. doctor: Good. Your headaches sound more like tension-type headaches than something dangerous, and your blood pressure still seems a little above target. I\u2019d like to check your blood pressure here today, review your readings, and consider whether we should adjust your treatment. We should also look at weight, salt intake, exercise, and sleep. If the pressure is still raised, we may increase the amlodipine or add another medicine, depending on the reading and your exam. Please come back sooner if you get a sudden severe headache, chest pain, weakness, blurred vision, or if the blood pressure is very high. Otherwise, we\u2019ll plan follow-up after today\u2019s measurements."
+}

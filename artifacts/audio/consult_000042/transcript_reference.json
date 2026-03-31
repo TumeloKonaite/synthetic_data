@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000042",
+  "source_record": "data\\processed\\train.jsonl:43",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019ve had a dry cough and a bit of a sore throat for about 10 days. I thought I should get it checked before it gets worse."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Of course. Let\u2019s go through it properly. Have you had any fever, shortness of breath, chest pain, or wheezing?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "No fever. I\u2019ve felt a little blocked up, but no chest pain. I do get a mild wheeze now and then because of my asthma, but nothing major."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Is the cough bringing up any phlegm, or is it completely dry? And is it worse at night or when you\u2019re active?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It\u2019s mostly dry. Maybe a tiny bit of clear mucus now and then. It does seem worse at night, and sometimes when I\u2019m talking a lot at work."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That helps. Any sore throat when swallowing, blocked nose, sneezing, or itchy eyes? I\u2019m also asking because of your allergies."
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Yes, actually. I\u2019ve had sneezing and itchy eyes off and on, and my nose has been a bit stuffy. The throat feels scratchy more than really painful."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Have you noticed any wheezing needing your salbutamol more often, or any tightness in the chest? Also, have you tested for COVID recently or been around anyone unwell at school?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I used my inhaler once or twice this week, but not a lot. No chest tightness. A few children at school have had colds, and I haven\u2019t done a COVID test."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Understood. Have you had any difficulty breathing at rest, coughing up blood, high fever, or feeling very unwell?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, none of that. I\u2019m just a bit tired from the coughing, but otherwise okay."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Do you smoke, or have you started any new medicines, sprays, or home remedies? And are you taking cetirizine regularly at the moment?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I don\u2019t smoke. No new medicines. I\u2019ve taken cetirizine a few times, but not every day. I\u2019ve been drinking warm tea and using lozenges."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. From what you\u2019ve told me, this sounds most likely like a viral upper respiratory infection or allergies irritating your throat and airways, with a mild asthma component. I\u2019d like to examine your throat, chest, and check your oxygen level now."
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Okay, that sounds fine. I was wondering if it could be something more serious."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "At the moment, it doesn\u2019t sound like anything dangerous, but I do want to be careful because of your asthma. After the exam, we can decide if you need anything stronger than simple symptom relief."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "That would be good. I just want to make sure I\u2019m not missing anything."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "That makes sense. Based on your history, I\u2019d suggest regular cetirizine for a few days, fluids, honey or lozenges for the throat, and using your salbutamol only if you feel wheezy. If your chest exam is clear, we likely won\u2019t need antibiotics. Please come back sooner if you develop fever, shortness of breath, chest pain, worsening wheeze, or if the cough lasts more than another couple of weeks. Otherwise, we can review how you\u2019re doing after the exam and again if it is not settling."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019ve had a dry cough and a bit of a sore throat for about 10 days. I thought I should get it checked before it gets worse. doctor: Of course. Let\u2019s go through it properly. Have you had any fever, shortness of breath, chest pain, or wheezing? patient: No fever. I\u2019ve felt a little blocked up, but no chest pain. I do get a mild wheeze now and then because of my asthma, but nothing major. doctor: Okay. Is the cough bringing up any phlegm, or is it completely dry? And is it worse at night or when you\u2019re active? patient: It\u2019s mostly dry. Maybe a tiny bit of clear mucus now and then. It does seem worse at night, and sometimes when I\u2019m talking a lot at work. doctor: That helps. Any sore throat when swallowing, blocked nose, sneezing, or itchy eyes? I\u2019m also asking because of your allergies. patient: Yes, actually. I\u2019ve had sneezing and itchy eyes off and on, and my nose has been a bit stuffy. The throat feels scratchy more than really painful. doctor: Have you noticed any wheezing needing your salbutamol more often, or any tightness in the chest? Also, have you tested for COVID recently or been around anyone unwell at school? patient: I used my inhaler once or twice this week, but not a lot. No chest tightness. A few children at school have had colds, and I haven\u2019t done a COVID test. doctor: Understood. Have you had any difficulty breathing at rest, coughing up blood, high fever, or feeling very unwell? patient: No, none of that. I\u2019m just a bit tired from the coughing, but otherwise okay. doctor: Good. Do you smoke, or have you started any new medicines, sprays, or home remedies? And are you taking cetirizine regularly at the moment? patient: I don\u2019t smoke. No new medicines. I\u2019ve taken cetirizine a few times, but not every day. I\u2019ve been drinking warm tea and using lozenges. doctor: Thanks. From what you\u2019ve told me, this sounds most likely like a viral upper respiratory infection or allergies irritating your throat and airways, with a mild asthma component. I\u2019d like to examine your throat, chest, and check your oxygen level now. patient: Okay, that sounds fine. I was wondering if it could be something more serious. doctor: At the moment, it doesn\u2019t sound like anything dangerous, but I do want to be careful because of your asthma. After the exam, we can decide if you need anything stronger than simple symptom relief. patient: That would be good. I just want to make sure I\u2019m not missing anything. doctor: That makes sense. Based on your history, I\u2019d suggest regular cetirizine for a few days, fluids, honey or lozenges for the throat, and using your salbutamol only if you feel wheezy. If your chest exam is clear, we likely won\u2019t need antibiotics. Please come back sooner if you develop fever, shortness of breath, chest pain, worsening wheeze, or if the cough lasts more than another couple of weeks. Otherwise, we can review how you\u2019re doing after the exam and again if it is not settling."
+}

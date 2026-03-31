@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000040",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I came for my blood pressure check, but I’ve also had these on-and-off headaches for about three weeks.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, mild anxiety, conversational pace, plain speech with occasional hesitation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello, thanks for coming in. Let’s go through both. How have the headaches been, and have you checked your blood pressure at home at all?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm pace, clear enunciation, friendly and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "I have checked it a few times. It’s been a bit up and down, but not very high. The headaches are not constant. They come and go.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, mild anxiety, conversational pace, plain speech with occasional hesitation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Can you describe the headache for me? Where is it, what does it feel like, and how severe is it?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm pace, clear enunciation, friendly and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly at the front or around my temples. It feels like a dull pressure. Maybe a 4 out of 10. Sometimes it’s worse after a long day at my desk.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, mild anxiety, conversational pace, plain speech with occasional hesitation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That helps. Any nausea, vomiting, blurred vision, weakness, numbness, fever, or a very sudden worst-ever headache?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm pace, clear enunciation, friendly and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache and sometimes I feel a bit tense in my neck and shoulders.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, mild anxiety, conversational pace, plain speech with occasional hesitation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Understood. Do the headaches wake you from sleep, or do you get them with exercise, coughing, or bending over?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm pace, clear enunciation, friendly and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, they don’t wake me up. They’re usually later in the day. I do get them more when I’m stressed or staring at the screen for too long.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, mild anxiety, conversational pace, plain speech with occasional hesitation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "And how have you been taking the amlodipine? Any missed doses or side effects like ankle swelling, dizziness, or flushing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm pace, clear enunciation, friendly and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I take it every morning. I haven’t missed many. Maybe one or two. No swelling or anything like that.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, mild anxiety, conversational pace, plain speech with occasional hesitation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Let me ask a few general questions. How is your sleep, caffeine intake, stress levels, and alcohol use on weekends?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm pace, clear enunciation, friendly and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Sleep is a bit average. I drink two cups of coffee a day. Work has been busy, so stress is probably up. I do have a few drinks on weekends, not too much.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, mild anxiety, conversational pace, plain speech with occasional hesitation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. Do you smoke, or have any chest pain, shortness of breath, palpitations, or leg swelling?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm pace, clear enunciation, friendly and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I don’t smoke. And no chest pain or shortness of breath.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, mild anxiety, conversational pace, plain speech with occasional hesitation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "All right. Your headaches sound more like tension-type headaches, possibly made worse by stress, screen time, and neck muscle tightness. Your blood pressure may also be playing a role if it’s been a bit variable. I’d like to check your blood pressure here today and review the numbers, then we can decide if the current treatment is enough or needs adjusting.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm pace, clear enunciation, friendly and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay. I was worried it might mean something serious.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, mild anxiety, conversational pace, plain speech with occasional hesitation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "At the moment, nothing you’ve told me sounds like an emergency. If the reading is only mildly elevated, we can focus on better control, regular monitoring, hydration, sleep, reducing salt, and taking breaks from the screen. I’ll also suggest simple headache measures, like posture changes and paracetamol if you can take it safely. If the blood pressure is higher than expected, we may need to adjust your medicine. Please seek urgent help if you get a sudden severe headache, vision changes, weakness, chest pain, or shortness of breath. Otherwise, we’ll review your readings and symptoms again soon.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm pace, clear enunciation, friendly and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

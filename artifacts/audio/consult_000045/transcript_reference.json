@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000045",
+  "source_record": "data\\processed\\train.jsonl:46",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting these odd headaches."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. Let\u2019s talk through both. How have your blood pressure readings been at home, if you\u2019ve been checking them?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "I have been checking, yes. They\u2019re usually around 135 over 85, sometimes a bit higher when I\u2019m stressed."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay, that is helpful. And the headaches, when did they start, and where do you feel them?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "About two weeks ago. It\u2019s not every day. Mostly a dull ache across my forehead, sometimes at the back of my head."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do they come with anything else, like blurred vision, nausea, vomiting, weakness, numbness, or trouble speaking?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Maybe a bit more tired, but I think that\u2019s from work."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "All right. How bad is the pain on a scale of zero to ten, and what seems to bring it on or make it better?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Maybe a four out of ten. It\u2019s worse after a long day at the computer. Rest helps, and sometimes paracetamol does."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That sounds more like a tension-type headache, but I want to check a few things. Have you had any chest pain, shortness of breath, swelling in the legs, or very high readings lately?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. No swelling. The highest I\u2019ve seen was about 145 over 90, but not often."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Are you taking the amlodipine every day, and have you missed any doses?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Mostly yes. I\u2019ve missed one or two doses in the last month, but not many."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. Any side effects from it, like ankle swelling, flushing, dizziness, or palpitations?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I don\u2019t think so. I\u2019ve been fine on it."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Let\u2019s also look at lifestyle a bit. How is your salt intake, exercise, sleep, and alcohol on weekends?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "I probably eat too much salty food, to be honest. I walk a few times a week, but my job is mostly sitting. Sleep is okay. I do have a few drinks on weekends, but not a lot."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Understood. Based on what you\u2019ve told me, your blood pressure is close to goal, but not quite ideal. The headaches sound more likely related to tension, screen strain, or stress than to something dangerous. I\u2019d like to check your blood pressure here today, review your home readings, and then discuss whether we should continue the same dose or adjust it. We should also work on salt, regular walking, and taking the tablets consistently. If the headaches become sudden and severe, or you get vision changes, weakness, chest pain, or breathlessness, you should seek urgent care. Otherwise, we can plan follow-up after today\u2019s measurements and a review of your readings."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up, and I\u2019ve also been getting these odd headaches. doctor: Hello. Thanks for coming in. Let\u2019s talk through both. How have your blood pressure readings been at home, if you\u2019ve been checking them? patient: I have been checking, yes. They\u2019re usually around 135 over 85, sometimes a bit higher when I\u2019m stressed. doctor: Okay, that is helpful. And the headaches, when did they start, and where do you feel them? patient: About two weeks ago. It\u2019s not every day. Mostly a dull ache across my forehead, sometimes at the back of my head. doctor: Do they come with anything else, like blurred vision, nausea, vomiting, weakness, numbness, or trouble speaking? patient: No, none of that. Just the headache. Maybe a bit more tired, but I think that\u2019s from work. doctor: All right. How bad is the pain on a scale of zero to ten, and what seems to bring it on or make it better? patient: Maybe a four out of ten. It\u2019s worse after a long day at the computer. Rest helps, and sometimes paracetamol does. doctor: That sounds more like a tension-type headache, but I want to check a few things. Have you had any chest pain, shortness of breath, swelling in the legs, or very high readings lately? patient: No chest pain or shortness of breath. No swelling. The highest I\u2019ve seen was about 145 over 90, but not often. doctor: Good. Are you taking the amlodipine every day, and have you missed any doses? patient: Mostly yes. I\u2019ve missed one or two doses in the last month, but not many. doctor: Thanks. Any side effects from it, like ankle swelling, flushing, dizziness, or palpitations? patient: No, I don\u2019t think so. I\u2019ve been fine on it. doctor: Let\u2019s also look at lifestyle a bit. How is your salt intake, exercise, sleep, and alcohol on weekends? patient: I probably eat too much salty food, to be honest. I walk a few times a week, but my job is mostly sitting. Sleep is okay. I do have a few drinks on weekends, but not a lot. doctor: Understood. Based on what you\u2019ve told me, your blood pressure is close to goal, but not quite ideal. The headaches sound more likely related to tension, screen strain, or stress than to something dangerous. I\u2019d like to check your blood pressure here today, review your home readings, and then discuss whether we should continue the same dose or adjust it. We should also work on salt, regular walking, and taking the tablets consistently. If the headaches become sudden and severe, or you get vision changes, weakness, chest pain, or breathlessness, you should seek urgent care. Otherwise, we can plan follow-up after today\u2019s measurements and a review of your readings."
+}

@@ -1,0 +1,155 @@
+{
+  "consultation_id": "consult_000041",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I'm here for my blood pressure follow-up. I've also been getting some headaches lately.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, natural conversational pace, slightly hesitant at first but cooperative.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. I’m glad you came in. Let’s talk through it carefully. How have you been feeling overall, and when did the headaches start?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, clear, measured pace, professional and conversational.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Overall I’m okay. The headaches started about two weeks ago. They come and go, not every day.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, natural conversational pace, slightly hesitant at first but cooperative.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Where do you feel the headache, and what does it feel like? Any nausea, blurred vision, weakness, or trouble speaking?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, clear, measured pace, professional and conversational.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It's mostly around my forehead, like a pressure. No vomiting. No weakness or speech problems. My vision is fine.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, natural conversational pace, slightly hesitant at first but cooperative.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That is helpful. Does anything seem to bring it on, like stress, poor sleep, long screen time, or skipping meals? And what helps it settle?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, clear, measured pace, professional and conversational.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Work has been busy, so I do get stressed. I sit at a computer a lot. Sometimes paracetamol helps, and rest helps too.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, natural conversational pace, slightly hesitant at first but cooperative.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Understood. Have you checked your blood pressure at home or elsewhere recently? And how have you been taking the amlodipine?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, clear, measured pace, professional and conversational.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I take the amlodipine every day, yes. I’ve missed maybe one dose in the last month. I checked it at a pharmacy last week and it was a bit high, around 148 over 92.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, natural conversational pace, slightly hesitant at first but cooperative.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Any chest pain, shortness of breath, palpitations, swelling in the legs, or dizziness?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, clear, measured pace, professional and conversational.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. I do not feel dizzy. Maybe I’ve been a bit tired, but that’s all.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, natural conversational pace, slightly hesitant at first but cooperative.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Alright. Let me ask a bit about your routine. How is your sleep, caffeine intake, and alcohol on weekends?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, clear, measured pace, professional and conversational.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Sleep is not great some nights. I have two cups of coffee in the morning. On weekends I might have a few drinks, but not every weekend.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, natural conversational pace, slightly hesitant at first but cooperative.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. And just to complete the picture, do you smoke, and do you have any chance of being pregnant?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, clear, measured pace, professional and conversational.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I don’t smoke. And no, I’m not pregnant.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English accent, female adult voice, natural conversational pace, slightly hesitant at first but cooperative.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Good. Your headaches sound more like tension-type headaches than something dangerous, and your blood pressure still seems a little above target. I’d like to check your blood pressure here today, review your readings, and consider whether we should adjust your treatment. We should also look at weight, salt intake, exercise, and sleep. If the pressure is still raised, we may increase the amlodipine or add another medicine, depending on the reading and your exam. Please come back sooner if you get a sudden severe headache, chest pain, weakness, blurred vision, or if the blood pressure is very high. Otherwise, we’ll plan follow-up after today’s measurements.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, clear, measured pace, professional and conversational.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

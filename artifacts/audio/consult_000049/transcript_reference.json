@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000049",
+  "source_record": "data\\processed\\train.jsonl:50",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also been getting headaches now and then."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. Let\u2019s talk through both. How often are the headaches happening, and where do you feel them?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Maybe once or twice a week. It\u2019s usually across my forehead or at the back of my head. Not very severe, but annoying."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do they come with blurred vision, nausea, weakness, chest pain, or shortness of breath?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Sometimes I feel a bit tense at work, so I thought it may be stress."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That\u2019s helpful. Have you checked your blood pressure at home, or had readings done elsewhere recently?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I checked it at the pharmacy twice. It was around 145 over 90 on one day, and 138 over 88 on another."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. And are you taking your amlodipine every day? Any missed doses or side effects like ankle swelling, flushing, or dizziness?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I do take it daily. I\u2019ve missed one or two doses over the months, but not often. No swelling or anything like that."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Good. Any changes in your eyesight, headaches waking you from sleep, fever, neck stiffness, or head injury?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, nothing like that. The headaches don\u2019t wake me up. I just notice them after a long day."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "All right. How are things with sleep, caffeine, alcohol on weekends, and stress at work?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Sleep is okay, but some weeks are busy. I do drink socially on weekends, maybe a few glasses. I have coffee most mornings."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "And exercise-wise, are you managing the walking you mentioned?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "A little, yes. I\u2019m mostly sitting at work, but I try to walk a few times a week. Not as much as I should, honestly."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "That\u2019s still a good start. Any family history of high blood pressure, diabetes, stroke, or heart disease?"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Yes, my mother has hypertension. My father had type 2 diabetes."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thanks. From what you\u2019ve told me, this sounds most likely like mildly elevated blood pressure with tension-type headaches, rather than anything dangerous. I\u2019d like to check your blood pressure here today, review your readings, and decide if we should adjust your treatment. We should also keep an eye on lifestyle factors like salt intake, regular walking, caffeine, and stress. If your pressure is still running high, we may consider increasing the amlodipine or adding another medicine. Please seek urgent care if you develop severe sudden headache, chest pain, shortness of breath, weakness, confusion, or visual changes. Otherwise, let\u2019s do the reading now and arrange follow-up soon."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up. I\u2019ve also been getting headaches now and then. doctor: Hello. Thanks for coming in. Let\u2019s talk through both. How often are the headaches happening, and where do you feel them? patient: Maybe once or twice a week. It\u2019s usually across my forehead or at the back of my head. Not very severe, but annoying. doctor: Do they come with blurred vision, nausea, weakness, chest pain, or shortness of breath? patient: No, none of that. Just the headache. Sometimes I feel a bit tense at work, so I thought it may be stress. doctor: That\u2019s helpful. Have you checked your blood pressure at home, or had readings done elsewhere recently? patient: I checked it at the pharmacy twice. It was around 145 over 90 on one day, and 138 over 88 on another. doctor: Okay. And are you taking your amlodipine every day? Any missed doses or side effects like ankle swelling, flushing, or dizziness? patient: I do take it daily. I\u2019ve missed one or two doses over the months, but not often. No swelling or anything like that. doctor: Good. Any changes in your eyesight, headaches waking you from sleep, fever, neck stiffness, or head injury? patient: No, nothing like that. The headaches don\u2019t wake me up. I just notice them after a long day. doctor: All right. How are things with sleep, caffeine, alcohol on weekends, and stress at work? patient: Sleep is okay, but some weeks are busy. I do drink socially on weekends, maybe a few glasses. I have coffee most mornings. doctor: And exercise-wise, are you managing the walking you mentioned? patient: A little, yes. I\u2019m mostly sitting at work, but I try to walk a few times a week. Not as much as I should, honestly. doctor: That\u2019s still a good start. Any family history of high blood pressure, diabetes, stroke, or heart disease? patient: Yes, my mother has hypertension. My father had type 2 diabetes. doctor: Thanks. From what you\u2019ve told me, this sounds most likely like mildly elevated blood pressure with tension-type headaches, rather than anything dangerous. I\u2019d like to check your blood pressure here today, review your readings, and decide if we should adjust your treatment. We should also keep an eye on lifestyle factors like salt intake, regular walking, caffeine, and stress. If your pressure is still running high, we may consider increasing the amlodipine or adding another medicine. Please seek urgent care if you develop severe sudden headache, chest pain, shortness of breath, weakness, confusion, or visual changes. Otherwise, let\u2019s do the reading now and arrange follow-up soon."
+}

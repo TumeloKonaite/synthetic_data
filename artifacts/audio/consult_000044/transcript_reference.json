@@ -1,0 +1,97 @@
+{
+  "consultation_id": "consult_000044",
+  "source_record": "data\\processed\\train.jsonl:45",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I\u2019m here for my blood pressure check, but I\u2019ve also been feeling more tired than usual for the last few weeks."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Thanks for coming in. We can review both today. Tell me more about the tiredness. Is it all day, or worse at certain times?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Mostly all day. I get through work, but by afternoon I feel drained. It\u2019s been about three weeks now."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I see. Any other symptoms with it, like fever, cough, shortness of breath, dizziness, chest pain, or weight change?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No fever or chest pain. Maybe a bit short of breath if I rush up stairs, but nothing major. No big weight change that I\u2019ve noticed."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Okay. How have you been sleeping? And any snoring, poor sleep, or waking up unrefreshed?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Sleep is not great. I do wake up a few times, and I often feel tired in the morning. My husband says I snore sometimes."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That\u2019s helpful. Have you had any headaches, palpitations, swelling in the legs, or changes in mood, like feeling down or stressed?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No swelling or palpitations. I\u2019ve been a bit stressed at work, but I wouldn\u2019t say I\u2019m depressed."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Let\u2019s also review your blood pressure medicines. Are you taking the amlodipine and hydrochlorothiazide every day? Any missed doses or side effects, like frequent urination or cramps?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, I take them daily. I might miss one now and then, but not often. No real side effects, just maybe I go to the toilet a bit more after the water tablet."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Fine. Any chance you could be pregnant? And have you had any recent illness, heavy periods, or blood loss?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "No, I\u2019m not pregnant. My periods are still there, maybe a bit irregular, but not heavy. No bleeding or recent illness."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Alright. I\u2019d like to check your blood pressure today and examine you briefly. We may also do some blood tests to look for common causes of fatigue, like anaemia, thyroid problems, blood sugar issues, or low iron."
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Okay, that sounds reasonable. Do you think it could be the tablets?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "It\u2019s possible, but not the most likely explanation on its own. The diuretic can sometimes contribute to tiredness if it affects hydration or electrolytes, but we should not assume that without checking. Your sleep pattern and snoring also make sleep quality an important possibility."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "I see. I have been sitting a lot more lately at work too, so maybe that doesn\u2019t help."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "That may play a role as well. Based on what you\u2019ve told me, my impression is that your blood pressure follow-up is routine, and the tiredness is more likely from a mix of poor sleep, reduced activity, and possibly something medical we should screen for. The next step is to check your blood pressure, weight, and exam you today, then arrange blood tests. If those are normal, we can focus on sleep, activity, and whether your medicines need adjustment. Please seek urgent care if you develop chest pain, marked shortness of breath, fainting, severe headaches, or swelling. We can review the results and your symptoms again once the tests are back."
+    }
+  ],
+  "full_transcript": "patient: Hi doctor. I\u2019m here for my blood pressure check, but I\u2019ve also been feeling more tired than usual for the last few weeks. doctor: Good morning. Thanks for coming in. We can review both today. Tell me more about the tiredness. Is it all day, or worse at certain times? patient: Mostly all day. I get through work, but by afternoon I feel drained. It\u2019s been about three weeks now. doctor: I see. Any other symptoms with it, like fever, cough, shortness of breath, dizziness, chest pain, or weight change? patient: No fever or chest pain. Maybe a bit short of breath if I rush up stairs, but nothing major. No big weight change that I\u2019ve noticed. doctor: Okay. How have you been sleeping? And any snoring, poor sleep, or waking up unrefreshed? patient: Sleep is not great. I do wake up a few times, and I often feel tired in the morning. My husband says I snore sometimes. doctor: That\u2019s helpful. Have you had any headaches, palpitations, swelling in the legs, or changes in mood, like feeling down or stressed? patient: No swelling or palpitations. I\u2019ve been a bit stressed at work, but I wouldn\u2019t say I\u2019m depressed. doctor: Thank you. Let\u2019s also review your blood pressure medicines. Are you taking the amlodipine and hydrochlorothiazide every day? Any missed doses or side effects, like frequent urination or cramps? patient: Yes, I take them daily. I might miss one now and then, but not often. No real side effects, just maybe I go to the toilet a bit more after the water tablet. doctor: Fine. Any chance you could be pregnant? And have you had any recent illness, heavy periods, or blood loss? patient: No, I\u2019m not pregnant. My periods are still there, maybe a bit irregular, but not heavy. No bleeding or recent illness. doctor: Alright. I\u2019d like to check your blood pressure today and examine you briefly. We may also do some blood tests to look for common causes of fatigue, like anaemia, thyroid problems, blood sugar issues, or low iron. patient: Okay, that sounds reasonable. Do you think it could be the tablets? doctor: It\u2019s possible, but not the most likely explanation on its own. The diuretic can sometimes contribute to tiredness if it affects hydration or electrolytes, but we should not assume that without checking. Your sleep pattern and snoring also make sleep quality an important possibility. patient: I see. I have been sitting a lot more lately at work too, so maybe that doesn\u2019t help. doctor: That may play a role as well. Based on what you\u2019ve told me, my impression is that your blood pressure follow-up is routine, and the tiredness is more likely from a mix of poor sleep, reduced activity, and possibly something medical we should screen for. The next step is to check your blood pressure, weight, and exam you today, then arrange blood tests. If those are normal, we can focus on sleep, activity, and whether your medicines need adjustment. Please seek urgent care if you develop chest pain, marked shortness of breath, fainting, severe headaches, or swelling. We can review the results and your symptoms again once the tests are back."
+}

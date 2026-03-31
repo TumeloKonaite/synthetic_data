@@ -1,0 +1,102 @@
+{
+  "consultation_id": "consult_000047",
+  "source_record": "data\\processed\\train.jsonl:48",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I\u2019m here for my blood pressure follow-up, and I also have this dry cough that just won\u2019t go away."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Let\u2019s go through both. How have you been feeling overall, and when did the cough start exactly?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Overall I\u2019m okay. The cough started about two weeks ago. It\u2019s dry, more annoying than anything, but it keeps coming back."
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Any fever, shortness of breath, wheezing, chest pain, or coughing up mucus or blood?"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No fever. No blood. I\u2019m not short of breath. Maybe a little tickle in my throat, and it gets worse at night."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do you have a runny nose, sneezing, heartburn, or post-nasal drip? And have you had any new medicines or been around anyone sick?"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I do have allergies, so I\u2019ve been sneezing a bit. My nose is a little stuffy. No heartburn. No new medicines, and I don\u2019t think I\u2019ve been around anyone sick."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "That helps. Are you taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or headaches?"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I haven\u2019t noticed swelling or dizziness. Maybe an occasional headache, but nothing major."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Great. Have you been checking your blood pressure at home, or has it been measured elsewhere recently?"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I checked it twice at the pharmacy. It was around 132 over 84, and once 128 over 82."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Those are pretty reasonable readings. Have you had any big changes in weight, salt intake, exercise, stress, or sleep lately?"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Work has been a bit stressful, and I\u2019ve been sleeping less. I probably haven\u2019t been exercising as much either, but nothing else major."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Understood. Just to be thorough, do you smoke or vape, and do you have any history of asthma or chronic lung problems?"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I don\u2019t smoke or vape. I\u2019ve never had asthma or anything like that."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. I\u2019d like to check your blood pressure here today and listen to your chest. From what you\u2019ve told me, the cough sounds more like irritation from allergies or a post-viral cough, rather than something serious."
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "Okay, that sounds a bit reassuring. I was worried it might be something worse."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "I understand. My impression is that your blood pressure is probably reasonably controlled on the current dose, and the cough is most likely from your allergies or upper airway irritation. The next steps are to check your blood pressure in clinic today, review your chest if needed, and continue cetirizine when the allergies flare. If the cough stays dry and bothersome, we can also discuss a saline rinse or a short-term nasal spray depending on the exam."
+    },
+    {
+      "turn_id": 19,
+      "speaker": "doctor",
+      "text": "Please come back sooner if you develop fever, shortness of breath, chest pain, wheezing, coughing blood, or if the cough lasts beyond about four to six weeks. Otherwise, we can review your blood pressure and symptoms again at the next routine follow-up."
+    }
+  ],
+  "full_transcript": "patient: Hi, doctor. I\u2019m here for my blood pressure follow-up, and I also have this dry cough that just won\u2019t go away. doctor: Hello. Let\u2019s go through both. How have you been feeling overall, and when did the cough start exactly? patient: Overall I\u2019m okay. The cough started about two weeks ago. It\u2019s dry, more annoying than anything, but it keeps coming back. doctor: Any fever, shortness of breath, wheezing, chest pain, or coughing up mucus or blood? patient: No fever. No blood. I\u2019m not short of breath. Maybe a little tickle in my throat, and it gets worse at night. doctor: Do you have a runny nose, sneezing, heartburn, or post-nasal drip? And have you had any new medicines or been around anyone sick? patient: I do have allergies, so I\u2019ve been sneezing a bit. My nose is a little stuffy. No heartburn. No new medicines, and I don\u2019t think I\u2019ve been around anyone sick. doctor: That helps. Are you taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or headaches? patient: Yes, I take it daily. I haven\u2019t noticed swelling or dizziness. Maybe an occasional headache, but nothing major. doctor: Great. Have you been checking your blood pressure at home, or has it been measured elsewhere recently? patient: I checked it twice at the pharmacy. It was around 132 over 84, and once 128 over 82. doctor: Those are pretty reasonable readings. Have you had any big changes in weight, salt intake, exercise, stress, or sleep lately? patient: Work has been a bit stressful, and I\u2019ve been sleeping less. I probably haven\u2019t been exercising as much either, but nothing else major. doctor: Understood. Just to be thorough, do you smoke or vape, and do you have any history of asthma or chronic lung problems? patient: No, I don\u2019t smoke or vape. I\u2019ve never had asthma or anything like that. doctor: Thank you. I\u2019d like to check your blood pressure here today and listen to your chest. From what you\u2019ve told me, the cough sounds more like irritation from allergies or a post-viral cough, rather than something serious. patient: Okay, that sounds a bit reassuring. I was worried it might be something worse. doctor: I understand. My impression is that your blood pressure is probably reasonably controlled on the current dose, and the cough is most likely from your allergies or upper airway irritation. The next steps are to check your blood pressure in clinic today, review your chest if needed, and continue cetirizine when the allergies flare. If the cough stays dry and bothersome, we can also discuss a saline rinse or a short-term nasal spray depending on the exam. doctor: Please come back sooner if you develop fever, shortness of breath, chest pain, wheezing, coughing blood, or if the cough lasts beyond about four to six weeks. Otherwise, we can review your blood pressure and symptoms again at the next routine follow-up."
+}

@@ -79,7 +79,10 @@ def test_build_hf_text_export_writes_normalized_jsonl(tmp_path: Path) -> None:
     assert exported_row["source_record"] == "records.jsonl:1"
 
     readme = (output_dir / "README.md").read_text(encoding="utf-8")
+    assert readme.startswith("---\npretty_name: Synthetic Patient DR Data\n")
     assert "Mode: `text`" in readme
+    assert "All consultations are synthetic" in readme
+    assert "GitHub repository: https://github.com/TumeloKonaite/synthetic_data" in readme
     assert not (output_dir / "rows").exists()
 
 
@@ -120,6 +123,9 @@ def test_build_hf_audio_export_copies_completed_assets_only(tmp_path: Path) -> N
     assert (output_dir / rows[0]["audio"]["audio_manifest"]).exists()
     assert (output_dir / rows[0]["audio"]["transcript_reference"]).exists()
     assert (output_dir / ".gitattributes").exists()
+    readme = (output_dir / "README.md").read_text(encoding="utf-8")
+    assert "- text-to-speech" in readme
+    assert "retained artifact: full consultation audio only" in readme
 
 
 def test_build_hf_export_rebuilds_clean_bundle(tmp_path: Path) -> None:

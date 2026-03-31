@@ -8,6 +8,7 @@ from synthetic_consults.audio.stitcher import stitch_turn_audio
 from synthetic_consults.models.consultation_record import ConsultationRecord
 from synthetic_consults.pipelines.generate_audio_dataset import (
     build_runtime_tts_script,
+    consultation_is_complete,
     iter_record_payloads,
     run_audio_pipeline,
 )
@@ -162,6 +163,19 @@ def test_run_audio_pipeline_full_only_removes_turn_files(tmp_path: Path, monkeyp
     assert Path(manifest.full_audio_path).exists()
     assert manifest.turn_audio_paths == []
     assert not turns_dir.exists()
+
+
+def test_consultation_is_complete_requires_manifest_and_full_audio(tmp_path: Path) -> None:
+    consultation_dir = tmp_path / "consult_000123"
+    consultation_dir.mkdir(parents=True)
+
+    assert not consultation_is_complete(tmp_path, "consult_000123")
+
+    (consultation_dir / "full.wav").write_bytes(b"")
+    assert not consultation_is_complete(tmp_path, "consult_000123")
+
+    (consultation_dir / "audio_manifest.json").write_text("{}", encoding="utf-8")
+    assert consultation_is_complete(tmp_path, "consult_000123")
 
 
 def test_stitch_turn_audio_ignores_bogus_source_nframes(tmp_path: Path) -> None:

@@ -23,6 +23,7 @@ where = ["src"]
 
 [project.scripts]
 generate-audio-dataset = "synthetic_consults.pipelines.generate_audio_dataset:main"
+build-hf-export = "synthetic_consults.pipelines.build_hf_export:main"
 
 [tool.ruff]
 target-version = "py312"

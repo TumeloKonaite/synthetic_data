@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000039",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure follow-up, and I’ve also been getting headaches now and then for the last few months.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational pace, slightly hesitant at times, clear but informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. Thanks for coming in. We’ll review your blood pressure and the headaches together. Can you tell me what the headaches feel like, and how often they happen?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "They’re usually a dull ache, mostly at the back of my head or across my forehead. Maybe once or twice a week. Not every day.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational pace, slightly hesitant at times, clear but informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Do they come with nausea, blurred vision, weakness, dizziness, or anything like that? And do they wake you from sleep?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "No, none of that. They don’t wake me up. I just notice them more after a long day at work.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational pace, slightly hesitant at times, clear but informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That’s helpful. Have you noticed if they happen when your blood pressure is high, or after stress, poor sleep, or skipping meals?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "I think stress plays a part. I sit at a desk most of the day, and some weeks I don’t drink enough water. Sleep is a bit up and down too.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational pace, slightly hesitant at times, clear but informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. Are you taking your amlodipine every day as prescribed? Any side effects like swollen ankles, flushing, or palpitations?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Yes, I take it every morning. No real side effects that I’ve noticed.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational pace, slightly hesitant at times, clear but informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Good. I’d like to check your blood pressure now. Also, have you had any chest pain, shortness of breath, or leg swelling?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. My ankles are fine. I do get a bit stiff from sitting, but that’s about it.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational pace, slightly hesitant at times, clear but informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thanks. Let me ask a few general questions. How is your weight been, and what does a typical day of eating and exercise look like for you?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I know I’m a bit overweight. I try to walk a few times a week, but with work it’s not always consistent. Food is probably where I slip up, especially takeaway on busy days.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational pace, slightly hesitant at times, clear but informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "That’s very common. Any family history of high blood pressure, diabetes, stroke, or heart disease?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Yes, my mother has high blood pressure, and my father had type 2 diabetes.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational pace, slightly hesitant at times, clear but informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "All right. Your blood pressure today is a little above target, but not dangerously high. Before I explain the plan, have you had recent blood tests or a home blood pressure monitor?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "No home monitor. I had bloods done a while back, but not recently.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English accent, natural conversational pace, slightly hesitant at times, clear but informal. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Understood. My impression is that your headaches sound more like tension-type headaches, and they do not sound like an emergency today. Your blood pressure is not quite controlled yet. I’d like to check some routine blood tests, including kidney function and diabetes screening, and we should consider increasing your amlodipine if your readings stay high. I also recommend a home blood pressure monitor, regular walking, less takeaway and salt, good hydration, and better sleep where possible. If the headaches become severe, sudden, come with vision changes, weakness, chest pain, or shortness of breath, seek urgent help. Otherwise, let’s review your readings and results soon.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Warm South African English accent, calm and professional, moderate pace, clear articulation. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

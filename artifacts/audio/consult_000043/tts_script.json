@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000043",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure follow-up, and I’ve also been getting some headaches on and off.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, slightly hesitant when describing symptoms, polite and easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Good morning. We can go through both. Tell me a bit about the headaches first.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone and moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "They started about two months ago. It’s not every day, maybe a few times a week.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, slightly hesitant when describing symptoms, polite and easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Where is the pain, and what does it feel like? Is it throbbing, tight, or pressure-like?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone and moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly across my forehead and sometimes at the back of my head. It feels like pressure more than anything.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, slightly hesitant when describing symptoms, polite and easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "On a scale of one to ten, how bad does it get? And do you notice anything that brings it on, like stress, poor sleep, or missed meals?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone and moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Maybe a four or five. Work has been stressful, and I do sit at my desk most of the day. I do think it’s worse when I’m tired.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, slightly hesitant when describing symptoms, polite and easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Any nausea, blurred vision, weakness, numbness, chest pain, or shortness of breath with the headaches?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone and moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Panado usually helps.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, slightly hesitant when describing symptoms, polite and easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That is reassuring. How have your blood pressure readings been at home, if you have been checking?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone and moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "I checked a few times. It’s usually around 135 over 85, sometimes a bit higher if I’m stressed.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, slightly hesitant when describing symptoms, polite and easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Thank you. And are you taking the amlodipine every day? Any side effects like ankle swelling, dizziness, or flushing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone and moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. No major side effects. Maybe a little swelling in the evenings sometimes, but not much.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, slightly hesitant when describing symptoms, polite and easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Alright. I’d also like to ask about your lifestyle. How is your weight, exercise, salt intake, alcohol, and smoking?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone and moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I don’t smoke. I drink socially on weekends. I know I could lose a bit of weight, and I try to walk a few times a week, but not as much as I should.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, slightly hesitant when describing symptoms, polite and easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "That is helpful. Any family history of high blood pressure, diabetes, stroke, or heart disease?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone and moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "My mother has high blood pressure. My father had type 2 diabetes.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, slightly hesitant when describing symptoms, polite and easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thank you. From what you’ve described, your headaches sound more like tension-type headaches, and your blood pressure sounds fairly close to target, though we should confirm with today’s reading. I’d like to check your blood pressure here, review your weight, and consider a blood test if it is due, including kidney function and sugars. In the meantime, keep taking the amlodipine, try to reduce salt, keep walking regularly, and use simple pain relief only occasionally if needed. If the headaches become severe, sudden, are linked to blurred vision, weakness, chest pain, or a very high blood pressure reading, seek urgent care. Otherwise, let’s review your readings and symptoms again at the next follow-up.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Calm South African English with a clear, professional tone and moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

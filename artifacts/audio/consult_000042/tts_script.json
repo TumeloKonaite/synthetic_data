@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000042",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’ve had a dry cough and a bit of a sore throat for about 10 days. I thought I should get it checked before it gets worse.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, soft-spoken, mildly congested voice, natural conversational tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Of course. Let’s go through it properly. Have you had any fever, shortness of breath, chest pain, or wheezing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm female clinician, clear and professional, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "No fever. I’ve felt a little blocked up, but no chest pain. I do get a mild wheeze now and then because of my asthma, but nothing major.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, soft-spoken, mildly congested voice, natural conversational tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay. Is the cough bringing up any phlegm, or is it completely dry? And is it worse at night or when you’re active?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm female clinician, clear and professional, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "It’s mostly dry. Maybe a tiny bit of clear mucus now and then. It does seem worse at night, and sometimes when I’m talking a lot at work.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, soft-spoken, mildly congested voice, natural conversational tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That helps. Any sore throat when swallowing, blocked nose, sneezing, or itchy eyes? I’m also asking because of your allergies.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm female clinician, clear and professional, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "Yes, actually. I’ve had sneezing and itchy eyes off and on, and my nose has been a bit stuffy. The throat feels scratchy more than really painful.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, soft-spoken, mildly congested voice, natural conversational tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Have you noticed any wheezing needing your salbutamol more often, or any tightness in the chest? Also, have you tested for COVID recently or been around anyone unwell at school?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm female clinician, clear and professional, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "I used my inhaler once or twice this week, but not a lot. No chest tightness. A few children at school have had colds, and I haven’t done a COVID test.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, soft-spoken, mildly congested voice, natural conversational tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Understood. Have you had any difficulty breathing at rest, coughing up blood, high fever, or feeling very unwell?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm female clinician, clear and professional, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No, none of that. I’m just a bit tired from the coughing, but otherwise okay.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, soft-spoken, mildly congested voice, natural conversational tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Do you smoke, or have you started any new medicines, sprays, or home remedies? And are you taking cetirizine regularly at the moment?",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm female clinician, clear and professional, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "I don’t smoke. No new medicines. I’ve taken cetirizine a few times, but not every day. I’ve been drinking warm tea and using lozenges.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, soft-spoken, mildly congested voice, natural conversational tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. From what you’ve told me, this sounds most likely like a viral upper respiratory infection or allergies irritating your throat and airways, with a mild asthma component. I’d like to examine your throat, chest, and check your oxygen level now.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm female clinician, clear and professional, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "Okay, that sounds fine. I was wondering if it could be something more serious.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, soft-spoken, mildly congested voice, natural conversational tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "At the moment, it doesn’t sound like anything dangerous, but I do want to be careful because of your asthma. After the exam, we can decide if you need anything stronger than simple symptom relief.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm female clinician, clear and professional, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "That would be good. I just want to make sure I’m not missing anything.",
+      "voice_id": "verse",
+      "style": "Voice profile: South African English, adult female, soft-spoken, mildly congested voice, natural conversational tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "That makes sense. Based on your history, I’d suggest regular cetirizine for a few days, fluids, honey or lozenges for the throat, and using your salbutamol only if you feel wheezy. If your chest exam is clear, we likely won’t need antibiotics. Please come back sooner if you develop fever, shortness of breath, chest pain, worsening wheeze, or if the cough lasts more than another couple of weeks. Otherwise, we can review how you’re doing after the exam and again if it is not settling.",
+      "voice_id": "alloy",
+      "style": "Voice profile: South African English, calm female clinician, clear and professional, moderate pace. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

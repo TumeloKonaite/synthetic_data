@@ -97,6 +97,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Keep only full.wav after stitching and remove intermediate turn audio files.",
     )
+    parser.add_argument(
+        "--skip-existing",
+        action="store_true",
+        help="Skip consultations that already have both full.wav and audio_manifest.json.",
+    )
 
     return parser.parse_args()
 
@@ -185,6 +190,14 @@ def iter_record_payloads(
 
 def load_consultation_record(payload: dict) -> ConsultationRecord:
     return ConsultationRecord.model_validate(payload)
+
+
+def consultation_is_complete(output_dir: Path, consultation_id: str) -> bool:
+    consultation_dir = output_dir / consultation_id
+    return (
+        (consultation_dir / "full.wav").exists()
+        and (consultation_dir / "audio_manifest.json").exists()
+    )
 
 
 def _default_voice_for_speaker(speaker: str, tts_config: dict) -> str:
@@ -363,6 +376,15 @@ def main() -> int:
                 print(f"[INFO] ({idx}/{total}) Loading {record_ref}")
 
             record_obj = load_consultation_record(payload)
+            if args.skip_existing and consultation_is_complete(
+                args.output_dir,
+                record_obj.conversation_id,
+            ):
+                print(
+                    f"[SKIP] ({idx}/{total}) {record_obj.conversation_id} already has full audio."
+                )
+                continue
+
             manifest = run_audio_pipeline(
                 record_obj=record_obj,
                 record_path=record_ref,

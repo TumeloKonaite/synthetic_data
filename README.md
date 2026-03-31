@@ -32,7 +32,6 @@ When the audio pipeline runs successfully, it writes:
 - `data/processed/train.jsonl` currently contains 50 synthetic consultation records
 - `artifacts/audio/` already contains generated audio outputs for a subset of those records
 - The committed audio summary shows 37 successful audio generations and 1 failure caused by OpenAI quota exhaustion
-- Some export-related scripts are present as placeholders and are not yet implemented end to end
 
 ## Project Layout
 
@@ -40,8 +39,6 @@ When the audio pipeline runs successfully, it writes:
 configs/                     YAML config files
 data/processed/              Generated structured consultation records
 artifacts/audio/             Generated audio outputs and summary files
-prompts/                     Prompt templates for generation steps
-schemas/                     JSON schema and examples
 scripts/                     Top-level helper scripts
 src/synthetic_consults/
   generators/                Scenario, conversation, critic, revision, extraction
@@ -146,14 +143,6 @@ Current defaults:
   - doctor: `alloy`
   - patient: `verse`
 
-### Other config files
-
-- `configs/generation.yaml`
-- `configs/dataset_split.yaml`
-- `configs/validation.yaml`
-
-These are present for future extension, but the current text generation script mainly relies on code-defined defaults and prompt files.
-
 ## Data Model Summary
 
 The core record type is `ConsultationRecord`, which includes:
@@ -199,8 +188,38 @@ Relevant test coverage already exists for:
 - Validators
 - TTS script building
 - Audio stitching
-- Export-related scaffolding
+- HF export bundle generation
 - End-to-end audio dataset generation behavior
+
+## Export To Hugging Face
+
+Build a local HF-ready text export:
+
+```bash
+uv run build-hf-export --record data/processed/train.jsonl --output-dir artifacts/hf_export_text --mode text
+```
+
+Build an audio export that only includes consultations with completed audio artifacts:
+
+```bash
+uv run build-hf-export --record data/processed/train.jsonl --output-dir artifacts/hf_export_audio --mode audio --audio-root artifacts/audio
+```
+
+Optional upload to the Hugging Face Hub:
+
+```bash
+uv pip install huggingface_hub
+$env:HF_TOKEN="your-hf-token"
+uv run build-hf-export --record data/processed/train.jsonl --output-dir artifacts/hf_export_audio --mode audio --audio-root artifacts/audio --repo-id your-org/synthetic-patient-dr-data --push
+```
+
+Important flags:
+
+- `--mode text|audio`: export text-only rows or only consultations with completed audio
+- `--audio-root`: location of generated audio artifacts for audio exports
+- `--repo-id`: Hugging Face dataset repo id when using `--push`
+- `--private`: create the target HF dataset repo as private
+- `--push`: upload the export bundle after building it
 
 ## Linting
 
@@ -230,8 +249,6 @@ Example generated audio artifacts:
 
 ## Known Gaps
 
-- `scripts/export_to_hf.py` is currently empty
-- `src/synthetic_consults/pipelines/build_hf_export.py` is currently empty
 - The current audio generation summary shows quota-related failures when OpenAI usage limits are hit
 
 ## Notes

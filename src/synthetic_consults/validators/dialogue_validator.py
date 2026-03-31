@@ -1,14 +1,18 @@
 from __future__ import annotations
 
+from collections.abc import Sequence
+
 from synthetic_consults.models.consultation_record import ConsultationRecord
+from synthetic_consults.models.conversation import ConversationTurn
 
 
 class DialogueValidationError(ValueError):
     pass
 
 
-def validate_dialogue(record: ConsultationRecord) -> None:
-    turns = record.conversation
+def validate_dialogue_turns(turns: Sequence[ConversationTurn]) -> None:
+    if not turns:
+        raise DialogueValidationError("Conversation must contain at least 1 turn.")
 
     if len(turns) < 10:
         raise DialogueValidationError("Conversation must contain at least 10 turns.")
@@ -34,3 +38,7 @@ def validate_dialogue(record: ConsultationRecord) -> None:
             raise DialogueValidationError(
                 f"Turn {turn.turn_id} is too long for natural spoken dialogue."
             )
+
+
+def validate_dialogue(record: ConsultationRecord) -> None:
+    validate_dialogue_turns(record.conversation)

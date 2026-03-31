@@ -20,6 +20,7 @@ from synthetic_consults.models.consultation_record import (
 )
 from synthetic_consults.models.scenario import Scenario
 from synthetic_consults.models.transcript import TranscriptArtifact, TranscriptReference
+from synthetic_consults.validators.dialogue_validator import validate_dialogue_turns
 
 
 def build_record(conversation_id: str) -> ConsultationRecord:
@@ -46,7 +47,7 @@ def build_record(conversation_id: str) -> ConsultationRecord:
     conversation = conversation_generator.generate(scenario)
 
     # --- 3. Validate early ---
-    validate_dialogue_stub_safe(conversation)
+    validate_dialogue_turns(conversation)
 
     # --- 4. Critic ---
     quality = critic.generate(
@@ -87,7 +88,7 @@ def build_record(conversation_id: str) -> ConsultationRecord:
             scenario_model="gpt-5.4-mini",
             conversation_model="gpt-5.4-mini",
             extraction_model="gpt-5.4-mini",
-            tts_provider="pending",
+            tts_provider="openai",
             tts_config_version="v1",
         ),
         locale=LocaleInfo(
@@ -128,9 +129,3 @@ def build_record(conversation_id: str) -> ConsultationRecord:
     )
 
     return record
-
-
-# --- Temporary validator wrapper (until you adapt your validator signature) ---
-def validate_dialogue_stub_safe(conversation):
-    if len(conversation) < 10:
-        raise ValueError("Conversation too short (<10 turns)")

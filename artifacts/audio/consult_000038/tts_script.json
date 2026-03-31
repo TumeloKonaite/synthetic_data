@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000038",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi doctor. I’m here for my blood pressure check, but I’ve also been feeling a bit tired lately.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first, becomes relaxed when reassured.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. Let’s go through both issues. How long have you been feeling tired?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English speaker, calm professional tone, clear paced speech, neutral to warm bedside manner.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "Maybe about two months. It’s not terrible, just more than usual.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first, becomes relaxed when reassured.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "I see. Is the tiredness there all day, or mainly after work? And are you sleeping okay?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English speaker, calm professional tone, clear paced speech, neutral to warm bedside manner.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "Mostly after work. I do sleep, but not always enough. My office is busy, so I’m often on the go.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first, becomes relaxed when reassured.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "That makes sense. Any other symptoms, like fever, cough, shortness of breath, chest pain, palpitations, dizziness, or weight change?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English speaker, calm professional tone, clear paced speech, neutral to warm bedside manner.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No chest pain or anything like that. I do feel a bit out of breath if I rush, but I think that is just being unfit. No fever or dizziness.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first, becomes relaxed when reassured.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "Okay. Any heavy periods, low mood, headaches, snoring, or waking up unrefreshed?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English speaker, calm professional tone, clear paced speech, neutral to warm bedside manner.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "My periods are normal. I do snore a little, my husband says, and I wake up tired sometimes. Mood is okay.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first, becomes relaxed when reassured.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "Thank you. Let’s talk about your blood pressure. Are you taking the amlodipine every day? Any missed doses or side effects, like ankle swelling or flushing?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English speaker, calm professional tone, clear paced speech, neutral to warm bedside manner.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "Yes, I take it daily. I may have missed one or two doses, but not often. I haven’t noticed swelling.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first, becomes relaxed when reassured.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Have you checked your blood pressure at home or elsewhere recently?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English speaker, calm professional tone, clear paced speech, neutral to warm bedside manner.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Not at home. The last time at the pharmacy it was a bit high, but I can’t remember the number.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first, becomes relaxed when reassured.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Alright. I’d like to check your blood pressure today and review your weight and general exam. Before that, do you smoke, drink much alcohol, or use any herbal remedies or pain tablets often?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English speaker, calm professional tone, clear paced speech, neutral to warm bedside manner.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "I don’t smoke. I drink alcohol only occasionally. I do take panado sometimes for headaches, but not often. No herbs.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first, becomes relaxed when reassured.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Thank you. And just to check, any family history of diabetes, heart disease, or stroke?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English speaker, calm professional tone, clear paced speech, neutral to warm bedside manner.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "My mother has high blood pressure, and my father had type 2 diabetes.",
+      "voice_id": "verse",
+      "style": "Voice profile: Female South African English speaker, natural conversational pace, mildly anxious at first, becomes relaxed when reassured.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Thanks. Based on what you’ve told me, the tiredness may be related to poor sleep, work stress, weight, or possibly something like anaemia, thyroid issues, or even sleep apnoea. Your blood pressure also needs a proper review today. I’m going to check your readings now, and if needed we can do blood tests for things like full blood count, iron, thyroid, sugar, and kidney function. For now, keep taking the amlodipine, try to improve sleep and regular walking, and we’ll see whether the dose or treatment needs adjustment after today’s results. If you develop chest pain, severe shortness of breath, fainting, or a very bad headache, please seek urgent care. Otherwise, let’s examine you and then we’ll plan the next step together.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female South African English speaker, calm professional tone, clear paced speech, neutral to warm bedside manner.. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}

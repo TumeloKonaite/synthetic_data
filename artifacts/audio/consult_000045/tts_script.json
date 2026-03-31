@@ -1,0 +1,173 @@
+{
+  "consultation_id": "consult_000045",
+  "locale": "en-ZA",
+  "model": "gpt-4o-mini-tts",
+  "format": "wav",
+  "sample_rate": 16000,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "patient",
+      "text": "Hi, doctor. I’m here for my blood pressure follow-up, and I’ve also been getting these odd headaches.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged woman with a South African English accent, speaking plainly and a little cautiously, but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 2,
+      "speaker": "doctor",
+      "text": "Hello. Thanks for coming in. Let’s talk through both. How have your blood pressure readings been at home, if you’ve been checking them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm South African English accent, clear pacing, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 3,
+      "speaker": "patient",
+      "text": "I have been checking, yes. They’re usually around 135 over 85, sometimes a bit higher when I’m stressed.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged woman with a South African English accent, speaking plainly and a little cautiously, but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 4,
+      "speaker": "doctor",
+      "text": "Okay, that is helpful. And the headaches, when did they start, and where do you feel them?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm South African English accent, clear pacing, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 5,
+      "speaker": "patient",
+      "text": "About two weeks ago. It’s not every day. Mostly a dull ache across my forehead, sometimes at the back of my head.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged woman with a South African English accent, speaking plainly and a little cautiously, but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 6,
+      "speaker": "doctor",
+      "text": "Do they come with anything else, like blurred vision, nausea, vomiting, weakness, numbness, or trouble speaking?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm South African English accent, clear pacing, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 7,
+      "speaker": "patient",
+      "text": "No, none of that. Just the headache. Maybe a bit more tired, but I think that’s from work.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged woman with a South African English accent, speaking plainly and a little cautiously, but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 8,
+      "speaker": "doctor",
+      "text": "All right. How bad is the pain on a scale of zero to ten, and what seems to bring it on or make it better?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm South African English accent, clear pacing, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 9,
+      "speaker": "patient",
+      "text": "Maybe a four out of ten. It’s worse after a long day at the computer. Rest helps, and sometimes paracetamol does.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged woman with a South African English accent, speaking plainly and a little cautiously, but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 10,
+      "speaker": "doctor",
+      "text": "That sounds more like a tension-type headache, but I want to check a few things. Have you had any chest pain, shortness of breath, swelling in the legs, or very high readings lately?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm South African English accent, clear pacing, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 11,
+      "speaker": "patient",
+      "text": "No chest pain or shortness of breath. No swelling. The highest I’ve seen was about 145 over 90, but not often.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged woman with a South African English accent, speaking plainly and a little cautiously, but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 12,
+      "speaker": "doctor",
+      "text": "Good. Are you taking the amlodipine every day, and have you missed any doses?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm South African English accent, clear pacing, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 13,
+      "speaker": "patient",
+      "text": "Mostly yes. I’ve missed one or two doses in the last month, but not many.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged woman with a South African English accent, speaking plainly and a little cautiously, but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 14,
+      "speaker": "doctor",
+      "text": "Thanks. Any side effects from it, like ankle swelling, flushing, dizziness, or palpitations?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm South African English accent, clear pacing, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 15,
+      "speaker": "patient",
+      "text": "No, I don’t think so. I’ve been fine on it.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged woman with a South African English accent, speaking plainly and a little cautiously, but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 16,
+      "speaker": "doctor",
+      "text": "Let’s also look at lifestyle a bit. How is your salt intake, exercise, sleep, and alcohol on weekends?",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm South African English accent, clear pacing, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 17,
+      "speaker": "patient",
+      "text": "I probably eat too much salty food, to be honest. I walk a few times a week, but my job is mostly sitting. Sleep is okay. I do have a few drinks on weekends, but not a lot.",
+      "voice_id": "verse",
+      "style": "Voice profile: Middle-aged woman with a South African English accent, speaking plainly and a little cautiously, but easy to understand. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    },
+    {
+      "turn_id": 18,
+      "speaker": "doctor",
+      "text": "Understood. Based on what you’ve told me, your blood pressure is close to goal, but not quite ideal. The headaches sound more likely related to tension, screen strain, or stress than to something dangerous. I’d like to check your blood pressure here today, review your home readings, and then discuss whether we should continue the same dose or adjust it. We should also work on salt, regular walking, and taking the tablets consistently. If the headaches become sudden and severe, or you get vision changes, weakness, chest pain, or breathlessness, you should seek urgent care. Otherwise, we can plan follow-up after today’s measurements and a review of your readings.",
+      "voice_id": "alloy",
+      "style": "Voice profile: Female doctor with a calm South African English accent, clear pacing, warm and professional tone. Style: neutral.",
+      "pace": "normal",
+      "pause_after_sec": 0.5
+    }
+  ],
+  "synthetic_version": "v1",
+  "tts_config_version": "v1"
+}
